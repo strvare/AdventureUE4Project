@@ -1,0 +1,1403 @@
+﻿Log file open, 04/03/18 19:45:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1187641) SRandInit(-1187641).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205215
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.03-17.45.30:127][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-17.45.30:128][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.03-17.45.30:143][  0]LogInit: Computer: MR_E-DATOR
+[2018.04.03-17.45.30:143][  0]LogInit: User: MrE
+[2018.04.03-17.45.30:143][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.03-17.45.30:143][  0]LogInit: High frequency timer resolution =3.233221 MHz
+[2018.04.03-17.45.30:143][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.03-17.45.30:143][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.03-17.45.30:143][  0]LogMemory: Process Physical Memory: 275.30 MB used, 275.30 MB peak
+[2018.04.03-17.45.30:143][  0]LogMemory: Process Virtual Memory: 271.82 MB used, 271.82 MB peak
+[2018.04.03-17.45.30:143][  0]LogMemory: Physical Memory: 5149.99 MB used,  3009.14 MB free, 8159.14 MB total
+[2018.04.03-17.45.30:143][  0]LogMemory: Virtual Memory: 679.39 MB used,  3009.14 MB free, 134217728.00 MB total
+[2018.04.03-17.45.30:287][  0]LogInit: Using OS detected language (sv-SE).
+[2018.04.03-17.45.30:287][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.04.03-17.45.30:291][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.04.03-17.45.30:292][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.04.03-17.45.30:742][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.03-17.45.31:053][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.03-17.45.31:117][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.03-17.45.31:117][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.03-17.45.31:120][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.03-17.45.31:120][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.03-17.45.31:120][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.03-17.45.31:127][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.03-17.45.31:127][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.03-17.45.31:127][  0]LogWindows: EnumDisplayDevices:
+[2018.04.03-17.45.31:127][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.03-17.45.31:127][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.03-17.45.31:127][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.03-17.45.31:128][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.03-17.45.31:128][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.03-17.45.31:128][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.03-17.45.31:128][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.03-17.45.31:128][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.03-17.45.31:128][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.03-17.45.31:170][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.03-17.45.31:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.03-17.45.31:237][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/8184/).
+[2018.04.03-17.45.31:237][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/9817D9FE4FB6025D9F5C9496AEC3B0D6/'.
+[2018.04.03-17.45.31:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.03-17.45.32:421][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.03-17.45.32:474][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.03-17.45.32:528][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.03-17.45.32:583][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.03-17.45.32:637][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.03-17.45.32:691][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.03-17.45.32:744][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.03-17.45.32:799][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.03-17.45.32:845][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.03-17.45.32:896][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.03-17.45.32:947][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.03-17.45.32:997][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.03-17.45.33:048][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.03-17.45.33:098][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.03-17.45.33:201][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.03-17.45.33:201][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.03-17.45.33:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.03-17.45.33:291][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.03-17.45.33:383][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.03-17.45.33:412][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.03-17.45.33:464][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.03-17.45.33:514][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.03-17.45.33:566][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.03-17.45.33:617][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.03-17.45.33:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.03-17.45.34:156][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.03-17.45.34:244][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.03-17.45.34:263][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.03-17.45.34:277][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.03-17.45.34:289][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.03-17.45.34:290][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.03-17.45.34:291][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-17.45.34:291][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-17.45.34:865][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-17.45.35:249][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.03-17.45.35:291][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.03-17.45.35:291][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.03-17.45.35:291][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.03-17.45.35:291][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.03-17.45.35:291][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.03-17.45.35:344][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.04.03-17.45.35:527][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.04.03-17.45.36:089][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.040748 seconds
+[2018.04.03-17.45.36:095][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.03-17.45.36:095][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.03-17.45.36:095][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.03-17.45.36:148][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.03-17.45.41:037][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.03-17.45.41:098][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.03-17.45.41:968][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.03-17.45.42:473][  0]SourceControl: Source control is disabled
+[2018.04.03-17.45.43:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.03-17.45.44:087][  0]LogOcInput: OculusInput pre-init called
+[2018.04.03-17.45.44:436][  0]LogEngine: Initializing Engine...
+[2018.04.03-17.45.44:442][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.04.03-17.45.44:700][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.03-17.45.44:700][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.03-17.45.44:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.03-17.45.44:865][  0]LogInit: XAudio2 using 'Hörlurar (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.03-17.45.44:905][  0]LogInit: FAudioDevice initialized.
+[2018.04.03-17.45.45:016][  0]LogDerivedDataCache: Saved boot cache 0.11s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.03-17.45.45:037][  0]LogInit: Texture streaming: Enabled
+[2018.04.03-17.45.45:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.03-17.45.45:276][  0]LogInit: Transaction tracking system initialized
+[2018.04.03-17.45.45:584][  0]BlueprintLog: New page: Editor Load
+[2018.04.03-17.45.46:471][  0]LocalizationService: Localization service is disabled
+[2018.04.03-17.45.47:299][  0]LogConsoleResponse: Display: 
+[2018.04.03-17.45.47:503][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.03-17.45.47:503][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.03-17.45.47:503][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.03-17.45.48:171][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.05s
+[2018.04.03-17.45.49:033][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-17.45.49:033][  0]LightingResults: New page: Lighting Build
+[2018.04.03-17.45.49:074][  0]MapCheck: New page: Map Check
+[2018.04.03-17.45.49:074][  0]LightingResults: New page: Lighting Build
+[2018.04.03-17.45.49:429][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-17.45.49:429][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.03-17.45.49:429][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.03-17.45.49:511][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-17.45.49:511][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.03-17.45.49:511][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.03-17.45.49:731][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-17.45.49:731][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-17.45.49:732][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-17.45.49:732][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-17.45.49:820][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-17.45.49:820][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.03-17.45.49:820][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-17.45.49:820][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.03-17.45.50:217][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.03-17.45.50:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-17.45.50:310][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-17.45.50:383][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.646ms to complete.
+[2018.04.03-17.45.50:383][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.350
+[2018.04.03-17.45.50:460][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.03-17.45.50:565][  0]LogCollectionManager: Loaded 0 collections in 0.003199 seconds
+[2018.04.03-17.45.50:652][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.04.03-17.45.50:652][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.04.03-17.45.50:652][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.04.03-17.45.50:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.03-17.45.50:663][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2363 classes and 519 folders.
+[2018.04.03-17.45.50:728][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.03-17.45.51:097][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.03-17.45.51:140][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.03-17.45.51:220][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.03-17.45.51:222][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.03-17.45.51:228][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.03-17.45.51:356][  0]LogRenderer: Reallocating scene render targets to support 1180x664 Format 10 NumSamples 1 (Frame:1).
+[2018.04.03-17.45.51:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.03-17.45.51:598][  0]LogLoad: (Engine Initialization) Total time: 25.74 seconds
+[2018.04.03-17.45.51:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.03-17.45.51:598][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.03-17.45.51:598][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.03-17.45.51:640][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.03-17.45.51:706][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-17.45.51:864][  2]LogAssetRegistry: Asset discovery search completed in 16.3597 seconds
+[2018.04.03-17.45.51:867][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.03-17.45.51:867][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.04.03-17.45.54:628][289]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-17.45.55:305][352]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-17.45.55:499][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:500][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap.
+[2018.04.03-17.45.55:500][352]LoadErrors: Error: /Game/Scenes/roadSideScene : Can't find file for asset. /Game/Linda_Models/Bush/Bush_Complete
+[2018.04.03-17.45.55:713][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:714][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap.
+[2018.04.03-17.45.55:849][352]LogTexture: Display: Building textures: Grass_02_BaseColor (AutoDXT, 1024X512)
+[2018.04.03-17.45.55:850][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:850][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by InstancedFoliageActor_0
+[2018.04.03-17.45.55:850][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:852][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:852][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by FoliageType_InstancedStaticMesh_8
+[2018.04.03-17.45.55:852][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:939][352]LogTexture: Display: Building textures: Grass_03_BaseColor (AutoDXT, 1024X512)
+[2018.04.03-17.45.55:940][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:940][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete10
+[2018.04.03-17.45.55:940][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:941][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:941][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete11
+[2018.04.03-17.45.55:941][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:942][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:942][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete12
+[2018.04.03-17.45.55:942][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:942][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:942][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete2
+[2018.04.03-17.45.55:942][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:943][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:943][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete3_19
+[2018.04.03-17.45.55:943][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:943][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:943][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete4
+[2018.04.03-17.45.55:943][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:943][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:944][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete5
+[2018.04.03-17.45.55:944][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:944][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:944][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete6
+[2018.04.03-17.45.55:944][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:944][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:944][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete7
+[2018.04.03-17.45.55:944][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:945][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:945][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete8
+[2018.04.03-17.45.55:945][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:945][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:945][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete9
+[2018.04.03-17.45.55:945][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:946][352]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-17.45.55:946][352]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete_12
+[2018.04.03-17.45.55:946][352]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-17.45.55:997][352]LogStaticMesh: Building static mesh Grass_02...
+[2018.04.03-17.45.56:002][352]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Grass/Grass_02.Grass_02
+[2018.04.03-17.45.56:197][352]LogStaticMesh: Building static mesh Grass_03...
+[2018.04.03-17.45.56:201][352]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Grass/Grass_03.Grass_03
+[2018.04.03-17.45.56:368][352]LogMeshUtilities: Finished distance field build in 0.2s - 13x12x16 distance field, 80 triangles, Range [-0.2, 0.9], Grass_02
+[2018.04.03-17.45.56:429][352]LogMeshUtilities: Finished distance field build in 0.1s - 12x11x15 distance field, 56 triangles, Range [-0.2, 0.9], Grass_03
+[2018.04.03-17.45.57:057][352]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.491 s
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: 
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 781]
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: Container has changed during ranged-for iteration!
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: Stack: 
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008BFC2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008BD6123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008BD7B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008F845855 UE4Editor-Foliage.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B80E8FD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B834CC8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B80E86C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B8CDABC UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B8E5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B8E4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B8FB0C3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B905A3A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000008B9051B2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000675D27A7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000006771667F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000676C86E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000676CFF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000067720FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000676C6C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000676CED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x00000000676CCA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000006772DB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000006772120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000085F47ADE UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000085F17CEE UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000085FB0B84 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000085F9A492 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x0000000085F8CEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000009FCCE4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000009FCC1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-17.45.57:057][352]LogOutputDevice: Error: [Callstack] 0x000000009FCD03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x000000009FCBD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000C428B85D USER32.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000C428B1EF USER32.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x000000009FCD1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000650650C8 UE4Editor.exe!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x0000000065075430 UE4Editor.exe!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000650754AA UE4Editor.exe!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x0000000065082379 UE4Editor.exe!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x0000000065083D57 UE4Editor.exe!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000C69A1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: [Callstack] 0x00000000C6D2EFC1 ntdll.dll!UnknownFunction []
+[2018.04.03-17.45.57:058][352]LogOutputDevice: Error: 
+[2018.04.03-17.45.57:063][352]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.03-17.45.57:851][352]LogStats:                    SendNewReport -  0.788 s
+[2018.04.03-17.45.57:851][352]LogStats:             FDebug::EnsureFailed -  1.285 s
+[2018.04.03-17.45.58:010][352]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.03-17.45.58:155][352]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.03-17.45.58:181][352]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-17.45.58:181][352]LightingResults: New page: Lighting Build
+[2018.04.03-17.45.58:182][352]LoadErrors: New page: Loading map: roadSideScene.umap
+[2018.04.03-17.45.58:184][352]MapCheck: New page: Map Check
+[2018.04.03-17.45.58:184][352]LightingResults: New page: Lighting Build
+[2018.04.03-17.45.58:202][352]LogMaterial: Warning: Material /Game/Linda_Models/Grass/Grass_02_mat.Grass_02_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-17.45.58:211][352]LogMaterial: Missing cached shader map for material Grass_02_mat, compiling. 
+[2018.04.03-17.45.58:359][352]MapCheck: Warning: Grass_02_mat Material /Game/Linda_Models/Grass/Grass_02_mat.Grass_02_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-17.45.58:362][352]LogMaterial: Warning: Material /Game/Linda_Models/Grass/Grass_03_mat.Grass_03_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-17.45.58:365][352]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-17.45.58:470][352]MapCheck: Warning: Grass_03_mat Material /Game/Linda_Models/Grass/Grass_03_mat.Grass_03_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-17.45.58:471][352]LogMaterial: Warning: Material /Game/Linda_Models/Grass/Grass_01_mat.Grass_01_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-17.45.58:474][352]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.45.58:581][352]MapCheck: Warning: Grass_01_mat Material /Game/Linda_Models/Grass/Grass_01_mat.Grass_01_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-17.45.58:582][352]LogMaterial: Warning: Material /Game/Linda_Models/ElmTree/Elm_Tree_01_mat.Elm_Tree_01_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-17.45.58:585][352]LogMaterial: Missing cached shader map for material Elm_Tree_01_mat, compiling. 
+[2018.04.03-17.45.58:679][352]MapCheck: Warning: Elm_Tree_01_mat Material /Game/Linda_Models/ElmTree/Elm_Tree_01_mat.Elm_Tree_01_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-17.45.59:024][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-17.45.59:086][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-17.45.59:174][352]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 88.758ms to complete.
+[2018.04.03-17.45.59:185][352]LogFileHelpers: Loading map 'roadSideScene' took 1.005
+[2018.04.03-17.45.59:204][352]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 7.58s
+[2018.04.03-17.45.59:291][353]LogStaticMesh: Allocated 512x235x64 distance field atlas = 14.7Mb, with 76 objects containing 7.3Mb backing data
+[2018.04.03-17.46.14:618][215]AssetReimport: New page: Outstanding source content changes 9:46:14 PM
+[2018.04.03-17.46.14:682][216]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01.fbx)
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: Model, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.04.03-17.46.14:696][216]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.03-17.46.14:704][216]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01.fbx
+[2018.04.03-17.46.14:738][216]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.23:019][216]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01.fbx
+[2018.04.03-17.46.23:045][216]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.23:058][216]LogLinker: Can't find file '/Game/Linda_Models/Pine/PineLeaves_01_mat'
+[2018.04.03-17.46.23:058][216]LogLinker: Can't find file '/Game/Linda_Models/Pine/PineLeaves_01_mat'
+[2018.04.03-17.46.23:106][216]LogLinker: Can't find file '/Game/Linda_Models/Pine/PineLeaves_01_BaseColor'
+[2018.04.03-17.46.23:106][216]LogLinker: Can't find file '/Game/Linda_Models/Pine/PineLeaves_01_BaseColor'
+[2018.04.03-17.46.29:567][216]LogMaterial: Missing cached shader map for material PineLeaves_01_mat, compiling. 
+[2018.04.03-17.46.29:705][216]LogStaticMesh: Building static mesh PineLeaves_01...
+[2018.04.03-17.46.29:900][216]LogStaticMesh: Built static mesh [0.20s] /Game/Linda_Models/Pine/PineLeaves_01.PineLeaves_01
+[2018.04.03-17.46.30:494][216]LogMeshUtilities: Finished distance field build in 0.6s - 36x35x56 distance field, 7348 triangles, Range [1.0, 1.0], PineLeaves_01
+[2018.04.03-17.46.30:539][217]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01.fbx)
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: Model, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.04.03-17.46.30:544][217]LogFbx: ItemName: Video, ItemCount : 1
+[2018.04.03-17.46.30:549][217]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01.fbx
+[2018.04.03-17.46.30:585][217]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.45:781][217]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01.fbx
+[2018.04.03-17.46.45:806][217]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.45:807][217]LogLinker: Can't find file '/Game/Linda_Models/Pine/Pine_01_mat'
+[2018.04.03-17.46.45:807][217]LogLinker: Can't find file '/Game/Linda_Models/Pine/Pine_01_mat'
+[2018.04.03-17.46.45:810][217]LogLinker: Can't find file '/Game/Linda_Models/Pine/Pine_01_BaseColor'
+[2018.04.03-17.46.45:810][217]LogLinker: Can't find file '/Game/Linda_Models/Pine/Pine_01_BaseColor'
+[2018.04.03-17.46.46:583][217]LogMaterial: Missing cached shader map for material Pine_01_mat, compiling. 
+[2018.04.03-17.46.46:668][217]LogStaticMesh: Building static mesh Pine_01...
+[2018.04.03-17.46.46:808][217]LogStaticMesh: Built static mesh [0.14s] /Game/Linda_Models/Pine/Pine_01.Pine_01
+[2018.04.03-17.46.50:493][217]LogMeshUtilities: Finished distance field build in 3.7s - 41x41x64 distance field, 7385 triangles, Range [-0.0, 1.0], Pine_01
+[2018.04.03-17.46.50:561][218]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_normal.png)
+[2018.04.03-17.46.50:880][219]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_OcclusionRoughnessMetallic.png)
+[2018.04.03-17.46.52:211][220]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01.fbx]
+[2018.04.03-17.46.52:219][220]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01.fbx
+[2018.04.03-17.46.52:249][220]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.52:275][220]LogStaticMesh: Building static mesh BushLeaves_01...
+[2018.04.03-17.46.52:302][220]LogStaticMesh: Built static mesh [0.03s] /Game/Linda_Models/Bush/BushLeaves_01.BushLeaves_01
+[2018.04.03-17.46.52:336][220]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.53:003][220]LogMeshUtilities: Finished distance field build in 0.7s - 27x23x17 distance field, 776 triangles, Range [-0.1, 0.9], BushLeaves_01
+[2018.04.03-17.46.53:031][221]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_BaseColor.png]
+[2018.04.03-17.46.53:034][221]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_BaseColor.png)
+[2018.04.03-17.46.53:845][221]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.53:902][222]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_Mask.png]
+[2018.04.03-17.46.53:914][222]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_Mask.png)
+[2018.04.03-17.46.54:069][222]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.56:107][223]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01.fbx]
+[2018.04.03-17.46.56:116][223]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01.fbx
+[2018.04.03-17.46.56:126][223]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.56:139][223]LogStaticMesh: Building static mesh Bush_01...
+[2018.04.03-17.46.56:182][223]LogStaticMesh: Built static mesh [0.04s] /Game/Linda_Models/Bush/Bush_01.Bush_01
+[2018.04.03-17.46.56:208][223]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.56:424][223]LogMeshUtilities: Finished distance field build in 0.2s - 21x17x16 distance field, 2000 triangles, Range [-0.0, 1.0], Bush_01
+[2018.04.03-17.46.56:441][224]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_BaseColor.png]
+[2018.04.03-17.46.56:461][224]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_BaseColor.png)
+[2018.04.03-17.46.57:612][224]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.57:652][225]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_Normal.png]
+[2018.04.03-17.46.57:659][225]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_Normal.png)
+[2018.04.03-17.46.57:947][225]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.57:986][226]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_OcclusionRoughnessMetallic.png]
+[2018.04.03-17.46.57:998][226]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_OcclusionRoughnessMetallic.png)
+[2018.04.03-17.46.58:319][226]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.58:354][227]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01.fbx]
+[2018.04.03-17.46.58:362][227]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01.fbx
+[2018.04.03-17.46.58:387][227]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.58:392][227]LogStaticMesh: Building static mesh Grass_01...
+[2018.04.03-17.46.58:397][227]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Grass/Grass_01.Grass_01
+[2018.04.03-17.46.58:417][227]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.58:505][227]LogMeshUtilities: Finished distance field build in 0.1s - 11x10x15 distance field, 134 triangles, Range [-0.1, 0.8], Grass_01
+[2018.04.03-17.46.58:518][228]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_BaseColor.png]
+[2018.04.03-17.46.58:526][228]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_BaseColor.png)
+[2018.04.03-17.46.58:988][228]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.59:024][229]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_Mask.png]
+[2018.04.03-17.46.59:027][229]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_Mask.png)
+[2018.04.03-17.46.59:207][229]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.59:244][230]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02.fbx]
+[2018.04.03-17.46.59:252][230]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02.fbx
+[2018.04.03-17.46.59:279][230]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.46.59:284][230]LogStaticMesh: Building static mesh Grass_02...
+[2018.04.03-17.46.59:289][230]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Grass/Grass_02.Grass_02
+[2018.04.03-17.46.59:305][230]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.59:455][230]LogMeshUtilities: Finished distance field build in 0.1s - 13x12x16 distance field, 80 triangles, Range [-0.2, 0.9], Grass_02
+[2018.04.03-17.46.59:468][231]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_BaseColor.png]
+[2018.04.03-17.46.59:472][231]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_BaseColor.png)
+[2018.04.03-17.46.59:738][231]LogEditorFactories: -- imported successfully
+[2018.04.03-17.46.59:772][232]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_Mask.png]
+[2018.04.03-17.46.59:784][232]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_Mask.png)
+[2018.04.03-17.46.59:972][232]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.00:012][233]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03.fbx]
+[2018.04.03-17.47.00:020][233]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03.fbx
+[2018.04.03-17.47.00:052][233]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.03-17.47.00:057][233]LogStaticMesh: Building static mesh Grass_03...
+[2018.04.03-17.47.00:061][233]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Grass/Grass_03.Grass_03
+[2018.04.03-17.47.00:078][233]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.00:188][233]LogMeshUtilities: Finished distance field build in 0.1s - 12x11x15 distance field, 56 triangles, Range [-0.2, 0.9], Grass_03
+[2018.04.03-17.47.00:200][234]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_BaseColor.png]
+[2018.04.03-17.47.00:205][234]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_BaseColor.png)
+[2018.04.03-17.47.00:668][234]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.00:702][235]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_Mask.png]
+[2018.04.03-17.47.00:703][235]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_Mask.png)
+[2018.04.03-17.47.00:874][235]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.00:909][236]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01_BaseColor.png]
+[2018.04.03-17.47.00:933][236]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01_BaseColor.png)
+[2018.04.03-17.47.04:232][236]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.04:280][237]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_BaseColor.png]
+[2018.04.03-17.47.04:284][237]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_BaseColor.png)
+[2018.04.03-17.47.05:074][237]LogEditorFactories: -- imported successfully
+[2018.04.03-17.47.05:203][238]LogSavePackage: Save=28.33ms
+[2018.04.03-17.47.05:203][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/PineLeaves_01694C5904496F8DEF67180B9BBA1762DC.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01.uasset'
+[2018.04.03-17.47.05:210][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01.uasset
+[2018.04.03-17.47.05:258][238]LogSavePackage: Save=25.40ms
+[2018.04.03-17.47.05:258][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Pine_01A13921E64948E40B2C05E6B75869A23B.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01.uasset'
+[2018.04.03-17.47.05:262][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01.uasset
+[2018.04.03-17.47.05:418][238]LogSavePackage: Save=145.73ms
+[2018.04.03-17.47.05:418][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Pine_01_normalD65B08504AF8271CC8A2D298925140C0.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_normal.uasset'
+[2018.04.03-17.47.05:422][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_normal.uasset
+[2018.04.03-17.47.05:504][238]LogSavePackage: Save=69.52ms
+[2018.04.03-17.47.05:504][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Pine_01_OcclusionRoughnessMetall186AC4764AB0288B17A1DCB955E7B910.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_OcclusionRoughnessMetallic.uasset'
+[2018.04.03-17.47.05:508][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_OcclusionRoughnessMetallic.uasset
+[2018.04.03-17.47.05:570][238]LogSavePackage: Save=17.80ms
+[2018.04.03-17.47.05:570][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/BushLeaves_01711D7C5F47C69CE5550CC5930E4B886B.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01.uasset'
+[2018.04.03-17.47.05:573][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01.uasset
+[2018.04.03-17.47.05:659][238]LogSavePackage: Save=62.39ms
+[2018.04.03-17.47.05:659][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/BushLeaves_01_BaseColorA4A9C57D4FC40CC77DC64794E09F1B74.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_BaseColor.uasset'
+[2018.04.03-17.47.05:663][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_BaseColor.uasset
+[2018.04.03-17.47.05:719][238]LogSavePackage: Save=36.78ms
+[2018.04.03-17.47.05:719][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/BushLeaves_01_MaskF3EBC0AB4094117376A9B6A2FD3DAA03.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_Mask.uasset'
+[2018.04.03-17.47.05:723][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_Mask.uasset
+[2018.04.03-17.47.05:784][238]LogSavePackage: Save=25.16ms
+[2018.04.03-17.47.05:784][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bush_01180AA9B14083B2253D121F969DEDA78C.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01.uasset'
+[2018.04.03-17.47.05:788][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01.uasset
+[2018.04.03-17.47.05:953][238]LogSavePackage: Save=140.25ms
+[2018.04.03-17.47.05:953][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bush_01_BaseColorA838DEAA4B1C494DCB9A89A3EEF517E6.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_BaseColor.uasset'
+[2018.04.03-17.47.05:957][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_BaseColor.uasset
+[2018.04.03-17.47.06:191][238]LogSavePackage: Save=198.99ms
+[2018.04.03-17.47.06:192][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bush_01_Normal2C3C4AC74A08DD0353D0D6B58189E142.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_Normal.uasset'
+[2018.04.03-17.47.06:195][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_Normal.uasset
+[2018.04.03-17.47.06:299][238]LogSavePackage: Save=80.89ms
+[2018.04.03-17.47.06:299][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bush_01_OcclusionRoughnessMetallB063BEC649A3550D0E65D9A2FA3FB280.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_OcclusionRoughnessMetallic.uasset'
+[2018.04.03-17.47.06:303][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_OcclusionRoughnessMetallic.uasset
+[2018.04.03-17.47.06:349][238]LogSavePackage: Save=18.12ms
+[2018.04.03-17.47.06:349][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_01EB6C708541A0BC9B003D8085AC76B2DF.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01.uasset'
+[2018.04.03-17.47.06:353][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01.uasset
+[2018.04.03-17.47.06:438][238]LogSavePackage: Save=65.21ms
+[2018.04.03-17.47.06:438][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_01_BaseColorFF375CDF49E7B758569759B8AB33BC94.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_BaseColor.uasset'
+[2018.04.03-17.47.06:442][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_BaseColor.uasset
+[2018.04.03-17.47.06:504][238]LogSavePackage: Save=43.72ms
+[2018.04.03-17.47.06:504][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_01_Mask9C014772421A4959289A44A0E74748B7.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_Mask.uasset'
+[2018.04.03-17.47.06:522][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_Mask.uasset
+[2018.04.03-17.47.06:568][238]LogSavePackage: Save=17.73ms
+[2018.04.03-17.47.06:568][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_02AA1618774DC727D714675BA74ADBACF5.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02.uasset'
+[2018.04.03-17.47.06:572][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02.uasset
+[2018.04.03-17.47.06:644][238]LogSavePackage: Save=52.03ms
+[2018.04.03-17.47.06:644][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_02_BaseColor490858134E37272A349A5B935257A139.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_BaseColor.uasset'
+[2018.04.03-17.47.06:648][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_BaseColor.uasset
+[2018.04.03-17.47.06:717][238]LogSavePackage: Save=45.92ms
+[2018.04.03-17.47.06:717][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_02_Mask738F28D640D40ABD7C0556BE224A2531.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_Mask.uasset'
+[2018.04.03-17.47.06:721][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_Mask.uasset
+[2018.04.03-17.47.06:767][238]LogSavePackage: Save=18.17ms
+[2018.04.03-17.47.06:767][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_03AC0EF9D64F0A7A4C856350BDCC8CB03C.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03.uasset'
+[2018.04.03-17.47.06:771][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03.uasset
+[2018.04.03-17.47.06:871][238]LogSavePackage: Save=79.05ms
+[2018.04.03-17.47.06:871][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_03_BaseColorDD3937F5456AB55168DF8D8FB808902D.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_BaseColor.uasset'
+[2018.04.03-17.47.06:874][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_BaseColor.uasset
+[2018.04.03-17.47.06:941][238]LogSavePackage: Save=42.44ms
+[2018.04.03-17.47.06:941][238]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_03_Mask04C4F0A641291A667D0B539046FC1D2A.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_Mask.uasset'
+[2018.04.03-17.47.06:945][238]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_Mask.uasset
+[2018.04.03-17.47.09:953][581]AssetReimport: Importing new asset /Game/Linda_Models/Pine/PineLeaves_01.
+[2018.04.03-17.47.09:953][581]AssetReimport: Importing new asset /Game/Linda_Models/Pine/Pine_01.
+[2018.04.03-17.47.09:953][581]AssetReimport: Importing new asset /Game/Linda_Models/Pine/Pine_01_normal.
+[2018.04.03-17.47.09:953][581]AssetReimport: Importing new asset /Game/Linda_Models/Pine/Pine_01_OcclusionRoughnessMetallic.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset BushLeaves_01 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01.fbx.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset BushLeaves_01_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset BushLeaves_01_Mask from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_Mask.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Bush_01 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01.fbx.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Bush_01_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Bush_01_Normal from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_Normal.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Bush_01_OcclusionRoughnessMetallic from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/Bush_01_OcclusionRoughnessMetallic.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_01 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01.fbx.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_01_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_01_Mask from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_Mask.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_02 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02.fbx.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_02_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_02_Mask from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_02_Mask.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_03 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03.fbx.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_03_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Grass_03_Mask from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_Mask.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset PineLeaves_01_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/PineLeaves_01_BaseColor.png.
+[2018.04.03-17.47.09:953][581]AssetReimport: Reimported asset Pine_01_BaseColor from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Pine/Pine_01_BaseColor.png.
+[2018.04.03-17.48.38:314][642]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.03-17.48.38:690][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.03-17.48.38:691][642]PIE: New page: PIE session: roadSideScene (Apr 3, 2018, 9:48:38 PM)
+[2018.04.03-17.48.38:696][642]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.03-17.48.38:829][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132513s)
+[2018.04.03-17.48.38:829][642]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.03-17.48.38:830][642]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.04.03-17.48.38:830][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.134038s)
+[2018.04.03-17.48.38:875][642]LogInit: XAudio2 using 'Hörlurar (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.03-17.48.38:914][642]LogInit: FAudioDevice initialized.
+[2018.04.03-17.48.38:967][642]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.03-17.48.39:007][642]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.03-19.48.39
+[2018.04.03-17.48.39:049][642]LogWorld: Bringing up level for play took: 0.063518
+[2018.04.03-17.48.39:130][642]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.03-17.48.39:145][642]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.227
+[2018.04.03-17.50.14:545][814]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.04.03-17.50.21:980][452]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.03-17.50.21:984][452]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.22:659][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.22:665][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.22:673][452]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.22:723][452]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.22:813][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.22:819][452]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.22:870][452]LogSlate: Took 0.014534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.03-17.50.23:248][472]LogSlate: Took 0.004917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.50.31:245][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.50.35:655][851]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.35:726][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.35:732][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.41:599][476]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.41:671][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.41:677][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.41:683][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.47:254][ 60]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.47:331][ 60]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.47:338][ 60]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.47:344][ 60]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.48:490][174]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.48:569][174]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.48:575][174]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.48:580][174]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.50:329][351]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.50:384][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.50:390][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.50:396][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.51:950][509]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.52:000][509]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.52:006][509]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.52:012][509]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.54:735][802]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.50.54:790][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.54:797][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.54:803][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:479][297]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:485][297]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:491][297]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:546][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:553][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:559][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:612][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:618][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:623][299]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:677][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:683][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:689][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:742][301]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:748][301]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:755][301]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:809][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:815][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:821][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:874][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:881][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:887][303]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.50.59:942][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.50.59:948][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.50.59:955][304]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:012][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:019][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:026][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:079][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:086][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:092][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:145][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:151][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:158][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:211][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:218][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:225][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:278][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:284][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:291][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:344][310]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:350][310]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:357][310]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.00:411][311]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.00:418][311]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.00:425][311]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.01:336][373]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.01:390][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.01:396][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.01:403][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.01:436][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.01:443][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.01:450][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.03:339][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.03:345][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.03:353][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.03:388][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.03:395][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.03:401][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.51.06:121][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.51.06:830][733]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.06:905][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.06:911][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.06:917][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.09:689][ 21]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.09:748][ 21]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.09:754][ 21]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.09:761][ 21]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.13:022][378]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.13:074][378]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.13:080][378]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.13:087][378]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.17:840][888]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.17:915][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.17:921][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.17:928][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.22:088][340]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.22:142][340]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.22:149][340]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.22:155][340]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.22:804][405]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.22:885][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.22:892][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.22:899][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.25:740][711]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.25:791][711]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.25:797][711]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.25:802][711]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.31:737][352]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.31:739][352]LogMaterial: Warning: /Engine/Transient.Fern_01_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.03-17.51.31:739][352]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2018.04.03-17.51.31:743][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.31:749][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.31:754][352]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.51.31:783][352]MaterialEditorStats: Error: [SM5] (Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2018.04.03-17.51.36:143][841]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.51.36:145][841]LogMaterial: Warning: /Engine/Transient.Fern_01_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.03-17.51.36:145][841]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2018.04.03-17.51.36:153][841]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.51.36:159][841]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.51.36:164][841]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.52.02:613][969]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.02:615][969]LogMaterial: Warning: /Engine/Transient.Fern_01_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.03-17.52.02:615][969]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2018.04.03-17.52.02:642][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.52.02:649][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.52.02:654][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.03-17.52.02:661][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.02:672][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.02:713][969]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.02:787][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.52.02:793][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.52.02:798][969]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.12:116][958]MaterialEditorStats: Base pass shader: 114 instructions
+[2018.04.03-17.52.12:117][958]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2018.04.03-17.52.12:117][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2018.04.03-17.52.12:117][958]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.52.12:117][958]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.52.12:117][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.52.16:085][423]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.16:131][423]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.52.16:138][423]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.52.16:144][423]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.52.22:539][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.52.26:034][508]LogMaterialEditor: Applying material Fern_01_mat
+[2018.04.03-17.52.27:442][508]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.27:588][508]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.27:765][508]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.27:969][508]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fern_01_mat, compiling. 
+[2018.04.03-17.52.30:817][508]TextureStreamingBuild: Display: Compiling optional shaders took 2.864 seconds.
+[2018.04.03-17.52.37:148][183]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.37:200][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.52.37:206][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.52.37:212][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.39:685][436]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.39:744][436]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.52.39:751][436]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.52.39:757][436]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.52.41:282][594]LogMaterialEditor: Applying material Fern_01_mat
+[2018.04.03-17.52.41:883][594]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.42:006][594]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.42:181][594]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-17.52.42:393][594]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fern_01_mat, compiling. 
+[2018.04.03-17.52.45:985][594]TextureStreamingBuild: Display: Compiling optional shaders took 3.599 seconds.
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.53.13:931][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.54.20:395][ 72]LogMaterialEditor: Saving and Compiling material Fern_01_mat
+[2018.04.03-17.54.20:510][ 72]LogSavePackage: Save=29.43ms
+[2018.04.03-17.54.20:510][ 72]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Fern_01_matCCA4019D48CD03AE147D8F92B9E2DE96.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Fern/Fern_01_mat.uasset'
+[2018.04.03-17.54.20:514][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Fern/Fern_01_mat.uasset
+[2018.04.03-17.54.40:999][675]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.54.41:180][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.54.41:186][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.54.41:193][675]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.54.41:235][675]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.54.41:306][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.54.41:312][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.54.50:971][507]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.04.03-17.54.50:971][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.04.03-17.54.50:971][507]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.54.50:971][507]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.54.50:971][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.54.56:390][ 34]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.03-17.55.12:644][825]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.03-17.55.12:802][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.12:808][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.12:813][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.12:822][825]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.03-17.55.12:872][825]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.03-17.55.12:948][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.12:954][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.12:960][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.21:548][680]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.03-17.55.21:711][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.21:717][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.21:724][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.21:732][680]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.03-17.55.21:785][680]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.04.03-17.55.21:862][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.21:868][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.21:874][680]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.55.29:360][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.55.32:585][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_37
+[2018.04.03-17.55.32:585][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_37.MaterialExpressionMultiply_2"')'
+[2018.04.03-17.55.32:585][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_38
+[2018.04.03-17.55.32:585][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_38.MaterialExpressionConstant_1"')'
+[2018.04.03-17.55.32:586][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_33
+[2018.04.03-17.55.32:586][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_33.MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))'
+[2018.04.03-17.55.32:587][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_32
+[2018.04.03-17.55.32:587][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_32.MaterialExpressionScalarParameter_0"',InputName="WindWeight"))'
+[2018.04.03-17.55.32:587][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_34
+[2018.04.03-17.55.32:587][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_34.MaterialExpressionScalarParameter_2"',InputName="WindSpeed"))'
+[2018.04.03-17.55.32:587][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31
+[2018.04.03-17.55.32:587][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',InputName="AdditionalWPO",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.04.03-17.55.32:589][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_35
+[2018.04.03-17.55.32:589][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_35.MaterialExpressionConstant_0"')'
+[2018.04.03-17.55.32:589][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_39
+[2018.04.03-17.55.32:589][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_39.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.55.32:589][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_36
+[2018.04.03-17.55.32:589][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_36.MaterialExpressionMultiply_1"')'
+[2018.04.03-17.55.32:590][820]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.PreviewMaterial_1:MaterialGraph_3.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31
+[2018.04.03-17.55.32:590][820]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.55.32:606][820]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.55.32:671][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.32:677][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.32:683][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.55.32:689][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.55.32:695][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.38:053][377]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.55.38:113][377]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.55.38:187][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.38:193][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.38:199][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.55.38:205][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.55.38:210][377]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.44:388][ 27]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.55.44:388][ 27]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-17.55.44:388][ 27]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.55.44:388][ 27]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.55.44:388][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.55.54:302][177]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.55.54:347][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.54:352][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.54:358][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.55.54:364][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.55.54:370][177]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.55.55:993][342]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.55.56:040][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.55.56:046][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.55.56:053][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.55.56:059][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.55.56:064][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.02:129][  3]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.56.02:129][  3]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-17.56.02:129][  3]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.56.02:129][  3]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.56.02:129][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.56.02:179][  8]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.02:224][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.02:230][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.02:236][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.02:241][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.02:247][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.03:720][164]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.03:765][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.03:771][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.03:778][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.03:785][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.03:791][164]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.06:466][451]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.06:516][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.06:522][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.06:528][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.06:534][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.06:540][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.09:708][786]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.09:751][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.09:757][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.09:763][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.09:769][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.09:775][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.14:523][278]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.14:571][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.14:577][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.14:583][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.14:589][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.14:595][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.20:798][935]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.56.20:798][935]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.56.20:798][935]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.56.20:799][935]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.56.20:799][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.56.20:924][949]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.20:969][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.20:975][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.20:981][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.56.20:987][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.03-17.56.20:994][949]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.26:300][503]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.26:369][503]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.26:375][503]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.26:381][503]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.32:241][136]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.56.32:241][136]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.56.32:241][136]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.56.32:241][136]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.56.32:241][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.56.41:310][196]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.56.41:353][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.56.41:358][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.56.41:364][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.56.49:444][ 58]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.56.49:445][ 58]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.56.49:445][ 58]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.56.49:445][ 58]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.56.49:445][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.57.02:009][545]LogMaterialEditor: Applying material BushLeaves_01_mat
+[2018.04.03-17.57.02:559][545]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.57.02:677][545]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.57.02:754][545]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-17.57.02:876][545]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BushLeaves_01_mat, compiling. 
+[2018.04.03-17.57.05:313][545]TextureStreamingBuild: Display: Compiling optional shaders took 2.444 seconds.
+[2018.04.03-17.57.17:280][755]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.57.17:281][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.57.17:281][755]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-17.57.17:281][755]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.57.17:281][755]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.57.20:252][ 40]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.20:413][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.20:420][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.20:428][ 40]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.20:478][ 40]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.20:550][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.20:556][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.24:111][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_37
+[2018.04.03-17.57.24:111][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_37.MaterialExpressionMultiply_2"')'
+[2018.04.03-17.57.24:111][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_38
+[2018.04.03-17.57.24:111][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_38.MaterialExpressionConstant_1"')'
+[2018.04.03-17.57.24:111][418]LogLinker: Can't find file '/Engine/Transient'
+[2018.04.03-17.57.24:111][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:112][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:113][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_33
+[2018.04.03-17.57.24:113][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_33.MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))'
+[2018.04.03-17.57.24:113][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_32
+[2018.04.03-17.57.24:113][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_32.MaterialExpressionScalarParameter_0"',InputName="WindWeight"))'
+[2018.04.03-17.57.24:114][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_34
+[2018.04.03-17.57.24:114][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_34.MaterialExpressionScalarParameter_2"',InputName="WindSpeed"))'
+[2018.04.03-17.57.24:114][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_31
+[2018.04.03-17.57.24:114][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',InputName="AdditionalWPO",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.04.03-17.57.24:114][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:115][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:116][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:116][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:116][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:117][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:117][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_35
+[2018.04.03-17.57.24:117][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_35.MaterialExpressionConstant_0"')'
+[2018.04.03-17.57.24:118][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_39
+[2018.04.03-17.57.24:118][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_39.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.57.24:118][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:118][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_36
+[2018.04.03-17.57.24:119][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_36.MaterialExpressionMultiply_1"')'
+[2018.04.03-17.57.24:119][418]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_31
+[2018.04.03-17.57.24:119][418]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.57.24:119][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:119][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:120][418]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.57.24:138][418]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.24:215][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.24:221][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.24:226][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.24:232][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.24:238][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.57.28:571][885]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.28:652][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.28:658][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.28:665][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.28:671][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.28:677][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.57.36:985][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.57.39:909][ 81]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.39:960][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.39:966][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.39:971][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.39:977][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.39:983][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.57.42:707][363]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.42:764][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.42:770][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.42:776][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.42:783][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.42:789][363]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: Base pass shader with Surface Lightmap: 130 instructions
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.57.51:469][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.57.53:131][421]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.53:187][421]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.53:258][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.53:264][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.53:271][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.53:278][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.53:284][421]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.57.57:150][820]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.57.57:205][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.57.57:211][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.57.57:216][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.57.57:222][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.57.57:228][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.58.01:615][285]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.01:671][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.01:677][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.58.01:684][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.58.01:691][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.58.01:697][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.58.03:765][510]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.03:816][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.03:823][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.03-17.58.03:829][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.58.03:837][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.03-17.58.03:843][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.58.12:010][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.58.16:093][854]LogMaterialEditor: Applying material Elm_Tree_Leaves_01_mat
+[2018.04.03-17.58.16:647][854]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.16:762][854]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.16:941][854]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.17:116][854]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Elm_Tree_Leaves_01_mat, compiling. 
+[2018.04.03-17.58.19:906][854]TextureStreamingBuild: Display: Compiling optional shaders took 2.797 seconds.
+[2018.04.03-17.58.20:897][960]LogMaterialEditor: Saving and Compiling material Elm_Tree_Leaves_01_mat
+[2018.04.03-17.58.29:803][960]LogSavePackage: Save=34.43ms
+[2018.04.03-17.58.29:804][960]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Elm_Tree_Leaves_01_mat3912770B468FEABBDBE2A6B901750CE8.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/ElmTree/Elm_Tree_Leaves_01_mat.uasset'
+[2018.04.03-17.58.29:807][960]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/ElmTree/Elm_Tree_Leaves_01_mat.uasset
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.58.29:814][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.58.47:205][396]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.47:357][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.47:362][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.58.47:370][396]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.47:415][396]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.47:482][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.47:488][396]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.58.50:535][711]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.50:596][711]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.50:669][711]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.50:675][711]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.58.52:987][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_37
+[2018.04.03-17.58.52:987][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_37 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_37
+[2018.04.03-17.58.52:987][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_37.MaterialExpressionMultiply_2"')'
+[2018.04.03-17.58.52:987][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_38
+[2018.04.03-17.58.52:988][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_38 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_38
+[2018.04.03-17.58.52:988][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_38.MaterialExpressionConstant_1"')'
+[2018.04.03-17.58.52:988][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:988][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_33
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_33 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_33
+[2018.04.03-17.58.52:989][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_33.MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))'
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_32
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_32 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_32
+[2018.04.03-17.58.52:989][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_32.MaterialExpressionScalarParameter_0"',InputName="WindWeight"))'
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_34
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_34 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_34
+[2018.04.03-17.58.52:989][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_34.MaterialExpressionScalarParameter_2"',InputName="WindSpeed"))'
+[2018.04.03-17.58.52:989][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_31
+[2018.04.03-17.58.52:990][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_31
+[2018.04.03-17.58.52:990][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',InputName="AdditionalWPO",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.04.03-17.58.52:990][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:991][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:991][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:992][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:992][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:992][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:992][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_35
+[2018.04.03-17.58.52:992][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_35 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_35
+[2018.04.03-17.58.52:993][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_35.MaterialExpressionConstant_0"')'
+[2018.04.03-17.58.52:993][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_39
+[2018.04.03-17.58.52:993][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_39 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_39
+[2018.04.03-17.58.52:993][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_39.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.58.52:993][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:993][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_36
+[2018.04.03-17.58.52:993][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_36 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_36
+[2018.04.03-17.58.52:993][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_36.MaterialExpressionMultiply_1"')'
+[2018.04.03-17.58.52:994][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Elm_Tree_Leaves_01_mat:MaterialGraph_4.MaterialGraphNode_31
+[2018.04.03-17.58.52:994][953]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_1.MaterialGraphNode_31 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_5.MaterialGraphNode_31
+[2018.04.03-17.58.52:994][953]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_31.MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-17.58.52:994][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:994][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.52:995][953]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.PreviewMaterial_1"''
+[2018.04.03-17.58.53:010][953]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.58.53:079][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.58.53:086][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.58.53:092][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.58.53:099][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.58.53:106][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.58.59:008][583]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-17.58.59:008][583]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-17.58.59:008][583]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-17.58.59:008][583]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.58.59:008][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.59.02:428][952]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.02:470][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.02:476][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.02:482][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.02:488][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.02:494][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.04:199][131]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.04:247][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.04:254][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.04:260][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.04:266][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.04:272][131]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.06:328][346]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.06:382][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.06:390][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.06:396][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.06:402][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.06:409][346]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.10:597][786]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.10:647][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.10:654][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.10:660][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.10:666][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.10:673][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.13:764][106]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.13:810][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.13:816][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.13:822][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.13:827][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.13:833][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.21:760][910]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.59.21:760][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.59.21:760][910]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.59.21:760][910]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.59.21:760][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.59.25:233][280]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.25:283][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.25:289][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.25:295][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.25:301][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.25:307][280]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.28:378][598]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.28:435][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.28:441][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.28:448][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-17.59.28:454][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.28:461][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.35:934][381]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.59.35:934][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.59.35:934][381]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-17.59.35:934][381]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-17.59.35:934][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-17.59.37:873][590]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.37:943][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.37:949][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.37:955][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.04.03-17.59.37:961][590]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.39:199][714]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.39:271][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.39:277][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.39:283][714]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:568][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:574][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:579][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:612][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:618][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:624][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:657][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:663][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:669][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:702][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:709][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:714][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:747][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:753][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:759][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:793][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:799][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:806][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:839][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:845][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:852][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:885][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:891][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:897][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:931][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:937][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:943][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.41:977][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.41:983][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.41:989][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:021][950]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.42:076][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:082][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:089][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:121][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:127][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:133][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:166][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:172][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:177][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:410][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:415][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:421][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:453][971]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.42:499][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:505][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:511][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.42:545][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.42:552][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.42:558][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.44:108][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.44:114][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.44:120][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.44:153][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-17.59.44:159][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-17.59.44:165][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-17.59.45:631][287]LogMaterialEditor: Applying material Grass_01_mat
+[2018.04.03-17.59.46:241][287]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.46:362][287]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.46:508][287]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-17.59.46:667][287]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_01_mat, compiling. 
+[2018.04.03-17.59.49:638][287]TextureStreamingBuild: Display: Compiling optional shaders took 2.979 seconds.
+[2018.04.03-17.59.50:664][395]LogMaterialEditor: Saving and Compiling material Grass_01_mat
+[2018.04.03-17.59.57:544][395]LogSavePackage: Save=27.75ms
+[2018.04.03-17.59.57:544][395]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_01_mat442E92AB4EDB7BB66AEEF5803836B582.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_mat.uasset'
+[2018.04.03-17.59.57:567][395]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_01_mat.uasset
+[2018.04.03-17.59.57:574][395]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-17.59.57:574][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-17.59.57:574][395]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-17.59.57:574][395]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-17.59.57:574][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.00.07:445][569]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2018.04.03-18.00.07:445][569]LogWindows: Windows GetLastError: Åtgärden har slutförts. (0)

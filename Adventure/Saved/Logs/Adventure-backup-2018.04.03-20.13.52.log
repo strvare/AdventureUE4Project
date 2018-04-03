@@ -1,0 +1,1084 @@
+﻿Log file open, 04/03/18 20:04:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(558069219) SRandInit(558069219).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.245368
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.03-18.04.34:531][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-18.04.34:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.03-18.04.34:564][  0]LogInit: Computer: MR_E-DATOR
+[2018.04.03-18.04.34:564][  0]LogInit: User: MrE
+[2018.04.03-18.04.34:564][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.03-18.04.34:564][  0]LogInit: High frequency timer resolution =3.233207 MHz
+[2018.04.03-18.04.34:565][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.03-18.04.34:565][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.03-18.04.34:565][  0]LogMemory: Process Physical Memory: 275.15 MB used, 275.15 MB peak
+[2018.04.03-18.04.34:565][  0]LogMemory: Process Virtual Memory: 271.56 MB used, 271.56 MB peak
+[2018.04.03-18.04.34:565][  0]LogMemory: Physical Memory: 2805.45 MB used,  5353.68 MB free, 8159.14 MB total
+[2018.04.03-18.04.34:565][  0]LogMemory: Virtual Memory: 679.39 MB used,  5353.68 MB free, 134217728.00 MB total
+[2018.04.03-18.04.34:893][  0]LogInit: Using OS detected language (sv-SE).
+[2018.04.03-18.04.34:893][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.04.03-18.04.34:897][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.04.03-18.04.34:898][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.04.03-18.04.35:338][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.03-18.04.35:650][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.03-18.04.35:861][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.03-18.04.35:861][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.03-18.04.35:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.03-18.04.35:865][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.03-18.04.35:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.03-18.04.35:870][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.03-18.04.35:870][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.03-18.04.35:870][  0]LogWindows: EnumDisplayDevices:
+[2018.04.03-18.04.35:870][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.03-18.04.35:871][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.03-18.04.35:871][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.03-18.04.35:871][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.03-18.04.35:871][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.03-18.04.35:871][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.03-18.04.35:871][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.03-18.04.35:871][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.03-18.04.35:871][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.03-18.04.35:914][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.03-18.04.35:933][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.03-18.04.35:982][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/2584/).
+[2018.04.03-18.04.35:982][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/069B1C784DF92AC8887B8CBCA801B4DB/'.
+[2018.04.03-18.04.35:982][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.03-18.04.37:173][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.03-18.04.37:237][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.03-18.04.37:301][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.03-18.04.37:366][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.03-18.04.37:430][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.03-18.04.37:496][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.03-18.04.37:560][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.03-18.04.37:624][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.03-18.04.37:681][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.03-18.04.37:744][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.03-18.04.37:805][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.03-18.04.37:867][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.03-18.04.37:929][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.03-18.04.37:991][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.03-18.04.38:115][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.03-18.04.38:115][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.03-18.04.38:177][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.03-18.04.38:225][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.03-18.04.38:352][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.03-18.04.38:391][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.03-18.04.38:453][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.03-18.04.38:514][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.03-18.04.38:575][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.03-18.04.38:636][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.03-18.04.38:636][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.03-18.04.39:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.03-18.04.39:572][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.03-18.04.39:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.03-18.04.39:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.03-18.04.39:573][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.03-18.04.39:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.03-18.04.39:573][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.03-18.04.39:591][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.03-18.04.39:606][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.03-18.04.39:617][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.03-18.04.39:618][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.03-18.04.39:619][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-18.04.39:619][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.03-18.04.40:182][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.03-18.04.40:730][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.03-18.04.40:785][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.03-18.04.40:785][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.03-18.04.40:785][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.03-18.04.40:785][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.03-18.04.40:785][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.03-18.04.40:838][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.04.03-18.04.41:021][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.04.03-18.04.41:630][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.072790 seconds
+[2018.04.03-18.04.41:636][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.03-18.04.41:636][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.03-18.04.41:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.03-18.04.41:701][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.03-18.04.48:842][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.03-18.04.48:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.03-18.04.50:288][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.03-18.04.51:064][  0]SourceControl: Source control is disabled
+[2018.04.03-18.04.52:824][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.03-18.04.53:338][  0]LogOcInput: OculusInput pre-init called
+[2018.04.03-18.04.53:785][  0]LogEngine: Initializing Engine...
+[2018.04.03-18.04.53:814][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.04.03-18.04.54:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.03-18.04.54:102][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.03-18.04.54:258][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.03-18.04.54:304][  0]LogInit: XAudio2 using 'Hörlurar (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.03-18.04.54:374][  0]LogInit: FAudioDevice initialized.
+[2018.04.03-18.04.54:505][  0]LogDerivedDataCache: Saved boot cache 0.13s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.03-18.04.54:520][  0]LogInit: Texture streaming: Enabled
+[2018.04.03-18.04.54:695][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.03-18.04.54:894][  0]LogInit: Transaction tracking system initialized
+[2018.04.03-18.04.55:298][  0]BlueprintLog: New page: Editor Load
+[2018.04.03-18.04.56:575][  0]LocalizationService: Localization service is disabled
+[2018.04.03-18.04.57:703][  0]LogConsoleResponse: Display: 
+[2018.04.03-18.04.58:006][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.03-18.04.58:007][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.03-18.04.58:007][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.03-18.04.58:391][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.15s
+[2018.04.03-18.05.00:305][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-18.05.00:328][  0]LightingResults: New page: Lighting Build
+[2018.04.03-18.05.00:464][  0]MapCheck: New page: Map Check
+[2018.04.03-18.05.00:464][  0]LightingResults: New page: Lighting Build
+[2018.04.03-18.05.01:713][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-18.05.01:713][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.03-18.05.01:714][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.03-18.05.02:299][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-18.05.02:299][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.04.03-18.05.02:299][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.04.03-18.05.03:647][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-18.05.03:647][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-18.05.03:648][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-18.05.03:648][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-18.05.03:727][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.04.03-18.05.03:727][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.03-18.05.03:727][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.04.03-18.05.03:728][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.04.03-18.05.05:538][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.04.03-18.05.06:559][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-18.05.06:575][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-18.05.06:652][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.706ms to complete.
+[2018.04.03-18.05.06:652][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.346
+[2018.04.03-18.05.06:718][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.03-18.05.06:939][  0]LogCollectionManager: Loaded 0 collections in 0.004658 seconds
+[2018.04.03-18.05.07:027][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.04.03-18.05.07:027][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.04.03-18.05.07:027][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.04.03-18.05.07:027][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.03-18.05.07:039][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2363 classes and 519 folders.
+[2018.04.03-18.05.07:107][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.03-18.05.08:036][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.03-18.05.08:113][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.03-18.05.08:255][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.03-18.05.08:257][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.03-18.05.08:279][  0]LogSlate: Took 0.015941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.03-18.05.08:511][  0]LogRenderer: Reallocating scene render targets to support 1180x664 Format 10 NumSamples 1 (Frame:1).
+[2018.04.03-18.05.08:705][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.03-18.05.08:705][  0]LogLoad: (Engine Initialization) Total time: 39.07 seconds
+[2018.04.03-18.05.08:705][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.03-18.05.08:705][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.03-18.05.08:705][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.03-18.05.08:747][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.03-18.05.08:868][  0]LogSlate: Took 0.018615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-18.05.08:925][  2]LogAssetRegistry: Asset discovery search completed in 27.9261 seconds
+[2018.04.03-18.05.08:928][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.03-18.05.08:928][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.04.03-18.05.09:748][ 73]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-18.05.13:886][516]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 5.16s
+[2018.04.03-18.05.14:113][532]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.03-18.05.14:190][532]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.03-18.05.14:193][532]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.14:906][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.14:913][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.14:921][532]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.14:971][532]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.15:037][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.15:044][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.15:142][532]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-18.05.15:332][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-18.05.15:339][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.15:344][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.05.15:353][532]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-18.05.15:402][532]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.04.03-18.05.15:490][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.04.03-18.05.15:496][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.15:502][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.05.15:525][532]LogSlate: Took 0.012498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.03-18.05.15:815][532]LogStaticMesh: Allocated 507x207x64 distance field atlas = 12.8Mb, with 63 objects containing 5.4Mb backing data
+[2018.04.03-18.05.20:580][547]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.04.03-18.05.20:580][547]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.04.03-18.05.20:580][547]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-18.05.20:580][547]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.05.20:580][547]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.05.22:272][552]LogSlate: Took 0.006114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.03-18.05.23:923][615]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.05.23:923][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.05.23:923][615]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-18.05.23:923][615]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.05.23:923][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.05.43:842][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_7
+[2018.04.03-18.05.43:842][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_7.MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))'
+[2018.04.03-18.05.43:842][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_6
+[2018.04.03-18.05.43:842][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_6.MaterialExpressionScalarParameter_0"',InputName="WindWeight"))'
+[2018.04.03-18.05.43:842][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_8
+[2018.04.03-18.05.43:842][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_8.MaterialExpressionScalarParameter_2"',InputName="WindSpeed"))'
+[2018.04.03-18.05.43:843][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_11
+[2018.04.03-18.05.43:843][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_11.MaterialExpressionMultiply_2"')'
+[2018.04.03-18.05.43:843][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_12
+[2018.04.03-18.05.43:843][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_12.MaterialExpressionConstant_1"')'
+[2018.04.03-18.05.43:844][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_9
+[2018.04.03-18.05.43:844][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_0"')'
+[2018.04.03-18.05.43:844][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_13
+[2018.04.03-18.05.43:844][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_13.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-18.05.43:845][ 77]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.BushLeaves_01_mat:MaterialGraph_0.MaterialGraphNode_10
+[2018.04.03-18.05.43:845][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_10.MaterialExpressionMultiply_1"')'
+[2018.04.03-18.05.43:858][ 77]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.43:921][ 77]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.43:928][ 77]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.43:934][ 77]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.05.49:819][492]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.04.03-18.05.49:820][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.04.03-18.05.49:820][492]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-18.05.49:820][492]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.05.49:820][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.05.51:233][599]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.51:279][599]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.51:285][599]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.51:292][599]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.05.56:825][979]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.56:886][979]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.56:955][979]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.56:961][979]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.56:967][979]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.05.59:842][166]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.05.59:889][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.05.59:896][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.05.59:902][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.04:422][456]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.04:469][456]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.04:475][456]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.04:482][456]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.11:487][904]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.11:534][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.11:540][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.11:546][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.14:075][ 74]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.14:124][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.14:130][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.14:137][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.18:309][347]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.18:311][347]LogMaterial: Warning: /Engine/Transient.BushLeaves_01_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.03-18.06.18:311][347]LogMaterial: 	Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2018.04.03-18.06.18:320][347]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.18:326][347]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.18:332][347]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.18:360][347]MaterialEditorStats: Error: [SM5] Function SimpleGrassWind: Missing function input 'AdditionalWPO'
+[2018.04.03-18.06.22:090][606]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.22:132][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.22:138][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.22:143][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.30:078][113]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.06.30:078][113]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.06.30:078][113]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-18.06.30:078][113]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.06.30:078][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.06.38:446][720]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.38:491][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.38:498][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.38:504][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.38:536][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.38:543][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.38:548][720]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.39:118][754]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.39:163][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.39:169][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.39:175][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.39:207][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.06.39:214][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.06.39:220][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.06.47:338][296]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.06.47:338][296]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.06.47:338][296]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-18.06.47:338][296]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.06.47:338][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.06.50:696][523]LogMaterialEditor: Applying material BushLeaves_01_mat
+[2018.04.03-18.06.51:253][523]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.51:362][523]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.51:443][523]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.51:529][523]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BushLeaves_01_mat, compiling. 
+[2018.04.03-18.06.54:177][523]TextureStreamingBuild: Display: Compiling optional shaders took 2.657 seconds.
+[2018.04.03-18.07.01:937][ 51]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.03-18.07.02:204][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.02:205][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap.
+[2018.04.03-18.07.02:205][ 51]LoadErrors: Error: /Game/Scenes/roadSideScene : Can't find file for asset. /Game/Linda_Models/Bush/Bush_Complete
+[2018.04.03-18.07.02:945][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.02:945][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap.
+[2018.04.03-18.07.03:187][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:187][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by InstancedFoliageActor_0
+[2018.04.03-18.07.03:187][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:189][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:189][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by FoliageType_InstancedStaticMesh_8
+[2018.04.03-18.07.03:189][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:312][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:312][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete10
+[2018.04.03-18.07.03:312][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:312][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:313][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete11
+[2018.04.03-18.07.03:313][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:313][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:313][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete12
+[2018.04.03-18.07.03:313][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:314][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:314][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete2
+[2018.04.03-18.07.03:314][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:314][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:314][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete3_19
+[2018.04.03-18.07.03:314][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:315][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:315][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete4
+[2018.04.03-18.07.03:315][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:315][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:315][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete5
+[2018.04.03-18.07.03:316][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:316][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:316][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete6
+[2018.04.03-18.07.03:316][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:317][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:317][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete7
+[2018.04.03-18.07.03:317][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:317][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:317][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete8
+[2018.04.03-18.07.03:318][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:318][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:318][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete9
+[2018.04.03-18.07.03:318][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.03:319][ 51]LogLinker: Warning: Can't find file '/Game/Linda_Models/Bush/Bush_Complete'
+[2018.04.03-18.07.03:319][ 51]LoadErrors: Failed to load /Game/Linda_Models/Bush/Bush_Complete.Bush_Complete Referenced by Bush_Complete_12
+[2018.04.03-18.07.03:319][ 51]LogLinker: Warning: Can't find file for asset '/Game/Linda_Models/Bush/Bush_Complete' while loading NULL.
+[2018.04.03-18.07.04:936][ 51]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.531 s
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: 
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 781]
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: Container has changed during ranged-for iteration!
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: Stack: 
+[2018.04.03-18.07.04:936][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B25A2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B234123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B235B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BC345855 UE4Editor-Foliage.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2CFE8FD UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2D24CC8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2CFE86C UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DBDABC UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DD5259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DD4774 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DEB0C3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DF5A3A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000B2DF51B2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A27A27A7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A28E667F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A28986E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A289FF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A28F0FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A2896C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A289ED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A289CA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A28FDB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000A28F120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000AF1B7ADE UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000AF187CEE UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000AF220B84 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000AF20A492 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000AF1FCEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BE0DE4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BE0D1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BE0E03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BE0CD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000F291B85D USER32.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000F291B1EF USER32.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000BE0E1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x000000009AFC50C8 UE4Editor.exe!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x000000009AFD5430 UE4Editor.exe!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x000000009AFD54AA UE4Editor.exe!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x000000009AFE2379 UE4Editor.exe!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x000000009AFE3D57 UE4Editor.exe!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000F4011FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: [Callstack] 0x00000000F4BFEFC1 ntdll.dll!UnknownFunction []
+[2018.04.03-18.07.04:937][ 51]LogOutputDevice: Error: 
+[2018.04.03-18.07.04:948][ 51]LogStats:                SubmitErrorReport -  0.000 s
+[2018.04.03-18.07.05:761][ 51]LogStats:                    SendNewReport -  0.813 s
+[2018.04.03-18.07.05:761][ 51]LogStats:             FDebug::EnsureFailed -  1.356 s
+[2018.04.03-18.07.06:014][ 51]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.03-18.07.08:482][ 51]LogSavePackage: Save=28.85ms
+[2018.04.03-18.07.08:482][ 51]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/BushLeaves_01_mat559BDADE4CE4589A0694529AAEB9ADA7.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_mat.uasset'
+[2018.04.03-18.07.08:486][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Bush/BushLeaves_01_mat.uasset
+[2018.04.03-18.07.08:487][ 51]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.03-18.07.08:488][ 51]LightingResults: New page: Lighting Build
+[2018.04.03-18.07.08:489][ 51]LoadErrors: New page: Loading map: roadSideScene.umap
+[2018.04.03-18.07.08:491][ 51]MapCheck: New page: Map Check
+[2018.04.03-18.07.08:491][ 51]LightingResults: New page: Lighting Build
+[2018.04.03-18.07.08:511][ 51]LogMaterial: Warning: Material /Game/Linda_Models/Grass/Grass_02_mat.Grass_02_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-18.07.08:521][ 51]LogMaterial: Missing cached shader map for material Grass_02_mat, compiling. 
+[2018.04.03-18.07.08:623][ 51]MapCheck: Warning: Grass_02_mat Material /Game/Linda_Models/Grass/Grass_02_mat.Grass_02_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-18.07.08:637][ 51]LogMaterial: Warning: Material /Game/Linda_Models/Grass/Grass_03_mat.Grass_03_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-18.07.08:641][ 51]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.08:747][ 51]MapCheck: Warning: Grass_03_mat Material /Game/Linda_Models/Grass/Grass_03_mat.Grass_03_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-18.07.08:747][ 51]LogMaterial: Warning: Material /Game/Linda_Models/ElmTree/Elm_Tree_01_mat.Elm_Tree_01_mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.04.03-18.07.08:751][ 51]LogMaterial: Missing cached shader map for material Elm_Tree_01_mat, compiling. 
+[2018.04.03-18.07.08:838][ 51]MapCheck: Warning: Elm_Tree_01_mat Material /Game/Linda_Models/ElmTree/Elm_Tree_01_mat.Elm_Tree_01_mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.04.03-18.07.10:761][ 51]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.03-18.07.10:827][ 51]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.03-18.07.10:925][ 51]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 98.226ms to complete.
+[2018.04.03-18.07.10:936][ 51]LogFileHelpers: Loading map 'roadSideScene' took 2.450
+[2018.04.03-18.07.12:495][ 54]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.07.12:495][ 54]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.07.12:495][ 54]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-18.07.12:495][ 54]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-18.07.12:495][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.07.33:647][958]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.04.03-18.07.45:326][925]LogMaterial: Missing cached shader map for material Grass_02_mat, compiling. 
+[2018.04.03-18.07.45:491][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.07.45:497][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.04.03-18.07.45:503][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.03-18.07.45:511][925]LogMaterial: Missing cached shader map for material Grass_02_mat, compiling. 
+[2018.04.03-18.07.45:563][925]LogMaterial: Missing cached shader map for material Grass_02_mat, compiling. 
+[2018.04.03-18.07.45:637][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.07.45:643][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.04.03-18.07.45:650][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.04.03-18.07.55:900][914]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.56:063][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.07.56:072][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.07.56:082][914]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.56:128][914]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.56:201][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.07.56:207][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.07.56:219][914]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.07.56:219][914]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.07.56:219][914]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-18.07.56:219][914]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.07.56:219][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.07.59:841][305]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.59:896][305]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.07.59:968][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.07.59:974][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.01:571][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_7
+[2018.04.03-18.08.01:571][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_7.MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))'
+[2018.04.03-18.08.01:571][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_6
+[2018.04.03-18.08.01:571][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_6.MaterialExpressionScalarParameter_0"',InputName="WindWeight"))'
+[2018.04.03-18.08.01:572][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_8
+[2018.04.03-18.08.01:572][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_8.MaterialExpressionScalarParameter_2"',InputName="WindSpeed"))'
+[2018.04.03-18.08.01:573][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_11 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_11
+[2018.04.03-18.08.01:573][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_11.MaterialExpressionMultiply_2"')'
+[2018.04.03-18.08.01:573][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_12 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_12
+[2018.04.03-18.08.01:573][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_12.MaterialExpressionConstant_1"')'
+[2018.04.03-18.08.01:574][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_9
+[2018.04.03-18.08.01:574][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_0"')'
+[2018.04.03-18.08.01:574][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_13 or MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_13
+[2018.04.03-18.08.01:574][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_13.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2018.04.03-18.08.01:574][471]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Grass_01_mat:MaterialGraph_1.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.Grass_03_mat:MaterialGraph_3.MaterialGraphNode_10
+[2018.04.03-18.08.01:574][471]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_10.MaterialExpressionMultiply_1"')'
+[2018.04.03-18.08.01:588][471]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.01:655][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.01:661][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.01:666][471]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.07:984][162]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.04.03-18.08.07:984][162]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2018.04.03-18.08.07:984][162]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-18.08.07:984][162]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.08.07:984][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.08.09:049][268]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.09:097][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.09:102][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.09:108][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.10:977][465]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.11:028][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.11:034][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.11:040][465]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.16:385][ 41]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.16:433][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.16:439][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.16:445][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.18:635][275]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.18:683][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.18:689][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.18:694][275]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.25:243][981]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.25:291][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.25:297][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.25:303][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.31:523][642]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.08.31:523][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.08.31:523][642]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.03-18.08.31:523][642]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.08.31:523][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.08.41:530][791]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.41:575][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.41:581][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.41:587][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.46:784][362]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.46:833][362]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.08.46:839][362]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.04.03-18.08.46:845][362]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.08.54:799][207]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.08.54:799][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.08.54:799][207]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.04.03-18.08.54:799][207]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.03-18.08.54:799][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.08.58:165][587]LogMaterialEditor: Applying material Grass_03_mat
+[2018.04.03-18.08.58:721][587]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.58:827][587]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.58:960][587]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.04.03-18.08.59:131][587]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_03_mat, compiling. 
+[2018.04.03-18.09.02:141][587]TextureStreamingBuild: Display: Compiling optional shaders took 3.018 seconds.
+[2018.04.03-18.09.07:461][865]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape7)
+[2018.04.03-18.09.24:171][105]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.09.24:171][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.09.24:171][105]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-18.09.24:171][105]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-18.09.24:171][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.09.27:126][355]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.27:280][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.27:285][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.27:291][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.27:300][355]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.27:350][355]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.27:425][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.27:431][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.27:437][355]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.32:219][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.32:226][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.32:232][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.32:326][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.32:334][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.32:342][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.32:391][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.32:397][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.32:403][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.32:437][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.32:443][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.32:449][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.32:481][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.32:487][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.32:493][864]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.33:042][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.33:049][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.33:055][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.33:089][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.33:095][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.33:101][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.33:508][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.33:515][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.33:521][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.33:552][965]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.33:607][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.33:614][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.33:620][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.33:654][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.33:661][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.33:667][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.34:286][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.34:292][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.34:298][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.34:331][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.03-18.09.34:337][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.03-18.09.34:343][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.03-18.09.35:970][202]LogMaterialEditor: Applying material Fern_01_mat
+[2018.04.03-18.09.36:584][202]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.36:703][202]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.36:892][202]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.04.03-18.09.37:094][202]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fern_01_mat, compiling. 
+[2018.04.03-18.09.40:676][202]TextureStreamingBuild: Display: Compiling optional shaders took 3.592 seconds.
+[2018.04.03-18.10.14:727][714]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: Base pass shader with Surface Lightmap: 141 instructions
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: Vertex shader: 88 instructions
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: Texture samplers: 5/16
+[2018.04.03-18.10.20:348][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.03-18.10.37:912][863]LogSavePackage: Save=1237.56ms
+[2018.04.03-18.10.37:913][863]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene5610F0634F760B2199C33E978B5ECC46.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.04.03-18.10.37:942][863]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.04.03-18.10.43:901][863]LogSavePackage: Save=5112.33ms
+[2018.04.03-18.10.43:901][863]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltDataCF982DB844C1A7135EFCED8AED6B4076.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.04.03-18.10.43:913][863]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.04.03-18.12.17:698][854]LogSavePackage: Save=1110.17ms
+[2018.04.03-18.12.17:699][854]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene7235AC424E0FEFF67D8B4BA09204A82D.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.04.03-18.12.17:701][854]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.04.03-18.12.20:912][854]LogSavePackage: Save=3157.99ms
+[2018.04.03-18.12.20:912][854]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltDataE0F2FA364CAB29F24FA2818E77422490.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.04.03-18.12.20:922][854]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.04.03-18.12.23:993][ 11]LogSavePackage: Save=28.98ms
+[2018.04.03-18.12.23:993][ 11]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Fern_01_mat14687E6346BC6A6E96B0B19B5061000C.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Fern/Fern_01_mat.uasset'
+[2018.04.03-18.12.24:000][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Fern/Fern_01_mat.uasset
+[2018.04.03-18.12.24:066][ 11]LogSavePackage: Save=38.96ms
+[2018.04.03-18.12.24:066][ 11]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Grass_03_mat6A6B457C4CCD866FB0691C920B272ED0.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_mat.uasset'
+[2018.04.03-18.12.24:070][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_03_mat.uasset
+[2018.04.03-18.12.25:164][ 12]Cmd: QUIT_EDITOR
+[2018.04.03-18.12.25:305][ 12]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.03-18.12.25:330][ 12]LogExit: Preparing to exit.
+[2018.04.03-18.12.26:203][ 12]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.04.03-18.12.26:314][ 12]LogExit: Editor shut down
+[2018.04.03-18.12.26:323][ 12]LogExit: Transaction tracking system shut down
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.03-18.12.26:904][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.03-18.12.26:905][ 12]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.03-18.12.27:147][ 12]LogExit: Object subsystem successfully closed.
+[2018.04.03-18.12.27:201][ 12]LogD3D11RHI: Shutdown
+[2018.04.03-18.12.27:201][ 12]LogD3D11RHI: CleanupD3DDevice
+[2018.04.03-18.12.27:205][ 12]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.03-18.12.27:252][ 12]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.04.03-18.12.27:252][ 12]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.04.03-18.12.27:252][ 12]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.04.03-18.12.27:252][ 12]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.04.03-18.12.27:259][ 12]LogDirectoryWatcher: A directory notification for 'F:/Unreal 4.18/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.04.03-18.12.27:260][ 12]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' was aborted.
+[2018.04.03-18.12.27:260][ 12]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' was aborted.
+[2018.04.03-18.12.27:260][ 12]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' was aborted.
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.04.03-18.12.27:260][ 12]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.04.03-18.12.27:261][ 12]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.04.03-18.12.27:262][ 12]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.04.03-18.12.27:262][ 12]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.04.03-18.12.27:262][ 12]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.04.03-18.12.27:262][ 12]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.04.03-18.12.27:262][ 12]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.04.03-18.12.27:561][ 12]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.04.03-18.12.27:562][ 12]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.04.03-18.12.27:614][ 12]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.04.03-18.12.27:615][ 12]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.04.03-18.12.27:651][ 12]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.04.03-18.12.27:651][ 12]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.04.03-18.12.27:651][ 12]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.04.03-18.12.27:679][ 12]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.04.03-18.12.27:680][ 12]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.04.03-18.12.27:756][ 12]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.04.03-18.12.27:757][ 12]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.04.03-18.12.27:758][ 12]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.04.03-18.12.27:758][ 12]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.04.03-18.12.27:758][ 12]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.04.03-18.12.27:758][ 12]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.03-18.12.27:758][ 12]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.03-18.12.27:759][ 12]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.03-18.12.27:859][ 12]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.03-18.12.27:960][ 12]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.03-18.12.27:961][ 12]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.03-18.12.27:961][ 12]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.03-18.12.27:961][ 12]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.03-18.12.27:961][ 12]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.03-18.12.27:963][ 12]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.03-18.12.27:970][ 12]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.03-18.12.27:985][ 12]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.03-18.12.27:986][ 12]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.03-18.12.27:986][ 12]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.03-18.12.27:986][ 12]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.03-18.12.27:986][ 12]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.03-18.12.27:986][ 12]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.03-18.12.27:988][ 12]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.03-18.12.27:990][ 12]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.03-18.12.28:025][ 12]LogDerivedDataCache: Shutdown
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.03-18.12.28:025][ 12]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.03-18.12.28:026][ 12]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.03-18.12.28:026][ 12]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.03-18.12.28:040][ 12]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B162497BC-47B1-D0DC-7CC3-8EB7F961DC97%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=10e6b4d1454adc80c402fda4840b45e8%7C2c90cfa805f74c7c8a19ce3131a633e6%7C3792c45f-2c81-433f-9f30-88efbac6f71d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.03-18.12.28:063][ 12]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.03-18.12.28:065][ 12]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.03-18.12.28:065][ 12]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.03-18.12.28:065][ 12]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.03-18.12.28:065][ 12]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.03-18.12.28:066][ 12]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.03-18.12.28:066][ 12]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.03-18.12.28:066][ 12]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.03-18.12.28:068][ 12]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.03-18.12.28:092][ 12]LogExit: Exiting.
+[2018.04.03-18.12.28:114][ 12]Log file closed, 04/03/18 20:12:28
