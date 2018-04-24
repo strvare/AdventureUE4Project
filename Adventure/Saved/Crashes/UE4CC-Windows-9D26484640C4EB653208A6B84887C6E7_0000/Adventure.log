@@ -1,0 +1,569 @@
+﻿Log file open, 04/23/18 21:23:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1141809174) SRandInit(-1141809174).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.175782
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.23-19.23.08:246][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-19.23.08:246][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.23-19.23.08:261][  0]LogInit: Computer: MR_E-DATOR
+[2018.04.23-19.23.08:261][  0]LogInit: User: MrE
+[2018.04.23-19.23.08:261][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.23-19.23.08:261][  0]LogInit: High frequency timer resolution =3.233210 MHz
+[2018.04.23-19.23.08:261][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.23-19.23.08:261][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.23-19.23.08:261][  0]LogMemory: Process Physical Memory: 276.22 MB used, 276.22 MB peak
+[2018.04.23-19.23.08:261][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
+[2018.04.23-19.23.08:261][  0]LogMemory: Physical Memory: 5650.86 MB used,  2508.28 MB free, 8159.14 MB total
+[2018.04.23-19.23.08:261][  0]LogMemory: Virtual Memory: 672.39 MB used,  2508.28 MB free, 134217728.00 MB total
+[2018.04.23-19.23.08:393][  0]LogInit: Using OS detected language (sv-SE).
+[2018.04.23-19.23.08:393][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.04.23-19.23.08:396][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.04.23-19.23.08:397][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.04.23-19.23.08:903][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.23-19.23.09:203][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.23-19.23.09:267][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.23-19.23.09:267][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.23-19.23.09:269][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.23-19.23.09:269][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.23-19.23.09:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.23-19.23.09:275][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.23-19.23.09:275][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.23-19.23.09:275][  0]LogWindows: EnumDisplayDevices:
+[2018.04.23-19.23.09:276][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.23-19.23.09:276][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.23-19.23.09:276][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.04.23-19.23.09:276][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.23-19.23.09:276][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.23-19.23.09:276][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.23-19.23.09:276][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.23-19.23.09:276][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.23-19.23.09:276][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.04.23-19.23.09:317][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.23-19.23.09:335][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.23-19.23.09:384][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/9360/).
+[2018.04.23-19.23.09:384][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/0B67C3F54C02CAD75B225BB20F6C4475/'.
+[2018.04.23-19.23.09:384][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.23-19.23.10:415][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.23-19.23.10:465][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.23-19.23.10:517][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.23-19.23.10:567][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.23-19.23.10:619][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.23-19.23.10:670][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.23-19.23.10:721][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.23-19.23.10:771][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.23-19.23.10:813][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.23-19.23.10:863][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.23-19.23.10:914][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.23-19.23.10:964][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.23-19.23.11:016][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.23-19.23.11:065][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.23-19.23.11:165][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.23-19.23.11:165][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.23-19.23.11:216][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.23-19.23.11:252][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.23-19.23.11:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.23-19.23.11:368][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.23-19.23.11:418][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.23-19.23.11:469][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.23-19.23.11:518][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.23-19.23.11:568][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.23-19.23.11:568][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.23-19.23.11:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.23-19.23.12:080][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.23-19.23.12:099][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.23-19.23.12:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.23-19.23.12:122][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.23-19.23.12:123][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.23-19.23.12:123][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-19.23.12:123][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.23-19.23.12:593][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.23-19.23.12:940][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.23-19.23.12:978][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.23-19.23.12:978][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.23-19.23.12:978][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.23-19.23.12:978][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.23-19.23.12:978][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.23-19.23.13:023][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.04.23-19.23.13:193][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.04.23-19.23.13:679][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.029255 seconds
+[2018.04.23-19.23.13:684][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.23-19.23.13:685][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.23-19.23.13:685][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.23-19.23.13:731][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.23-19.23.16:533][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.23-19.23.16:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.23-19.23.17:215][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.23-19.23.17:624][  0]SourceControl: Source control is disabled
+[2018.04.23-19.23.18:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.23-19.23.18:744][  0]LogOcInput: OculusInput pre-init called
+[2018.04.23-19.23.19:019][  0]LogEngine: Initializing Engine...
+[2018.04.23-19.23.19:024][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.04.23-19.23.19:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.23-19.23.19:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.23-19.23.19:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.23-19.23.19:434][  0]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.23.19:465][  0]LogInit: FAudioDevice initialized.
+[2018.04.23-19.23.19:577][  0]LogDerivedDataCache: Saved boot cache 0.11s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.23-19.23.19:591][  0]LogInit: Texture streaming: Enabled
+[2018.04.23-19.23.19:679][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.23-19.23.19:803][  0]LogInit: Transaction tracking system initialized
+[2018.04.23-19.23.20:092][  0]BlueprintLog: New page: Editor Load
+[2018.04.23-19.23.20:899][  0]LocalizationService: Localization service is disabled
+[2018.04.23-19.23.21:601][  0]LogConsoleResponse: Display: 
+[2018.04.23-19.23.21:769][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.23-19.23.21:769][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.23-19.23.21:769][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.23-19.23.22:073][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.02s
+[2018.04.23-19.23.22:884][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.23-19.23.22:884][  0]LightingResults: New page: Lighting Build
+[2018.04.23-19.23.22:921][  0]MapCheck: New page: Map Check
+[2018.04.23-19.23.22:922][  0]LightingResults: New page: Lighting Build
+[2018.04.23-19.23.24:167][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.23.24:287][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.23-19.23.24:307][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.23-19.23.24:381][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.816ms to complete.
+[2018.04.23-19.23.24:381][  0]LogFileHelpers: Loading map 'roadSideScene' took 1.498
+[2018.04.23-19.23.24:487][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.23-19.23.24:600][  0]LogCollectionManager: Loaded 0 collections in 0.001055 seconds
+[2018.04.23-19.23.24:696][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.04.23-19.23.24:696][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.04.23-19.23.24:696][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.04.23-19.23.24:696][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.23-19.23.24:707][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2363 classes and 519 folders.
+[2018.04.23-19.23.24:771][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.23-19.23.24:815][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.23-19.23.24:859][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.23-19.23.25:070][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-19.23.25:072][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.23-19.23.25:078][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.23-19.23.25:204][  0]LogRenderer: Reallocating scene render targets to support 1072x664 Format 9 NumSamples 1 (Frame:1).
+[2018.04.23-19.23.25:216][  0]LogStaticMesh: Allocated 512x162x64 distance field atlas = 10.1Mb, with 69 objects containing 5.1Mb backing data
+[2018.04.23-19.23.25:501][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.23-19.23.25:501][  0]LogLoad: (Engine Initialization) Total time: 19.50 seconds
+[2018.04.23-19.23.25:501][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.23-19.23.25:501][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.23-19.23.25:501][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.23-19.23.25:548][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.04.23-19.23.25:605][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-19.23.25:690][  2]LogAssetRegistry: Asset discovery search completed in 12.5191 seconds
+[2018.04.23-19.23.25:697][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.23-19.23.25:697][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.04.23-19.23.26:572][ 42]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-19.23.30:621][469]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 5.10s
+[2018.04.23-19.24.16:550][ 21]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2018.04.23-19.24.18:598][173]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight5)
+[2018.04.23-19.24.20:013][262]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2018.04.23-19.24.22:091][394]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2018.04.23-19.24.50:123][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.24.50:215][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.24.50:215][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-19.24.50:216][865]PIE: New page: PIE session: roadSideScene (Apr 23, 2018, 11:24:50 PM)
+[2018.04.23-19.24.50:216][865]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.23-19.24.50:340][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124050s)
+[2018.04.23-19.24.50:341][865]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.24.50:341][865]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2018.04.23-19.24.50:341][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.125552s)
+[2018.04.23-19.24.50:375][865]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.24.50:410][865]LogInit: FAudioDevice initialized.
+[2018.04.23-19.24.50:479][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.23-19.24.50:507][865]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.23-21.24.50
+[2018.04.23-19.24.50:508][865]LogWorld: Bringing up level for play took: 0.026939
+[2018.04.23-19.24.50:548][865]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.23-19.24.50:549][865]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.643
+[2018.04.23-19.24.50:549][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.25.28:407][263]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.25.28:451][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.25.30:522][460]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2018.04.23-19.26.06:986][386]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.23-19.28.20:327][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.28.20:356][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.20:356][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-19.28.20:356][133]PIE: New page: PIE session: roadSideScene (Apr 23, 2018, 11:28:20 PM)
+[2018.04.23-19.28.20:356][133]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.23-19.28.20:452][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095603s)
+[2018.04.23-19.28.20:453][133]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.28.20:453][133]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2018.04.23-19.28.20:453][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.097078s)
+[2018.04.23-19.28.20:517][133]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.28.20:545][133]LogInit: FAudioDevice initialized.
+[2018.04.23-19.28.20:582][133]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.23-19.28.20:609][133]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.23-21.28.20
+[2018.04.23-19.28.20:610][133]LogWorld: Bringing up level for play took: 0.027090
+[2018.04.23-19.28.20:612][133]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.58
+[2018.04.23-19.28.20:612][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.28:168][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.28:209][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.35:062][629]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.28.35:089][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.35:089][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-19.28.35:089][629]PIE: New page: PIE session: roadSideScene (Apr 23, 2018, 11:28:35 PM)
+[2018.04.23-19.28.35:089][629]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.23-19.28.35:180][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090961s)
+[2018.04.23-19.28.35:181][629]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.28.35:181][629]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.04.23-19.28.35:182][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.092400s)
+[2018.04.23-19.28.35:219][629]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.28.35:244][629]LogInit: FAudioDevice initialized.
+[2018.04.23-19.28.35:280][629]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.23-19.28.35:305][629]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.23-21.28.35
+[2018.04.23-19.28.35:307][629]LogWorld: Bringing up level for play took: 0.025351
+[2018.04.23-19.28.35:308][629]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.116
+[2018.04.23-19.28.35:309][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.39:481][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.39:524][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.28.58:205][764]Cmd: TRANSACTION UNDO
+[2018.04.23-19.28.58:205][764]LogEditorTransaction: Undo Edit Horizon Color
+[2018.04.23-19.29.22:759][816]Cmd: TRANSACTION UNDO
+[2018.04.23-19.29.22:759][816]LogEditorTransaction: Undo Edit Horizon Falloff
+[2018.04.23-19.29.27:870][203]Cmd: TRANSACTION UNDO
+[2018.04.23-19.29.27:870][203]LogEditorTransaction: Undo Edit Horizon Falloff
+[2018.04.23-19.30.30:814][509]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.23-19.30.32:245][509]LogSavePackage: Save=1336.30ms
+[2018.04.23-19.30.32:245][509]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene614D47DA4605945BFCE655AC90200991.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.04.23-19.30.32:274][509]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.04.23-19.30.32:321][509]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.23-19.30.43:282][509]LogSavePackage: Save=9463.18ms
+[2018.04.23-19.30.43:282][509]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltData74F9BBB8441EDF3D4A8892B80C478833.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.04.23-19.30.43:321][509]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.04.23-19.30.43:816][535]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.30.43:844][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.30.43:844][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-19.30.43:844][535]PIE: New page: PIE session: roadSideScene (Apr 23, 2018, 11:30:43 PM)
+[2018.04.23-19.30.43:844][535]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.23-19.30.43:953][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109147s)
+[2018.04.23-19.30.43:954][535]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.30.43:955][535]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2018.04.23-19.30.43:955][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.110730s)
+[2018.04.23-19.30.43:990][535]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.30.44:032][535]LogInit: FAudioDevice initialized.
+[2018.04.23-19.30.44:064][535]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.23-19.30.44:090][535]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.23-21.30.44
+[2018.04.23-19.30.44:091][535]LogWorld: Bringing up level for play took: 0.025561
+[2018.04.23-19.30.44:092][535]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.9
+[2018.04.23-19.30.44:093][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.00:014][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.00:057][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.05:932][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.31.05:959][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.05:960][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.23-19.31.05:960][943]PIE: New page: PIE session: roadSideScene (Apr 23, 2018, 11:31:05 PM)
+[2018.04.23-19.31.05:960][943]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.04.23-19.31.06:054][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093039s)
+[2018.04.23-19.31.06:054][943]LogAIModule: Creating AISystem for world roadSideScene
+[2018.04.23-19.31.06:055][943]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2018.04.23-19.31.06:055][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.094452s)
+[2018.04.23-19.31.06:088][943]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.23-19.31.06:122][943]LogInit: FAudioDevice initialized.
+[2018.04.23-19.31.06:153][943]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.04.23-19.31.06:178][943]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.04.23-21.31.06
+[2018.04.23-19.31.06:179][943]LogWorld: Bringing up level for play took: 0.026305
+[2018.04.23-19.31.06:181][943]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.989
+[2018.04.23-19.31.06:182][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.26:377][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.31.26:419][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.04.23-19.32.01:162][664]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.04.23-19.32.02:403][719]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.04.23-19.32.29:255][635]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.32.35:320][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.23-19.32.43:274][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ElmTree_With_Leaves9)
+[2018.04.23-19.32.44:485][705]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.23-19.33.13:459][230]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.23-19.33.13:464][230]LogMaterial: Missing cached shader map for material waterfall_mat, compiling. 
+[2018.04.23-19.33.15:522][230]LogMaterial: Missing cached shader map for material waterfall_mat, compiling. 
+[2018.04.23-19.33.15:585][230]LogMaterial: Missing cached shader map for material waterfall_mat, compiling. 
+[2018.04.23-19.33.15:716][230]LogSlate: Took 0.035882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.23-19.33.16:111][231]LogStaticMesh: Allocated 512x178x64 distance field atlas = 11.1Mb, with 71 objects containing 5.4Mb backing data
+[2018.04.23-19.33.19:951][470]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-19.33.19:952][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-19.33.19:952][470]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-19.33.19:952][470]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-19.34.19:336][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_8.MaterialExpressionAdd_4"')'
+[2018.04.23-19.34.19:336][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPower'"MaterialGraphNode_26.MaterialExpressionPower_5"')'
+[2018.04.23-19.34.19:336][324]LogLinker: Can't find file '/Engine/Transient'
+[2018.04.23-19.34.19:336][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:357][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:357][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_13.MaterialExpressionClamp_0"')'
+[2018.04.23-19.34.19:357][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant3Vector'"MaterialGraphNode_7.MaterialExpressionConstant3Vector_4"')'
+[2018.04.23-19.34.19:357][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:358][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_14.MaterialExpressionScalarParameter_7"')'
+[2018.04.23-19.34.19:358][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:358][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_9.MaterialExpressionMultiply_5"')'
+[2018.04.23-19.34.19:358][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:359][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_10.MaterialExpressionSubtract_1"')'
+[2018.04.23-19.34.19:359][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_12.MaterialExpressionScalarParameter_6"')'
+[2018.04.23-19.34.19:359][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:359][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:359][324]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'"MaterialGraphNode_11.MaterialExpressionDivide_0"')'
+[2018.04.23-19.34.19:360][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:360][324]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.19:394][324]LogMaterial: Missing cached shader map for material waterfall_mat, compiling. 
+[2018.04.23-19.34.19:462][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2018.04.23-19.34.23:983][768]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.23-19.34.23:983][768]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.23-19.34.23:983][768]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-19.34.23:983][768]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-19.34.25:529][947]LogMaterial: Missing cached shader map for material waterfall_mat, compiling. 
+[2018.04.23-19.34.25:554][947]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2018.04.23-19.34.29:329][329]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.23-19.34.29:329][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.23-19.34.29:329][329]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.04.23-19.34.29:329][329]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.23-19.34.52:979][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPower'"MaterialGraphNode_26.MaterialExpressionPower_5"')'
+[2018.04.23-19.34.52:979][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'"MaterialGraphNode_32.MaterialExpressionLinearInterpolate_1"')'
+[2018.04.23-19.34.52:979][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:980][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:980][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_15.MaterialExpressionVertexColor_2"',OutputIndex=1,Mask=1,MaskR=1)'
+[2018.04.23-19.34.52:980][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_31.MaterialExpressionScalarParameter_13"')'
+[2018.04.23-19.34.52:981][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:981][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_16.MaterialExpressionSubtract_5"')'
+[2018.04.23-19.34.52:981][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_27.MaterialExpressionTextureSample_11"',OutputIndex=1,Mask=1,MaskR=1)'
+[2018.04.23-19.34.52:981][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:981][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_17.MaterialExpressionAdd_11"')'
+[2018.04.23-19.34.52:982][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:982][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_21.MaterialExpressionMultiply_20"')'
+[2018.04.23-19.34.52:982][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_25.MaterialExpressionScalarParameter_11"')'
+[2018.04.23-19.34.52:982][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:983][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_23.MaterialExpressionPanner_9"')'
+[2018.04.23-19.34.52:983][859]LogLinker: Can't find file '/Game/Adin/VFX/Waterfall/Textures/T_MultiClouds'
+[2018.04.23-19.34.52:983][859]LogLinker: Can't find file '/Game/Adin/VFX/Waterfall/Textures/T_MultiClouds'
+[2018.04.23-19.34.52:983][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Adin/VFX/Waterfall/Textures/T_MultiClouds.T_MultiClouds"''
+[2018.04.23-19.34.52:983][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:984][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_20.MaterialExpressionTextureSample_10"',OutputIndex=3,Mask=1,MaskB=1)'
+[2018.04.23-19.34.52:984][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexNormalWS'"MaterialGraphNode_22.MaterialExpressionVertexNormalWS_3"')'
+[2018.04.23-19.34.52:984][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:984][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:985][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_24.MaterialExpressionTextureCoordinate_9"')'
+[2018.04.23-19.34.52:985][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:985][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:986][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:986][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSaturate'"MaterialGraphNode_18.MaterialExpressionSaturate_4"')'
+[2018.04.23-19.34.52:986][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_30.MaterialExpressionScalarParameter_12"')'
+[2018.04.23-19.34.52:986][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:986][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_28.MaterialExpressionPanner_10"')'
+[2018.04.23-19.34.52:987][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Adin/VFX/Waterfall/Textures/T_MultiClouds.T_MultiClouds"''
+[2018.04.23-19.34.52:987][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:987][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_29.MaterialExpressionTextureCoordinate_10"')'
+[2018.04.23-19.34.52:987][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:988][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:988][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:988][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:989][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_33.MaterialExpressionMultiply_13"')'
+[2018.04.23-19.34.52:989][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_19.MaterialExpressionMultiply_19"')'
+[2018.04.23-19.34.52:989][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexColor'"MaterialGraphNode_15.MaterialExpressionVertexColor_2"',OutputIndex=3,Mask=1,MaskB=1)'
+[2018.04.23-19.34.52:989][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:989][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_35.MaterialExpressionMultiply_14"')'
+[2018.04.23-19.34.52:990][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_37.MaterialExpressionScalarParameter_14"')'
+[2018.04.23-19.34.52:990][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:990][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_23.MaterialExpressionPanner_9"')'
+[2018.04.23-19.34.52:990][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Adin/VFX/Waterfall/Textures/T_MultiClouds.T_MultiClouds"''
+[2018.04.23-19.34.52:990][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:991][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_34.MaterialExpressionTextureSample_6"',OutputIndex=3,Mask=1,MaskB=1)'
+[2018.04.23-19.34.52:991][859]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVertexNormalWS'"MaterialGraphNode_36.MaterialExpressionVertexNormalWS_4"')'
+[2018.04.23-19.34.52:991][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:992][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:992][859]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.M_StylizedWaterfall"''
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/VREditor/SnapGrid/SnapGridMaterial.SnapGridMaterial:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/VREditor/Fonts/VRTextMaterial.VRTextMaterial:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/VREditor/WorldMovementGrid/GridPostProcess.GridPostProcess:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Game/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Game/StarterContent/Materials/M_Water_Ocean_Edited.M_Water_Ocean_Edited:MaterialExpressionComment_2
+[2018.04.23-19.34.52:992][859]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Game/SoulCave/Environment/Materials/Rocks/M_Cave_Rock_MASTER.M_Cave_Rock_MASTER:MaterialExpressionComment_2
+[2018.04.23-19.34.53:000][859]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2) from referencer (MaterialGraphNode_Comment /Engine/Transient.waterfall_mat:MaterialGraph_0.MaterialGraphNode_Comment_2).  Import failed...
+[2018.04.23-19.34.53:000][859]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_2"''
