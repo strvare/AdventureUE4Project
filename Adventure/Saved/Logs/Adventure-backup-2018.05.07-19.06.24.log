@@ -1,0 +1,1347 @@
+﻿Log file open, 05/07/18 17:07:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1344344860) SRandInit(-1344344860).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206922
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.07-15.07.02:653][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-15.07.02:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.07-15.07.02:667][  0]LogInit: Computer: MR_E-DATOR
+[2018.05.07-15.07.02:667][  0]LogInit: User: MrE
+[2018.05.07-15.07.02:667][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.07-15.07.02:667][  0]LogInit: High frequency timer resolution =3.233219 MHz
+[2018.05.07-15.07.02:668][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.07-15.07.02:668][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.07-15.07.02:668][  0]LogMemory: Process Physical Memory: 276.81 MB used, 276.81 MB peak
+[2018.05.07-15.07.02:668][  0]LogMemory: Process Virtual Memory: 276.80 MB used, 276.80 MB peak
+[2018.05.07-15.07.02:668][  0]LogMemory: Physical Memory: 5356.19 MB used,  2802.95 MB free, 8159.14 MB total
+[2018.05.07-15.07.02:668][  0]LogMemory: Virtual Memory: 684.39 MB used,  2802.95 MB free, 134217728.00 MB total
+[2018.05.07-15.07.02:836][  0]LogInit: Using OS detected language (sv-SE).
+[2018.05.07-15.07.02:836][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.05.07-15.07.02:839][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.05.07-15.07.02:840][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.05.07-15.07.03:282][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.07-15.07.03:589][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.07-15.07.03:666][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.07-15.07.03:666][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.07-15.07.03:668][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.07-15.07.03:668][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.07-15.07.03:668][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.07-15.07.03:674][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.07-15.07.03:675][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.07-15.07.03:675][  0]LogWindows: EnumDisplayDevices:
+[2018.05.07-15.07.03:675][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.07-15.07.03:675][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.07-15.07.03:675][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.07-15.07.03:675][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.07-15.07.03:675][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.07-15.07.03:675][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.07-15.07.03:675][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.07-15.07.03:675][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.07-15.07.03:675][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.07-15.07.03:718][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.07-15.07.03:748][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.07-15.07.03:797][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/10604/).
+[2018.05.07-15.07.03:797][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/CD18EA4A405DC0D96895A6915AB8B5D1/'.
+[2018.05.07-15.07.03:797][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.07-15.07.04:810][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.07-15.07.04:859][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.07-15.07.04:914][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.07-15.07.04:973][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.07-15.07.05:023][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.07-15.07.05:076][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.07-15.07.05:126][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.07-15.07.05:175][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.07-15.07.05:217][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.07-15.07.05:267][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.07-15.07.05:316][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.07-15.07.05:365][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.07-15.07.05:414][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.07-15.07.05:462][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.07-15.07.05:559][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.07-15.07.05:559][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.07-15.07.05:609][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.07-15.07.05:654][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.07-15.07.05:741][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.07-15.07.05:768][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.07-15.07.05:817][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.07-15.07.05:865][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.07-15.07.05:914][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.07-15.07.05:963][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.07-15.07.05:963][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.07-15.07.06:429][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.07-15.07.06:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.07-15.07.06:536][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.07-15.07.06:548][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.07-15.07.06:560][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.07-15.07.06:561][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.07-15.07.06:561][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-15.07.06:561][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.07-15.07.07:013][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.07-15.07.07:488][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.07-15.07.07:523][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.07-15.07.07:523][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.07-15.07.07:523][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.07-15.07.07:523][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.07-15.07.07:523][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.07-15.07.07:591][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.05.07-15.07.07:769][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.05.07-15.07.08:474][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.029099 seconds
+[2018.05.07-15.07.08:480][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.07-15.07.08:480][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.07-15.07.08:480][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.07-15.07.08:523][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.07-15.07.11:967][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.07-15.07.12:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.07-15.07.12:631][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.07-15.07.13:033][  0]SourceControl: Source control is disabled
+[2018.05.07-15.07.13:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.07-15.07.14:134][  0]LogOcInput: OculusInput pre-init called
+[2018.05.07-15.07.14:408][  0]LogEngine: Initializing Engine...
+[2018.05.07-15.07.14:413][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.05.07-15.07.14:653][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.07-15.07.14:653][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.07-15.07.14:780][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.07-15.07.14:810][  0]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-15.07.14:853][  0]LogInit: FAudioDevice initialized.
+[2018.05.07-15.07.14:962][  0]LogDerivedDataCache: Saved boot cache 0.11s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.07-15.07.14:983][  0]LogInit: Texture streaming: Enabled
+[2018.05.07-15.07.15:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.07-15.07.15:218][  0]LogInit: Transaction tracking system initialized
+[2018.05.07-15.07.15:503][  0]BlueprintLog: New page: Editor Load
+[2018.05.07-15.07.16:295][  0]LocalizationService: Localization service is disabled
+[2018.05.07-15.07.16:814][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.05.07-15.07.16:815][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.05.07-15.07.16:815][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2018.05.07-15.07.17:017][  0]LogConsoleResponse: Display: 
+[2018.05.07-15.07.17:226][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.07-15.07.17:226][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.07-15.07.17:226][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.07-15.07.17:858][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.09s
+[2018.05.07-15.07.18:341][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.07-15.07.18:341][  0]LightingResults: New page: Lighting Build
+[2018.05.07-15.07.18:378][  0]MapCheck: New page: Map Check
+[2018.05.07-15.07.18:378][  0]LightingResults: New page: Lighting Build
+[2018.05.07-15.07.31:657][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-15.07.33:801][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.07-15.07.33:833][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.07-15.07.33:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.612ms to complete.
+[2018.05.07-15.07.33:906][  0]LogFileHelpers: Loading map 'roadSideScene' took 15.565
+[2018.05.07-15.07.34:015][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-15.07.34:745][  0]LogCollectionManager: Loaded 0 collections in 0.001044 seconds
+[2018.05.07-15.07.34:845][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.05.07-15.07.34:845][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.05.07-15.07.34:845][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.05.07-15.07.34:845][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.07-15.07.34:856][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2363 classes and 519 folders.
+[2018.05.07-15.07.34:943][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-15.07.35:779][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.07-15.07.35:892][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.07-15.07.36:452][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.07-15.07.36:454][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.07-15.07.36:491][  0]LogSlate: Took 0.010356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.07-15.07.37:007][  0]LogRenderer: Reallocating scene render targets to support 964x664 Format 9 NumSamples 1 (Frame:1).
+[2018.05.07-15.07.37:542][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.07-15.07.37:542][  0]LogLoad: (Engine Initialization) Total time: 37.66 seconds
+[2018.05.07-15.07.37:542][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.07-15.07.37:542][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.07-15.07.37:542][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.07-15.07.38:016][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.07-15.07.38:339][  0]LogSlate: Took 0.035565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.07-15.07.39:146][  2]LogStaticMesh: Allocated 512x162x64 distance field atlas = 10.1Mb, with 70 objects containing 5.1Mb backing data
+[2018.05.07-15.07.39:701][  3]LogAssetRegistry: Asset discovery search completed in 31.9551 seconds
+[2018.05.07-15.07.39:704][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.07-15.07.39:704][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.05.07-15.07.39:802][  3]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.07-15.07.40:361][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-15.07.43:367][ 92]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 5.46s
+[2018.05.07-15.18.12:163][907]AssetReimport: New page: Outstanding source content changes 7:18:12 PM
+[2018.05.07-15.18.12:371][908]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Door_01.fbx]
+[2018.05.07-15.18.12:395][908]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Door_01.fbx
+[2018.05.07-15.18.12:408][908]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.07-15.18.12:508][908]LogStaticMesh: Building static mesh Door_01...
+[2018.05.07-15.18.12:569][908]LogStaticMesh: Built static mesh [0.06s] /Game/Linda_Models/Cabin/Door_01.Door_01
+[2018.05.07-15.18.12:701][908]LogEditorFactories: -- imported successfully
+[2018.05.07-15.18.13:164][908]LogMeshUtilities: Finished distance field build in 0.5s - 8x19x37 distance field, 156 triangles, Range [-0.0, 0.4], Door_01
+[2018.05.07-15.18.13:297][909]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.07-15.18.13:487][909]LogSavePackage: Save=44.72ms
+[2018.05.07-15.18.13:487][909]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Door_011C138D2D487A1A7A0EEE839201322D3F.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Door_01.uasset'
+[2018.05.07-15.18.13:500][909]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Door_01.uasset
+[2018.05.07-15.18.16:514][219]AssetReimport: Reimported asset Door_01 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Door_01.fbx.
+[2018.05.07-15.18.21:768][763]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-15.18.22:337][808]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-15.18.57:666][444]LogActorFactory: Actor Factory created Door_02
+[2018.05.07-15.19.01:503][828]LogActorFactory: Actor Factory created Door_02
+[2018.05.07-15.19.01:895][866]LogActorFactory: Actor Factory created Door_02
+[2018.05.07-15.19.22:416][934]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-15.19.23:219][ 13]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-15.19.25:810][290]Cmd: DELETE
+[2018.05.07-15.19.25:810][290]Cmd: ACTOR DELETE
+[2018.05.07-15.19.26:170][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-15.19.26:203][290]LogEditorActor: Deleted 1 Actors (0.178 secs)
+[2018.05.07-15.19.27:066][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_02)
+[2018.05.07-15.19.28:199][487]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-15.19.29:122][578]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-15.19.40:749][766]Cmd: DELETE
+[2018.05.07-15.19.40:750][766]Cmd: ACTOR DELETE
+[2018.05.07-15.19.40:766][766]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-15.19.40:777][766]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.07-15.19.44:366][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_02)
+[2018.05.07-15.19.45:535][284]Cmd: DELETE
+[2018.05.07-15.19.45:535][284]Cmd: ACTOR DELETE
+[2018.05.07-15.19.45:551][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-15.19.45:562][284]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.05.07-15.19.51:952][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.19.55:035][168]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.05.07-15.19.59:378][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.20.58:023][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-15.20.58:867][844]Cmd: DELETE
+[2018.05.07-15.20.58:868][844]Cmd: ACTOR DELETE
+[2018.05.07-15.21.01:013][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-15.21.01:024][844]LogEditorActor: Deleted 1 Actors (2.157 secs)
+[2018.05.07-15.21.05:217][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.22.06:552][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.22.26:831][ 40]Cmd: MODE ROTGRID=0
+[2018.05.07-15.24.18:337][976]Cmd: TRANSACTION UNDO
+[2018.05.07-15.24.18:337][976]LogEditorTransaction: Undo Rotate Actors
+[2018.05.07-15.44.11:119][182]LogSavePackage: Save=11.04ms
+[2018.05.07-15.44.11:119][182]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_Opening9295DD674CDA07A794F4F5A0DC0B9FBC.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-15.44.11:124][182]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-15.44.19:376][899]LogSlate: Took 0.019920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.07-15.44.40:162][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_01)
+[2018.05.07-15.44.40:927][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_01)
+[2018.05.07-15.44.44:293][343]Cmd: MODE GRID=0
+[2018.05.07-15.44.56:628][763]Cmd: TRANSACTION UNDO
+[2018.05.07-15.44.56:628][763]LogEditorTransaction: Undo Move Actors
+[2018.05.07-15.44.56:668][764]LogStaticMesh: Allocated 512x165x64 distance field atlas = 10.3Mb, with 74 objects containing 5.7Mb backing data
+[2018.05.07-15.45.33:647][985]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-15.45.34:467][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.45.51:796][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.47.09:974][503]LogSavePackage: Save=1332.08ms
+[2018.05.07-15.47.09:974][503]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideSceneBDAB41E4451CEF0651D77092A0ABA3FB.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.05.07-15.47.09:978][503]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.05.07-15.47.10:032][503]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.07-15.47.20:664][503]LogSavePackage: Save=9350.81ms
+[2018.05.07-15.47.20:665][503]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltDataEAB1D0C2456D767810C681B3A547E4B8.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.05.07-15.47.20:683][503]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.05.07-15.47.22:772][661]LogSavePackage: Save=21.12ms
+[2018.05.07-15.47.22:772][661]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_OpeningC511F02E4774AB973332BEB43403B4DE.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-15.47.22:775][661]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-15.47.31:577][516]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-15.48.00:699][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_01)
+[2018.05.07-15.48.01:490][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_01)
+[2018.05.07-15.48.03:724][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-15.48.07:715][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_01)
+[2018.05.07-15.48.53:357][ 63]Cmd: DELETE
+[2018.05.07-15.48.53:357][ 63]Cmd: ACTOR DELETE
+[2018.05.07-15.48.53:373][ 63]LogEditorActor: Deleted Actor: TriggerBox
+[2018.05.07-15.48.53:384][ 63]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.07-15.49.15:639][229]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.07-15.49.17:085][229]LogSlate: Took 0.025836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.07-15.49.44:693][231]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2018.05.07-15.49.44:693][231]LogStaticMesh: Allocated 512x179x64 distance field atlas = 11.2Mb, with 76 objects containing 5.9Mb backing data
+[2018.05.07-15.51.13:299][745]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-15.53.16:355][ 40]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.05.07-15.54.44:393][478]BlueprintLog: New page: Compile roadSideScene
+[2018.05.07-15.54.47:095][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-15.54.47:296][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.54.47:316][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-15.54.47:416][734]PIE: New page: PIE session: roadSideScene (May 7, 2018, 7:54:47 PM)
+[2018.05.07-15.54.47:427][734]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-15.54.47:536][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109357s)
+[2018.05.07-15.54.47:537][734]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-15.54.47:547][734]LogPlayLevel: PIE: World Init took: (0.011222s)
+[2018.05.07-15.54.47:554][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.127909s)
+[2018.05.07-15.54.47:617][734]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-15.54.47:652][734]LogInit: FAudioDevice initialized.
+[2018.05.07-15.54.47:707][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-15.54.47:847][734]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-17.54.47
+[2018.05.07-15.54.47:897][734]LogWorld: Bringing up level for play took: 0.087826
+[2018.05.07-15.54.48:050][734]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.05.07-15.54.48:077][734]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.244
+[2018.05.07-15.54.48:077][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.55.33:876][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.55.33:971][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.55.40:772][496]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-15.56.27:133][864]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-15.56.27:161][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.56.27:161][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-15.56.27:162][864]PIE: New page: PIE session: roadSideScene (May 7, 2018, 7:56:27 PM)
+[2018.05.07-15.56.27:162][864]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-15.56.27:257][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095396s)
+[2018.05.07-15.56.27:258][864]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-15.56.27:258][864]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.05.07-15.56.27:258][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.096784s)
+[2018.05.07-15.56.27:304][864]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-15.56.27:330][864]LogInit: FAudioDevice initialized.
+[2018.05.07-15.56.27:376][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-15.56.27:404][864]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-17.56.27
+[2018.05.07-15.56.27:405][864]LogWorld: Bringing up level for play took: 0.028959
+[2018.05.07-15.56.27:407][864]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.575
+[2018.05.07-15.56.27:408][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.57.12:920][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.57.12:963][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-15.57.19:319][622]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.05.07-15.57.20:734][754]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.00.07:520][256]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.00.56:269][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-16.00.58:261][592]LogSavePackage: Save=50.94ms
+[2018.05.07-16.00.58:261][592]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_OpeningF490092A41A344188B2B7596FE7413BE.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-16.00.58:266][592]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-16.01.01:066][832]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.01.12:463][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.01.12:492][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.01.12:493][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.01.12:493][933]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:01:12 PM)
+[2018.05.07-16.01.12:493][933]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.01.12:590][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096801s)
+[2018.05.07-16.01.12:592][933]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.01.12:592][933]LogPlayLevel: PIE: World Init took: (0.002408s)
+[2018.05.07-16.01.12:593][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.099727s)
+[2018.05.07-16.01.12:637][933]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.01.12:680][933]LogInit: FAudioDevice initialized.
+[2018.05.07-16.01.12:714][933]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.01.12:741][933]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.01.12
+[2018.05.07-16.01.12:743][933]LogWorld: Bringing up level for play took: 0.028337
+[2018.05.07-16.01.12:746][933]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.086
+[2018.05.07-16.01.12:746][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.01.53:879][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.01.53:927][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.01.55:061][508]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.03.11:055][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-16.03.18:518][ 38]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.03.18:648][ 39]LogEditorViewport: Clicking on Component (LMB): SceneComponent (SceneComp)
+[2018.05.07-16.12.02:732][200]LogSavePackage: Save=17.01ms
+[2018.05.07-16.12.02:733][200]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_OpeningF6D732E64870A805285AE78120CF4423.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-16.12.02:737][200]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-16.12.05:159][422]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.12.05:187][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.12.05:188][422]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.07-16.12.05:191][422]LogPlayLevel: [PlayLevel] Compiling roadSideScene before play...
+[2018.05.07-16.12.05:338][422]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (1 blueprints)
+[2018.05.07-16.12.05:338][422]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:12:05 PM)
+[2018.05.07-16.12.05:338][422]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.12.05:432][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093998s)
+[2018.05.07-16.12.05:433][422]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.12.05:433][422]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.05.07-16.12.05:433][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.095332s)
+[2018.05.07-16.12.05:474][422]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.12.05:500][422]LogInit: FAudioDevice initialized.
+[2018.05.07-16.12.05:536][422]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.12.05:563][422]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.12.05
+[2018.05.07-16.12.05:565][422]LogWorld: Bringing up level for play took: 0.027550
+[2018.05.07-16.12.05:567][422]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.735
+[2018.05.07-16.12.05:567][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.12.59:638][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.12.59:684][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.14.27:076][280]LogSlate: Took 0.012391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.07-16.14.50:792][115]LogClass: Warning: Type mismatch in NewVar_0 of SKEL_roadSideScene_C - Previous (StructProperty) Current(IntProperty) for package:  FObjectReader
+[2018.05.07-16.15.05:912][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-16.15.45:176][375]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.15.45:285][376]LogEditorViewport: Clicking on Component (LMB): SceneComponent (SceneComp)
+[2018.05.07-16.16.59:658][ 91]LogSavePackage: Save=18.23ms
+[2018.05.07-16.16.59:658][ 91]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_OpeningDB860AB04B79E8C6711DCD8F5189CDB2.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-16.16.59:663][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-16.17.57:763][641]BlueprintLog: New page: Compile roadSideScene
+[2018.05.07-16.18.00:334][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.18.00:363][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.18.00:363][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.18.00:363][871]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:18:00 PM)
+[2018.05.07-16.18.00:364][871]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.18.00:458][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093953s)
+[2018.05.07-16.18.00:458][871]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.18.00:459][871]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.05.07-16.18.00:459][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.095332s)
+[2018.05.07-16.18.00:500][871]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.18.00:526][871]LogInit: FAudioDevice initialized.
+[2018.05.07-16.18.00:557][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.18.00:584][871]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.18.00
+[2018.05.07-16.18.00:586][871]LogWorld: Bringing up level for play took: 0.028318
+[2018.05.07-16.18.00:588][871]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.244
+[2018.05.07-16.18.00:588][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.18.46:340][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.18.46:398][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.18.52:079][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_01)
+[2018.05.07-16.19.25:757][348]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.19.25:785][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.19.25:785][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.19.25:785][348]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:19:25 PM)
+[2018.05.07-16.19.25:786][348]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.19.25:878][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092582s)
+[2018.05.07-16.19.25:879][348]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.19.25:879][348]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.05.07-16.19.25:880][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.094091s)
+[2018.05.07-16.19.25:921][348]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.19.25:947][348]LogInit: FAudioDevice initialized.
+[2018.05.07-16.19.25:978][348]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.19.26:006][348]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.19.26
+[2018.05.07-16.19.26:008][348]LogWorld: Bringing up level for play took: 0.029430
+[2018.05.07-16.19.26:010][348]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.178
+[2018.05.07-16.19.26:010][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.20.04:258][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.20.04:314][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.21.28:439][192]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bedrom_Door_Opening)
+[2018.05.07-16.25.30:808][561]LogSavePackage: Save=19.83ms
+[2018.05.07-16.25.30:808][561]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Bedrom_Door_OpeningF307979149F100EA5AC91FB75B30CEB3.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset'
+[2018.05.07-16.25.30:812][561]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Bedrom_Door_Opening.uasset
+[2018.05.07-16.25.32:764][737]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.25.32:793][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.25.32:794][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.25.32:794][737]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:25:32 PM)
+[2018.05.07-16.25.32:794][737]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.25.32:885][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090847s)
+[2018.05.07-16.25.32:886][737]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.25.32:886][737]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2018.05.07-16.25.32:886][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.092559s)
+[2018.05.07-16.25.32:930][737]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.25.32:963][737]LogInit: FAudioDevice initialized.
+[2018.05.07-16.25.32:998][737]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.25.33:025][737]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.25.33
+[2018.05.07-16.25.33:027][737]LogWorld: Bringing up level for play took: 0.027874
+[2018.05.07-16.25.33:029][737]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.197
+[2018.05.07-16.25.33:029][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.25.34:157][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.25.34:201][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.25.36:746][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.25.36:775][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.25.36:775][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.25.36:775][ 29]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:25:36 PM)
+[2018.05.07-16.25.36:775][ 29]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.25.36:867][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091892s)
+[2018.05.07-16.25.36:868][ 29]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.25.36:868][ 29]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.05.07-16.25.36:868][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.093253s)
+[2018.05.07-16.25.36:910][ 29]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.25.36:943][ 29]LogInit: FAudioDevice initialized.
+[2018.05.07-16.25.36:974][ 29]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.25.37:001][ 29]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.25.37
+[2018.05.07-16.25.37:003][ 29]LogWorld: Bringing up level for play took: 0.028143
+[2018.05.07-16.25.37:005][ 29]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.173
+[2018.05.07-16.25.37:006][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.26.19:549][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.26.19:600][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.26.32:205][415]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.05.07-16.30.39:592][ 78]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.05.07-16.30.46:197][579]LogActorFactory: Actor Factory created Door_02
+[2018.05.07-16.30.47:114][654]LogActorFactory: Actor Factory created Door_02
+[2018.05.07-16.30.53:008][152]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-16.30.55:091][343]LogActorFactory: Actor Factory created Door_01
+[2018.05.07-16.31.01:525][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_02)
+[2018.05.07-16.31.02:774][114]Cmd: DELETE
+[2018.05.07-16.31.02:774][114]Cmd: ACTOR DELETE
+[2018.05.07-16.31.02:792][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-16.31.02:813][114]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.05.07-16.31.03:330][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_2)
+[2018.05.07-16.31.09:789][809]Cmd: TRANSACTION UNDO
+[2018.05.07-16.31.09:789][809]LogEditorTransaction: Undo Rotate Actors
+[2018.05.07-16.31.11:171][939]Cmd: MODE GRID=1
+[2018.05.07-16.31.12:250][ 48]Cmd: MODE ROTGRID=1
+[2018.05.07-16.34.22:106][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_2)
+[2018.05.07-16.34.48:380][301]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-16.34.49:390][376]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-16.34.49:862][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.07-16.35.00:976][345]Cmd: DELETE
+[2018.05.07-16.35.00:976][345]Cmd: ACTOR DELETE
+[2018.05.07-16.35.00:993][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-16.35.01:015][345]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.05.07-16.35.20:807][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_2)
+[2018.05.07-16.36.04:545][610]LogSavePackage: Save=9.32ms
+[2018.05.07-16.36.04:546][610]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Kitchen_Door_openning62F7DDE645176D58AADB4285537F9DA9.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Kitchen_Door_openning.uasset'
+[2018.05.07-16.36.04:548][610]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Kitchen_Door_openning.uasset
+[2018.05.07-16.36.09:228][993]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.05.07-16.37.12:541][697]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Kitchen_Door_openning)
+[2018.05.07-16.37.21:142][656]BlueprintLog: New page: Compile roadSideScene
+[2018.05.07-16.38.03:678][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_2)
+[2018.05.07-16.38.06:440][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.38.06:470][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.38.06:470][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.38.06:470][513]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:38:06 PM)
+[2018.05.07-16.38.06:470][513]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.38.06:564][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094259s)
+[2018.05.07-16.38.06:565][513]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.38.06:565][513]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.05.07-16.38.06:566][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.095647s)
+[2018.05.07-16.38.06:608][513]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.38.06:634][513]LogInit: FAudioDevice initialized.
+[2018.05.07-16.38.06:671][513]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.38.06:699][513]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.38.06
+[2018.05.07-16.38.06:701][513]LogWorld: Bringing up level for play took: 0.029501
+[2018.05.07-16.38.06:703][513]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.129
+[2018.05.07-16.38.06:703][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.38.09:992][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.38.10:046][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.38.16:864][614]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.05.07-16.38.37:658][537]LogEditorTransaction: Undo Edit Intensity
+[2018.05.07-16.38.37:670][537]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.FirstPersonCharacter.CharacterMesh0) Component already registered.
+[2018.05.07-16.38.37:677][537]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.FirstPersonCharacter.Arrow) Component already registered.
+[2018.05.07-16.38.37:683][537]LogActorComponent: ~FComponentReregisterContext: (/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.FirstPersonCharacter.CharMoveComp) Component already registered.
+[2018.05.07-16.38.38:380][537]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.692 s
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: 
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: 
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: Stack: 
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000B00D2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000AFE7123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000AFE8B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A75C0B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A756DE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A2222643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A22234D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A22674B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A215F2C8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A20DA797 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A20DFA57 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A2088635 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A21828CE UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A20DB877 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A20E0BB7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A8AC3675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:380][537]LogOutputDevice: Error: [Callstack] 0x00000000A88D8CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A8878824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A29C9844 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2761859 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A26F092C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A26F562C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2ABAC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2A60AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2A64A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2A62DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A2AC12CC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A269D7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A271DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A276E0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A756EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A7596112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A757DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A757E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A75E28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A7625A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A26F0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A26F5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A8879636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A88B83A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A7DDBE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A7DC7803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A88663A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A883700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A8838C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A88B988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000A88ABEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000CB4EE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000CB4E1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000CB4F03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000CB4DD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F33AB85D USER32.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F33AB1EF USER32.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000CB4F1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F6FB50C8 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F6FC5430 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F6FC54AA UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F6FD2379 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F6FD3D57 UE4Editor.exe!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F4EB1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: [Callstack] 0x00000000F504F061 ntdll.dll!UnknownFunction []
+[2018.05.07-16.38.38:381][537]LogOutputDevice: Error: 
+[2018.05.07-16.38.38:390][537]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.07-16.38.42:070][537]LogStats:                    SendNewReport -  3.681 s
+[2018.05.07-16.38.42:070][537]LogStats:             FDebug::EnsureFailed -  4.383 s
+[2018.05.07-16.39.21:677][ 18]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.39.23:634][133]LogSavePackage: Save=157.94ms
+[2018.05.07-16.39.23:634][133]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/FirstPersonCharacter96B722D04E4336D302CB9BA23E700F03.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.07-16.39.23:637][133]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.07-16.39.25:914][338]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.39.25:954][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.25:955][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.39.25:955][338]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:39:25 PM)
+[2018.05.07-16.39.25:955][338]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.39.26:048][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093218s)
+[2018.05.07-16.39.26:049][338]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.39.26:049][338]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.05.07-16.39.26:050][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.094823s)
+[2018.05.07-16.39.26:124][338]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.39.26:149][338]LogInit: FAudioDevice initialized.
+[2018.05.07-16.39.26:182][338]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.39.26:211][338]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.39.26
+[2018.05.07-16.39.26:213][338]LogWorld: Bringing up level for play took: 0.029647
+[2018.05.07-16.39.26:215][338]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.618
+[2018.05.07-16.39.26:215][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.32:104][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.32:151][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.38:545][744]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.39.40:832][945]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.39.40:866][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.40:866][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.39.40:866][945]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:39:40 PM)
+[2018.05.07-16.39.40:866][945]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.39.40:959][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092225s)
+[2018.05.07-16.39.40:959][945]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.39.40:960][945]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2018.05.07-16.39.40:960][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.093612s)
+[2018.05.07-16.39.41:005][945]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.39.41:030][945]LogInit: FAudioDevice initialized.
+[2018.05.07-16.39.41:065][945]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.39.41:092][945]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.39.41
+[2018.05.07-16.39.41:093][945]LogWorld: Bringing up level for play took: 0.027941
+[2018.05.07-16.39.41:095][945]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.263
+[2018.05.07-16.39.41:096][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.49:423][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.49:475][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.55:861][585]LogSavePackage: Save=134.92ms
+[2018.05.07-16.39.55:861][585]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/FirstPersonCharacterB0D0B5044F9A17169079A6955E0656E4.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.07-16.39.55:863][585]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.07-16.39.56:216][625]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.39.58:409][798]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.39.58:443][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.39.58:443][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.39.58:443][798]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:39:58 PM)
+[2018.05.07-16.39.58:443][798]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.39.58:535][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091800s)
+[2018.05.07-16.39.58:536][798]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.39.58:536][798]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.05.07-16.39.58:536][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.093204s)
+[2018.05.07-16.39.58:580][798]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.39.58:608][798]LogInit: FAudioDevice initialized.
+[2018.05.07-16.39.58:638][798]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.39.58:666][798]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.39.58
+[2018.05.07-16.39.58:668][798]LogWorld: Bringing up level for play took: 0.028272
+[2018.05.07-16.39.58:670][798]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.163
+[2018.05.07-16.39.58:670][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.40.25:126][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.40.25:171][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.42.07:202][808]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.42.07:233][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.42.07:233][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.42.07:233][808]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:42:07 PM)
+[2018.05.07-16.42.07:233][808]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.42.07:328][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093983s)
+[2018.05.07-16.42.07:328][808]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.42.07:329][808]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.05.07-16.42.07:329][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.095397s)
+[2018.05.07-16.42.07:374][808]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.42.07:400][808]LogInit: FAudioDevice initialized.
+[2018.05.07-16.42.07:436][808]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.42.07:464][808]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.42.07
+[2018.05.07-16.42.07:466][808]LogWorld: Bringing up level for play took: 0.028595
+[2018.05.07-16.42.07:467][808]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.635
+[2018.05.07-16.42.07:468][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.42.18:956][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.42.19:012][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.45.34:217][955]AssetReimport: New page: Outstanding source content changes 8:45:34 PM
+[2018.05.07-16.45.34:228][956]LogEditorFactories: Performing atomic reimport of [F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Front_Door_01.fbx]
+[2018.05.07-16.45.34:238][956]LogFbx: Loading FBX Scene from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Front_Door_01.fbx
+[2018.05.07-16.45.34:248][956]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.07-16.45.34:270][956]LogStaticMesh: Building static mesh Front_Door_01...
+[2018.05.07-16.45.34:325][956]LogStaticMesh: Built static mesh [0.06s] /Game/Linda_Models/Cabin/Front_Door_01.Front_Door_01
+[2018.05.07-16.45.34:357][956]LogEditorFactories: -- imported successfully
+[2018.05.07-16.45.34:594][956]LogMeshUtilities: Finished distance field build in 0.2s - 8x19x37 distance field, 3338 triangles, Range [-0.0, 0.4], Front_Door_01
+[2018.05.07-16.45.34:694][957]LogSavePackage: Save=18.21ms
+[2018.05.07-16.45.34:694][957]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Front_Door_0176D638264EF022854C9E2DBF4A2F1104.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Front_Door_01.uasset'
+[2018.05.07-16.45.34:705][957]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Front_Door_01.uasset
+[2018.05.07-16.45.37:721][314]AssetReimport: Reimported asset Front_Door_01 from F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Cabin/Front_Door_01.fbx.
+[2018.05.07-16.45.50:084][760]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-16.45.50:623][820]LogActorFactory: Actor Factory created Front_Door_01
+[2018.05.07-16.46.03:874][985]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.05.07-16.46.07:356][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-16.47.44:968][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-16.48.11:542][431]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cabin_01)
+[2018.05.07-16.48.15:660][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-16.49.10:255][452]EditorErrors: New page: Save Output
+[2018.05.07-16.49.10:255][452]EditorErrors: Warning: Asset '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Front_Door_Openning.uasset' cannot be saved as it has only been partially loaded
+[2018.05.07-16.49.27:304][952]EditorErrors: New page: Save Output
+[2018.05.07-16.49.27:304][952]EditorErrors: Warning: Asset '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Front_Door_Openning.uasset' cannot be saved as it has only been partially loaded
+[2018.05.07-16.49.27:304][952]EditorErrors: Warning: Asset '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Front_Door_Openning.uasset' cannot be saved as it has only been partially loaded
+[2018.05.07-16.50.19:982][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Front_Door_01)
+[2018.05.07-16.51.09:771][947]LogSavePackage: Save=10.37ms
+[2018.05.07-16.51.09:772][947]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Front_Door_OpenningA7163DA148AAB24C9FA03598E7CE4823.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Front_Door_Openning.uasset'
+[2018.05.07-16.51.09:774][947]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Level_Animations/Front_Door_Openning.uasset
+[2018.05.07-16.51.55:482][269]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Front_Door_Openning2)
+[2018.05.07-16.52.05:998][447]BlueprintLog: New page: Compile roadSideScene
+[2018.05.07-16.52.09:654][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Player_scale4)
+[2018.05.07-16.52.10:419][807]Cmd: DELETE
+[2018.05.07-16.52.10:419][807]Cmd: ACTOR DELETE
+[2018.05.07-16.52.10:436][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.07-16.52.10:457][807]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.05.07-16.52.16:561][359]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.52.16:596][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.52.16:597][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.52.16:597][359]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:52:16 PM)
+[2018.05.07-16.52.16:597][359]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.52.16:693][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096273s)
+[2018.05.07-16.52.16:694][359]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.52.16:694][359]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.05.07-16.52.16:694][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.097533s)
+[2018.05.07-16.52.16:741][359]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.52.16:784][359]LogInit: FAudioDevice initialized.
+[2018.05.07-16.52.16:819][359]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.52.16:847][359]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.52.16
+[2018.05.07-16.52.16:849][359]LogWorld: Bringing up level for play took: 0.028729
+[2018.05.07-16.52.16:851][359]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.019
+[2018.05.07-16.52.16:851][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.53.22:858][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.53.22:914][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.53.27:770][790]LogSavePackage: Save=1358.65ms
+[2018.05.07-16.53.27:770][790]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideSceneCB996D9C4950127AEC8A399A88A7953F.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.05.07-16.53.27:773][790]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.05.07-16.53.35:292][790]LogSavePackage: Save=7302.53ms
+[2018.05.07-16.53.35:292][790]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltData2DDC52C942D72F04CC1770A57A52663A.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.05.07-16.53.35:312][790]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.05.07-16.54.42:634][245]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.05.07-16.55.18:180][ 99]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.55.21:837][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.55.21:870][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.21:870][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.55.21:870][387]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:55:21 PM)
+[2018.05.07-16.55.21:870][387]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.55.21:970][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098748s)
+[2018.05.07-16.55.21:970][387]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.55.21:971][387]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2018.05.07-16.55.21:971][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.100030s)
+[2018.05.07-16.55.22:044][387]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.55.22:070][387]LogInit: FAudioDevice initialized.
+[2018.05.07-16.55.22:104][387]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.55.22:132][387]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.55.22
+[2018.05.07-16.55.22:134][387]LogWorld: Bringing up level for play took: 0.029333
+[2018.05.07-16.55.22:136][387]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.696
+[2018.05.07-16.55.22:137][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.24:279][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.24:326][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.37:176][ 98]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.55.39:505][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.55.39:540][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.39:540][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.55.39:540][304]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:55:39 PM)
+[2018.05.07-16.55.39:540][304]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.55.39:636][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095775s)
+[2018.05.07-16.55.39:637][304]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.55.39:637][304]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.05.07-16.55.39:637][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.097203s)
+[2018.05.07-16.55.39:682][304]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.55.39:708][304]LogInit: FAudioDevice initialized.
+[2018.05.07-16.55.39:739][304]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.55.39:767][304]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.55.39
+[2018.05.07-16.55.39:769][304]LogWorld: Bringing up level for play took: 0.029324
+[2018.05.07-16.55.39:771][304]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.939
+[2018.05.07-16.55.39:772][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.44:607][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.44:659][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.52:659][753]LogSavePackage: Save=137.00ms
+[2018.05.07-16.55.52:659][753]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/FirstPersonCharacter380E156A454E357128A961BE2130EB3A.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.07-16.55.52:662][753]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.07-16.55.53:163][810]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.55.54:993][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.55.55:029][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.55.55:029][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.55.55:029][956]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:55:55 PM)
+[2018.05.07-16.55.55:029][956]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.55.55:126][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097119s)
+[2018.05.07-16.55.55:127][956]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.55.55:127][956]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2018.05.07-16.55.55:128][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.098623s)
+[2018.05.07-16.55.55:175][956]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.55.55:201][956]LogInit: FAudioDevice initialized.
+[2018.05.07-16.55.55:237][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.55.55:264][956]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.55.55
+[2018.05.07-16.55.55:266][956]LogWorld: Bringing up level for play took: 0.028041
+[2018.05.07-16.55.55:268][956]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.435
+[2018.05.07-16.55.55:268][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.01:723][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.01:772][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.15:544][226]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.56.17:814][421]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.56.17:850][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.17:850][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.56.17:850][421]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:56:17 PM)
+[2018.05.07-16.56.17:850][421]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.56.17:946][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096062s)
+[2018.05.07-16.56.17:947][421]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.56.17:947][421]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.05.07-16.56.17:948][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.097478s)
+[2018.05.07-16.56.17:994][421]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.56.18:020][421]LogInit: FAudioDevice initialized.
+[2018.05.07-16.56.18:057][421]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.56.18:085][421]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.56.18
+[2018.05.07-16.56.18:087][421]LogWorld: Bringing up level for play took: 0.029384
+[2018.05.07-16.56.18:089][421]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.743
+[2018.05.07-16.56.18:089][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.37:565][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.56.37:611][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.57.02:473][428]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.57.04:368][582]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.57.04:402][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.57.04:402][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.57.04:402][582]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:57:04 PM)
+[2018.05.07-16.57.04:403][582]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.57.04:497][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094698s)
+[2018.05.07-16.57.04:498][582]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.57.04:498][582]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.05.07-16.57.04:499][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.096068s)
+[2018.05.07-16.57.04:544][582]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.57.04:570][582]LogInit: FAudioDevice initialized.
+[2018.05.07-16.57.04:607][582]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.57.04:636][582]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.57.04
+[2018.05.07-16.57.04:638][582]LogWorld: Bringing up level for play took: 0.030124
+[2018.05.07-16.57.04:640][582]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.192
+[2018.05.07-16.57.04:640][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.57.14:622][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.57.14:668][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.57.52:347][995]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.58.23:728][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.58.23:786][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.58.23:786][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.58.23:786][513]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:58:23 PM)
+[2018.05.07-16.58.23:787][513]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.58.23:882][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095116s)
+[2018.05.07-16.58.23:883][513]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.58.23:883][513]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.05.07-16.58.23:883][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.096690s)
+[2018.05.07-16.58.23:929][513]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.58.23:955][513]LogInit: FAudioDevice initialized.
+[2018.05.07-16.58.23:991][513]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.58.24:019][513]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.58.24
+[2018.05.07-16.58.24:021][513]LogWorld: Bringing up level for play took: 0.029500
+[2018.05.07-16.58.24:023][513]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.19
+[2018.05.07-16.58.24:023][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.58.43:189][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.58.43:240][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.58.57:516][196]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.59.00:649][474]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.59.00:684][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.00:684][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.59.00:684][474]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:59:00 PM)
+[2018.05.07-16.59.00:684][474]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.59.00:778][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093524s)
+[2018.05.07-16.59.00:779][474]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.59.00:779][474]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.05.07-16.59.00:779][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.094951s)
+[2018.05.07-16.59.00:823][474]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.59.00:850][474]LogInit: FAudioDevice initialized.
+[2018.05.07-16.59.00:882][474]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.59.00:910][474]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.59.00
+[2018.05.07-16.59.00:912][474]LogWorld: Bringing up level for play took: 0.029809
+[2018.05.07-16.59.00:914][474]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.082
+[2018.05.07-16.59.00:914][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.13:397][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.13:448][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.24:192][  8]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.05.07-16.59.26:013][137]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.07-16.59.26:048][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.26:048][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.07-16.59.26:048][137]PIE: New page: PIE session: roadSideScene (May 7, 2018, 8:59:26 PM)
+[2018.05.07-16.59.26:048][137]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.07-16.59.26:145][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096907s)
+[2018.05.07-16.59.26:146][137]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.07-16.59.26:146][137]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.05.07-16.59.26:146][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.098233s)
+[2018.05.07-16.59.26:192][137]LogInit: XAudio2 using 'Hörlurar (5- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.07-16.59.26:218][137]LogInit: FAudioDevice initialized.
+[2018.05.07-16.59.26:248][137]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.07-16.59.26:276][137]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.07-18.59.26
+[2018.05.07-16.59.26:278][137]LogWorld: Bringing up level for play took: 0.029134
+[2018.05.07-16.59.26:280][137]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.552
+[2018.05.07-16.59.26:280][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.39:060][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.39:117][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.07-16.59.42:814][776]LogSavePackage: Save=1326.90ms
+[2018.05.07-16.59.42:814][776]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideSceneC98C35584E0A805D5C2924946B4154A5.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.05.07-16.59.42:817][776]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.05.07-16.59.50:510][776]LogSavePackage: Save=7139.39ms
+[2018.05.07-16.59.50:512][776]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltData86D20C7443EB9EE701207CAA214B6AA2.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.05.07-16.59.50:531][776]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.05.07-17.00.02:368][233]LogSavePackage: Save=137.20ms
+[2018.05.07-17.00.02:368][233]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/FirstPersonCharacterF03986B04F10042C197AF6A3152EDC85.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.07-17.00.02:370][233]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.07-17.00.03:069][234]Cmd: QUIT_EDITOR
+[2018.05.07-17.00.03:530][234]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.07-17.00.03:579][234]LogExit: Preparing to exit.
+[2018.05.07-17.00.04:558][234]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.05.07-17.00.04:789][234]LogExit: Editor shut down
+[2018.05.07-17.00.04:796][234]LogExit: Transaction tracking system shut down
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.07-17.00.05:218][234]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.07-17.00.06:555][234]LogExit: Object subsystem successfully closed.
+[2018.05.07-17.00.06:731][234]LogD3D11RHI: Shutdown
+[2018.05.07-17.00.06:741][234]LogD3D11RHI: CleanupD3DDevice
+[2018.05.07-17.00.06:775][234]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module SequencerWidgets (550)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.05.07-17.00.07:413][234]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.05.07-17.00.07:417][234]LogDirectoryWatcher: A directory notification for 'F:/Unreal 4.18/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.07-17.00.07:423][234]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.05.07-17.00.07:423][234]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.05.07-17.00.07:423][234]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.05.07-17.00.07:430][234]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' was aborted.
+[2018.05.07-17.00.07:430][234]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' was aborted.
+[2018.05.07-17.00.07:430][234]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' was aborted.
+[2018.05.07-17.00.07:430][234]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.05.07-17.00.07:437][234]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.05.07-17.00.07:447][234]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.05.07-17.00.07:474][234]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.05.07-17.00.07:479][234]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.05.07-17.00.07:480][234]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.05.07-17.00.07:492][234]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.05.07-17.00.07:502][234]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.05.07-17.00.07:502][234]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.05.07-17.00.07:507][234]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.05.07-17.00.07:518][234]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.05.07-17.00.07:519][234]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.05.07-17.00.07:519][234]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.05.07-17.00.07:519][234]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.05.07-17.00.07:519][234]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.05.07-17.00.07:519][234]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.05.07-17.00.07:535][234]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.05.07-17.00.07:547][234]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.05.07-17.00.07:569][234]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.05.07-17.00.07:586][234]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.05.07-17.00.07:610][234]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.05.07-17.00.07:611][234]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.05.07-17.00.07:611][234]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.05.07-17.00.07:611][234]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.05.07-17.00.08:409][234]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.05.07-17.00.08:409][234]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.05.07-17.00.08:409][234]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.05.07-17.00.08:409][234]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.05.07-17.00.08:421][234]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.05.07-17.00.08:441][234]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.05.07-17.00.08:441][234]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.05.07-17.00.08:456][234]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.05.07-17.00.08:456][234]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.05.07-17.00.08:462][234]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.05.07-17.00.08:466][234]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.05.07-17.00.08:466][234]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.05.07-17.00.08:466][234]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.05.07-17.00.08:466][234]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.05.07-17.00.08:476][234]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.05.07-17.00.08:476][234]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.05.07-17.00.08:476][234]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.05.07-17.00.08:477][234]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.05.07-17.00.08:477][234]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.05.07-17.00.08:478][234]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.05.07-17.00.08:487][234]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.05.07-17.00.08:494][234]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.05.07-17.00.08:508][234]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.05.07-17.00.08:516][234]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.05.07-17.00.08:569][234]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.05.07-17.00.08:581][234]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.05.07-17.00.08:592][234]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.05.07-17.00.08:609][234]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.05.07-17.00.08:610][234]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.05.07-17.00.08:620][234]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.05.07-17.00.08:620][234]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.05.07-17.00.08:649][234]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.05.07-17.00.08:649][234]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.05.07-17.00.08:649][234]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.05.07-17.00.08:670][234]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.05.07-17.00.08:670][234]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.05.07-17.00.08:670][234]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.05.07-17.00.08:681][234]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.05.07-17.00.08:695][234]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.05.07-17.00.08:715][234]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.05.07-17.00.08:718][234]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.05.07-17.00.08:720][234]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.05.07-17.00.08:720][234]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.05.07-17.00.08:720][234]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.05.07-17.00.08:733][234]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.05.07-17.00.08:737][234]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.05.07-17.00.08:741][234]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.05.07-17.00.08:884][234]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.05.07-17.00.08:894][234]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.05.07-17.00.08:894][234]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.05.07-17.00.08:895][234]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.05.07-17.00.08:901][234]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.05.07-17.00.08:907][234]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.05.07-17.00.08:907][234]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.05.07-17.00.08:907][234]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.05.07-17.00.08:910][234]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.05.07-17.00.08:910][234]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.05.07-17.00.08:910][234]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.05.07-17.00.08:910][234]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.05.07-17.00.08:930][234]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.05.07-17.00.08:930][234]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.05.07-17.00.08:930][234]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.07-17.00.08:930][234]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.07-17.00.08:938][234]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.07-17.00.08:938][234]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.07-17.00.08:952][234]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.07-17.00.08:952][234]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.07-17.00.08:952][234]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.07-17.00.08:966][234]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.07-17.00.08:984][234]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.07-17.00.08:984][234]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.07-17.00.08:984][234]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.07-17.00.08:984][234]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.07-17.00.08:995][234]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.07-17.00.09:009][234]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.07-17.00.09:026][234]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.07-17.00.09:027][234]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.07-17.00.09:027][234]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.07-17.00.09:027][234]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.07-17.00.09:027][234]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.07-17.00.09:037][234]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.07-17.00.09:043][234]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.07-17.00.09:053][234]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.07-17.00.09:055][234]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.07-17.00.09:055][234]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.07-17.00.09:069][234]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.07-17.00.09:082][234]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.07-17.00.09:192][234]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.07-17.00.09:298][234]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.07-17.00.09:328][234]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.07-17.00.09:328][234]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.07-17.00.09:328][234]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.07-17.00.09:338][234]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.07-17.00.09:338][234]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.07-17.00.09:340][234]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.07-17.00.09:340][234]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.07-17.00.09:340][234]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.07-17.00.09:355][234]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.07-17.00.09:365][234]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.07-17.00.09:365][234]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.07-17.00.09:365][234]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.07-17.00.09:365][234]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.07-17.00.09:397][234]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.07-17.00.09:397][234]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.07-17.00.09:403][234]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.07-17.00.09:403][234]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.07-17.00.09:403][234]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.07-17.00.09:419][234]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.07-17.00.09:428][234]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.07-17.00.09:428][234]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.07-17.00.09:449][234]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.07-17.00.09:458][234]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.07-17.00.09:475][234]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.07-17.00.09:475][234]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.07-17.00.09:490][234]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.07-17.00.09:502][234]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.07-17.00.09:502][234]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.07-17.00.09:502][234]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.07-17.00.09:530][234]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.07-17.00.09:530][234]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.07-17.00.09:535][234]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.07-17.00.09:543][234]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.07-17.00.09:543][234]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.07-17.00.09:549][234]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.07-17.00.09:557][234]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.07-17.00.09:557][234]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.07-17.00.09:562][234]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.07-17.00.09:562][234]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.07-17.00.09:570][234]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.07-17.00.09:577][234]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.07-17.00.09:639][234]LogDerivedDataCache: Shutdown
+[2018.05.07-17.00.09:639][234]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.07-17.00.09:641][234]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.07-17.00.09:643][234]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.07-17.00.09:648][234]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.07-17.00.09:659][234]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.07-17.00.09:660][234]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.07-17.00.09:669][234]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.07-17.00.09:669][234]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.07-17.00.09:669][234]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.07-17.00.09:673][234]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.07-17.00.09:674][234]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.07-17.00.09:675][234]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.07-17.00.09:686][234]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.07-17.00.09:686][234]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.07-17.00.09:686][234]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.07-17.00.09:686][234]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.07-17.00.09:686][234]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.07-17.00.09:713][234]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.07-17.00.09:728][234]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.07-17.00.09:728][234]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.07-17.00.09:737][234]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43D7292C-4144-2662-20DC-18941A320731%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=10e6b4d1454adc80c402fda4840b45e8%7C2c90cfa805f74c7c8a19ce3131a633e6%7C3792c45f-2c81-433f-9f30-88efbac6f71d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.07-17.00.09:754][234]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.07-17.00.09:767][234]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.07-17.00.09:777][234]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.07-17.00.09:777][234]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.07-17.00.09:792][234]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.07-17.00.09:802][234]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.07-17.00.09:802][234]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.07-17.00.09:802][234]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.07-17.00.09:807][234]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.07-17.00.09:825][234]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.07-17.00.09:825][234]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.07-17.00.09:838][234]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.07-17.00.09:838][234]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.07-17.00.09:838][234]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.07-17.00.09:838][234]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.07-17.00.09:843][234]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.07-17.00.09:843][234]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.07-17.00.09:849][234]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.07-17.00.09:852][234]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.07-17.00.09:867][234]LogExit: Exiting.
+[2018.05.07-17.00.09:898][234]Log file closed, 05/07/18 19:00:09
