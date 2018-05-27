@@ -1,0 +1,1035 @@
+﻿Log file open, 05/23/18 17:19:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1952483349) SRandInit(-1952483349).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213304
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.23-15.19.10:057][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.23-15.19.10:057][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.23-15.19.10:094][  0]LogInit: Computer: MR_E-DATOR
+[2018.05.23-15.19.10:094][  0]LogInit: User: MrE
+[2018.05.23-15.19.10:094][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.23-15.19.10:094][  0]LogInit: High frequency timer resolution =3.233211 MHz
+[2018.05.23-15.19.10:094][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.23-15.19.10:094][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.23-15.19.10:094][  0]LogMemory: Process Physical Memory: 277.39 MB used, 277.39 MB peak
+[2018.05.23-15.19.10:094][  0]LogMemory: Process Virtual Memory: 273.70 MB used, 273.70 MB peak
+[2018.05.23-15.19.10:094][  0]LogMemory: Physical Memory: 5182.59 MB used,  2976.55 MB free, 8159.14 MB total
+[2018.05.23-15.19.10:094][  0]LogMemory: Virtual Memory: 681.35 MB used,  2976.55 MB free, 134217728.00 MB total
+[2018.05.23-15.19.10:244][  0]LogInit: Using OS detected language (sv-SE).
+[2018.05.23-15.19.10:244][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.05.23-15.19.10:247][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.05.23-15.19.10:247][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.05.23-15.19.10:694][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.23-15.19.10:984][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.23-15.19.11:041][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.23-15.19.11:041][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.23-15.19.11:044][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.23-15.19.11:044][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.23-15.19.11:044][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.23-15.19.11:049][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.23-15.19.11:050][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.23-15.19.11:050][  0]LogWindows: EnumDisplayDevices:
+[2018.05.23-15.19.11:050][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.23-15.19.11:050][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.23-15.19.11:050][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.05.23-15.19.11:050][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.23-15.19.11:050][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.23-15.19.11:050][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.23-15.19.11:050][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.23-15.19.11:050][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.23-15.19.11:050][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.05.23-15.19.11:091][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.23-15.19.11:111][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.23-15.19.11:160][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/1676/).
+[2018.05.23-15.19.11:161][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/B10ACC1848E427694B5BB286BC0450A1/'.
+[2018.05.23-15.19.11:161][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.23-15.19.12:214][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.23-15.19.12:264][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.23-15.19.12:313][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.23-15.19.12:364][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.23-15.19.12:414][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.23-15.19.12:466][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.23-15.19.12:517][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.23-15.19.12:597][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.23-15.19.12:642][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.23-15.19.12:695][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.23-15.19.12:744][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.23-15.19.12:799][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.23-15.19.12:851][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.23-15.19.12:901][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.23-15.19.13:006][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.23-15.19.13:006][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.23-15.19.13:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.23-15.19.13:096][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.23-15.19.13:185][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.23-15.19.13:212][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.23-15.19.13:262][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.23-15.19.13:340][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.23-15.19.13:396][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.23-15.19.13:517][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.23-15.19.13:517][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.23-15.19.13:935][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.23-15.19.14:022][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.23-15.19.14:022][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.23-15.19.14:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.23-15.19.14:022][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.23-15.19.14:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.23-15.19.14:023][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.23-15.19.14:041][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.23-15.19.14:053][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.23-15.19.14:067][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.23-15.19.14:067][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.23-15.19.14:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.23-15.19.14:068][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.23-15.19.14:530][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.23-15.19.15:060][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.23-15.19.15:110][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.23-15.19.15:110][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.23-15.19.15:110][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.23-15.19.15:110][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.23-15.19.15:110][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.23-15.19.15:154][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.05.23-15.19.15:336][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.05.23-15.19.15:910][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.036847 seconds
+[2018.05.23-15.19.15:917][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.23-15.19.15:917][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.23-15.19.15:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.23-15.19.15:962][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.23-15.19.18:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.23-15.19.18:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.23-15.19.19:479][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.23-15.19.19:908][  0]SourceControl: Source control is disabled
+[2018.05.23-15.19.20:822][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.23-15.19.21:078][  0]LogOcInput: OculusInput pre-init called
+[2018.05.23-15.19.21:352][  0]LogEngine: Initializing Engine...
+[2018.05.23-15.19.21:358][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.05.23-15.19.21:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.23-15.19.21:688][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.23-15.19.21:810][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.23-15.19.21:854][  0]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-15.19.21:870][  0]LogInit: FAudioDevice initialized.
+[2018.05.23-15.19.22:023][  0]LogDerivedDataCache: Saved boot cache 0.15s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.23-15.19.22:037][  0]LogInit: Texture streaming: Enabled
+[2018.05.23-15.19.22:126][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.23-15.19.22:255][  0]LogInit: Transaction tracking system initialized
+[2018.05.23-15.19.22:553][  0]BlueprintLog: New page: Editor Load
+[2018.05.23-15.19.23:376][  0]LocalizationService: Localization service is disabled
+[2018.05.23-15.19.23:876][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.05.23-15.19.23:876][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.05.23-15.19.23:876][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2018.05.23-15.19.24:079][  0]LogConsoleResponse: Display: 
+[2018.05.23-15.19.24:260][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.23-15.19.24:260][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.23-15.19.24:261][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.23-15.19.24:966][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.04s
+[2018.05.23-15.19.25:411][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.23-15.19.25:412][  0]LightingResults: New page: Lighting Build
+[2018.05.23-15.19.25:451][  0]MapCheck: New page: Map Check
+[2018.05.23-15.19.25:451][  0]LightingResults: New page: Lighting Build
+[2018.05.23-15.19.38:998][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.23-15.19.41:494][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.23-15.19.41:536][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.23-15.19.41:644][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.639ms to complete.
+[2018.05.23-15.19.41:645][  0]LogFileHelpers: Loading map 'roadSideScene' took 16.233
+[2018.05.23-15.19.42:635][  0]LogCollectionManager: Loaded 0 collections in 0.001205 seconds
+[2018.05.23-15.19.42:840][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.05.23-15.19.42:841][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.05.23-15.19.42:841][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.05.23-15.19.42:841][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.23-15.19.42:854][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2363 classes and 519 folders.
+[2018.05.23-15.19.43:018][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.05.23-15.19.44:241][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.23-15.19.44:465][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.05.23-15.19.45:592][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.23-15.19.45:599][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.23-15.19.45:704][  0]LogSlate: Took 0.014917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.23-15.19.46:258][  0]LogRenderer: Reallocating scene render targets to support 964x664 Format 9 NumSamples 1 (Frame:1).
+[2018.05.23-15.19.47:024][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.23-15.19.47:024][  0]LogLoad: (Engine Initialization) Total time: 39.87 seconds
+[2018.05.23-15.19.47:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.23-15.19.47:024][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.23-15.19.47:024][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.23-15.19.47:540][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.23-15.19.48:187][  0]LogSlate: Took 0.136913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.23-15.19.49:210][  3]LogStaticMesh: Allocated 512x197x64 distance field atlas = 12.3Mb, with 75 objects containing 7.2Mb backing data
+[2018.05.23-15.19.49:814][  4]LogAssetRegistry: Asset discovery search completed in 34.4991 seconds
+[2018.05.23-15.19.49:817][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.23-15.19.49:817][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.05.23-15.19.53:450][ 15]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 6.05s
+[2018.05.23-15.20.11:079][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ElmTree_4)
+[2018.05.23-15.20.13:318][320]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.23-15.20.14:776][321]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2018.05.23-15.20.47:351][987]LogSlate: Took 0.016241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.23-15.22.35:484][435]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.23-15.22.35:603][436]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Adventure
+[2018.05.23-15.22.35:603][436]LogTemp: CWD: F:\Unreal 4.18\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.23-15.22.35:603][436]LogTemp: Initial Dir: F:\Unreal 4.18\UE_4.18
+[2018.05.23-15.22.35:603][436]LogTemp: Env CWD: F:\Unreal 4.18\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.23-15.22.35:603][436]LogTemp: BranchPath = MR_E-DATOR/F/Unreal 4.18/UE_4.18/Engine/Binaries --- GameBranchPath = MR_E-DATOR/F/Unreal 4.18/UE_4.18/Engine/Binaries
+[2018.05.23-15.22.35:603][436]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Mr_E\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.23-15.30.02:548][214]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.05.23-16.28.23:594][623]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{acb5fadd-bf45-4c1b-b73f-3977d9c0a4aa} was removed. Shutting down audio device.
+[2018.05.23-16.28.23:594][623]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.23-16.28.23:926][624]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-16.28.24:195][625]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-19.17.42:327][462]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.23-19.17.42:862][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-19.17.42:881][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.23-19.17.43:026][462]PIE: New page: PIE session: roadSideScene (May 23, 2018, 11:17:42 PM)
+[2018.05.23-19.17.43:033][462]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.23-19.17.43:652][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.618199s)
+[2018.05.23-19.17.43:655][462]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.23-19.17.43:672][462]LogPlayLevel: PIE: World Init took: (0.019132s)
+[2018.05.23-19.17.43:687][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.653138s)
+[2018.05.23-19.17.43:836][462]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-19.17.43:861][462]LogInit: FAudioDevice initialized.
+[2018.05.23-19.17.43:942][462]LogLoad: Game class is 'NewGameMOde_C'
+[2018.05.23-19.17.44:121][462]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.23-21.17.44
+[2018.05.23-19.17.44:353][462]LogWorld: Bringing up level for play took: 0.279483
+[2018.05.23-19.17.47:843][462]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0135 seconds. Added 11 classes and 0 folders.
+[2018.05.23-19.17.47:965][462]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 4.496
+[2018.05.23-19.17.47:966][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-19.17.51:402][801]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.17.51:842][851]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.17.57:414][467]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.17.57:846][513]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.17.59:513][700]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.17.59:949][750]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.00:349][797]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.00:809][852]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.01:242][903]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.01:648][951]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.02:073][  1]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.02:473][ 48]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.02:912][100]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.03:911][218]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-19.18.06:912][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-19.18.07:076][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-19.18.26:634][503]LogSlate: Took 0.015368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.23-19.18.26:851][503]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.05.23-19.18.28:830][503]LogSlate: Took 0.012569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.23-19.42.12:090][768]LogEditorTransaction: Undo Set Scale
+[2018.05.23-19.42.12:359][768]LogSlate: Took 0.005573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.23-19.43.34:526][731]LogEditorTransaction: Undo Modify Component(s)
+[2018.05.23-19.48.07:738][ 72]BlueprintLog: New page: Compile LockCombo
+[2018.05.23-19.54.21:039][860]LogSlate: Took 0.010776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.23-19.57.17:244][890]BlueprintLog: New page: Compile LockCombo
+[2018.05.23-19.57.35:549][979]BlueprintLog: New page: Compile LockCombo
+[2018.05.23-19.57.38:941][292]LogEditorViewport: Clicking on Actor (LMB): DoorCombo_C (DoorCombo)
+[2018.05.23-19.57.40:419][452]Cmd: DELETE
+[2018.05.23-19.57.40:419][452]Cmd: ACTOR DELETE
+[2018.05.23-19.57.40:706][452]LogEditorActor: Deleted Actor: DoorCombo_C
+[2018.05.23-19.57.40:735][452]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2018.05.23-19.58.20:854][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_Outside_01)
+[2018.05.23-19.58.21:927][895]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-19.58.35:059][376]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-19.58.36:262][472]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-19.59.01:508][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin_Roof_01)
+[2018.05.23-19.59.02:128][ 51]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-19.59.31:395][634]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-19.59.41:627][554]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-19.59.46:336][951]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-19.59.46:789][987]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-20.01.22:702][429]BlueprintLog: New page: Compile LockCombo
+[2018.05.23-20.01.28:444][743]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-20.01.29:005][768]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-20.01.30:023][849]Cmd: DELETE
+[2018.05.23-20.01.30:023][849]Cmd: ACTOR DELETE
+[2018.05.23-20.01.30:042][849]LogEditorActor: Deleted Actor: LockCombo_C
+[2018.05.23-20.01.30:065][849]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.05.23-20.01.57:513][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_Complete)
+[2018.05.23-20.02.00:038][267]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-20.02.21:036][381]BlueprintLog: New page: Compile LockCombo
+[2018.05.23-20.02.44:120][495]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.23-20.02.44:165][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.02.44:165][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.23-20.02.44:165][495]PIE: New page: PIE session: roadSideScene (May 24, 2018, 12:02:44 AM)
+[2018.05.23-20.02.44:165][495]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.23-20.02.44:301][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135871s)
+[2018.05.23-20.02.44:303][495]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.23-20.02.44:304][495]LogPlayLevel: PIE: World Init took: (0.002313s)
+[2018.05.23-20.02.44:304][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.138852s)
+[2018.05.23-20.02.44:365][495]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-20.02.44:376][495]LogInit: FAudioDevice initialized.
+[2018.05.23-20.02.44:412][495]LogLoad: Game class is 'NewGameMOde_C'
+[2018.05.23-20.02.44:447][495]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.23-22.02.44
+[2018.05.23-20.02.44:450][495]LogWorld: Bringing up level for play took: 0.036625
+[2018.05.23-20.02.44:453][495]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.983
+[2018.05.23-20.02.44:453][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.02.45:039][542]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.45:471][593]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.45:874][640]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.46:302][691]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.46:701][738]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.47:137][789]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.47:538][828]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.47:972][873]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.48:367][920]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.48:807][967]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.49:207][  4]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.49:642][ 46]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.50:033][ 84]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.50:476][130]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.50:866][171]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.51:303][217]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.51:705][260]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.52:141][304]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.52:537][343]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.52:969][393]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.53:367][433]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.53:808][477]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.54:210][517]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.54:636][562]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.55:038][607]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.55:474][655]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.55:873][701]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.56:302][752]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.56:707][798]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.57:140][845]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.57:543][885]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.57:967][927]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.58:373][968]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.58:800][ 12]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.59:206][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.02.59:634][ 99]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.00:037][139]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.00:474][186]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.00:873][231]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.01:300][279]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.01:706][327]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.02:139][378]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.02:535][425]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.02:971][476]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.03:369][523]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.03:805][574]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.04:200][619]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.04:638][671]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.05:041][719]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.05:474][770]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.05:869][817]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.06:303][868]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.06:703][915]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.07:136][966]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.07:540][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.07:972][ 63]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.08:369][110]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.08:805][161]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.09:204][207]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.09:640][254]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.11:628][483]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.12:059][527]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.12:463][569]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.12:889][616]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.13:293][663]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.13:727][710]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.14:124][751]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.14:559][796]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.14:957][837]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.15:396][885]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.15:798][929]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.16:226][973]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.16:631][ 20]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.17:061][ 71]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.17:463][116]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.17:889][162]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.18:298][207]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.18:730][254]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.19:125][298]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.19:560][345]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.19:957][390]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.20:396][439]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.20:797][486]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.21:227][537]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.21:625][584]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.22:063][636]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.22:457][683]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.22:895][735]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.23:296][783]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.23:723][834]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.24:127][880]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.24:561][931]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.24:961][978]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.25:393][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.25:793][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.27:187][242]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.27:624][293]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.28:021][340]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.28:650][415]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.29:082][466]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.29:642][532]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.30:518][636]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.32:023][815]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.33:792][ 24]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.34:248][ 78]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.34:679][129]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.35:043][172]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.03.37:384][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.03.37:429][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.03.39:051][595]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-20.03.39:586][636]LogEditorViewport: Clicking on Actor (LMB): LockCombo_C (LockCombo)
+[2018.05.23-20.03.44:951][128]Cmd: DELETE
+[2018.05.23-20.03.44:951][128]Cmd: ACTOR DELETE
+[2018.05.23-20.03.44:970][128]LogEditorActor: Deleted Actor: LockCombo_C
+[2018.05.23-20.03.44:990][128]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.05.23-20.04.24:423][402]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.23-20.04.24:458][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.04.24:458][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.23-20.04.24:458][402]PIE: New page: PIE session: roadSideScene (May 24, 2018, 12:04:24 AM)
+[2018.05.23-20.04.24:458][402]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.23-20.04.24:570][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111905s)
+[2018.05.23-20.04.24:571][402]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.23-20.04.24:571][402]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.05.23-20.04.24:572][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.113371s)
+[2018.05.23-20.04.24:634][402]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-20.04.24:643][402]LogInit: FAudioDevice initialized.
+[2018.05.23-20.04.24:680][402]LogLoad: Game class is 'NewGameMOde_C'
+[2018.05.23-20.04.24:708][402]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.23-22.04.24
+[2018.05.23-20.04.24:710][402]LogWorld: Bringing up level for play took: 0.029195
+[2018.05.23-20.04.24:712][402]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.243
+[2018.05.23-20.04.24:712][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.04.25:100][418]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.25:529][469]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.25:930][517]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.26:365][569]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.26:766][617]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.27:195][668]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.27:597][716]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.28:027][759]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.28:426][799]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.28:860][844]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.29:262][884]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.29:696][931]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.30:096][971]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.30:527][ 14]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.30:933][ 55]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.31:361][ 98]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.31:762][145]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.32:197][197]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.32:599][245]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.33:028][296]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.33:429][344]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.04.33:759][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.04.33:804][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.05.35:158][268]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.23-20.05.35:192][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.05.35:193][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.23-20.05.35:193][268]PIE: New page: PIE session: roadSideScene (May 24, 2018, 12:05:35 AM)
+[2018.05.23-20.05.35:193][268]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.05.23-20.05.35:302][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108829s)
+[2018.05.23-20.05.35:303][268]LogAIModule: Creating AISystem for world roadSideScene
+[2018.05.23-20.05.35:303][268]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2018.05.23-20.05.35:303][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.110182s)
+[2018.05.23-20.05.35:360][268]LogInit: XAudio2 using 'Hörlurar på headset (4- SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.05.23-20.05.35:369][268]LogInit: FAudioDevice initialized.
+[2018.05.23-20.05.35:400][268]LogLoad: Game class is 'NewGameMOde_C'
+[2018.05.23-20.05.35:429][268]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.05.23-22.05.35
+[2018.05.23-20.05.35:431][268]LogWorld: Bringing up level for play took: 0.030486
+[2018.05.23-20.05.35:433][268]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene -0.037
+[2018.05.23-20.05.35:433][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.05.35:780][280]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.36:204][323]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.36:601][370]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.37:038][422]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.37:433][469]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.37:869][521]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.38:273][563]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.38:706][606]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.39:108][647]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.39:532][691]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.39:939][734]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.40:369][779]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.40:772][821]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.41:204][866]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.41:602][907]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.42:037][952]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.42:431][995]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.42:869][ 41]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.43:266][ 82]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.43:705][127]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.44:100][167]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.44:533][211]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.44:932][252]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.45:369][298]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.45:773][340]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.46:198][384]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.46:599][424]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.47:035][467]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.47:436][506]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.47:869][550]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.48:266][594]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.48:704][641]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.49:100][681]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.49:536][725]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.49:934][765]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.50:370][809]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.50:773][850]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.51:202][894]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.51:599][934]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.52:034][978]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.52:436][ 20]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.52:865][ 64]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.53:265][106]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.53:701][152]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.54:100][195]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.54:537][244]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.54:934][288]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.55:369][339]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.55:771][387]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.56:198][438]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.56:606][486]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.57:034][537]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.57:438][585]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.57:872][636]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.58:266][682]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.58:700][730]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.05.59:108][773]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.01:843][ 61]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.02:272][106]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.02:676][147]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.03:111][192]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.03:514][234]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.03:945][278]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.04:347][319]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.04:779][363]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.05:175][403]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.05:604][447]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.06:009][490]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.06:439][536]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.06:847][580]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.07:273][626]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.07:675][670]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.08:113][716]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.08:511][760]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.08:938][808]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.09:341][856]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.09:777][908]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.10:179][956]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.10:606][  7]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.11:008][ 55]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.11:444][107]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.11:845][155]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.12:278][207]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.12:671][253]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.13:110][305]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.13:511][353]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.13:938][404]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.14:341][452]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.15:615][603]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.16:051][655]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.16:445][702]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.16:886][754]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.17:284][801]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.18:244][915]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.23:573][547]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.24:002][595]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.24:406][640]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.05.23-20.06.24:699][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.06.24:743][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.05.23-20.06.28:853][ 37]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-20.06.29:407][ 80]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.23-20.06.29:781][112]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.05.23-20.06.32:317][267]LogMaterial: Missing cached shader map for material Grass_Terrain_Mat, compiling. 
+[2018.05.23-20.06.32:700][267]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.05.23-20.07.34:196][ 60]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2018.05.23-20.07.34:198][ 60]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2018.05.23-20.07.34:199][ 60]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2018.05.23-20.07.35:391][ 60]LogSavePackage: Save=1566.96ms
+[2018.05.23-20.07.35:391][ 60]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideSceneF1CB885E43E1185FFDAC9E80C8A7449E.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.05.23-20.07.35:435][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.05.23-20.07.46:824][ 60]LogSavePackage: Save=10244.49ms
+[2018.05.23-20.07.46:824][ 60]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/roadSideScene_BuiltDataF144741E432C32F0D0697C8803629689.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset'
+[2018.05.23-20.07.46:841][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene_BuiltData.uasset
+[2018.05.23-20.09.26:370][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ComboLock/LockCombo" FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/ComboLock/LockCombo.uasset" SILENT=true
+[2018.05.23-20.09.26:502][354]LogSavePackage: Save=129.38ms
+[2018.05.23-20.09.26:502][354]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/LockComboA013E44344BE667C0842ECB8051FB0D0.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/ComboLock/LockCombo.uasset'
+[2018.05.23-20.09.26:504][354]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/ComboLock/LockCombo.uasset
+[2018.05.23-20.09.27:860][355]Cmd: QUIT_EDITOR
+[2018.05.23-20.09.28:881][355]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.23-20.09.28:914][355]LogExit: Preparing to exit.
+[2018.05.23-20.09.29:903][355]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.05.23-20.09.30:183][355]LogExit: Editor shut down
+[2018.05.23-20.09.30:212][355]LogExit: Transaction tracking system shut down
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.23-20.09.30:494][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.23-20.09.31:671][355]LogExit: Object subsystem successfully closed.
+[2018.05.23-20.09.31:850][355]LogD3D11RHI: Shutdown
+[2018.05.23-20.09.31:859][355]LogD3D11RHI: CleanupD3DDevice
+[2018.05.23-20.09.31:882][355]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (552)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (550)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.05.23-20.09.32:542][355]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.05.23-20.09.32:552][355]LogDirectoryWatcher: A directory notification for 'F:/Unreal 4.18/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.23-20.09.32:558][355]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.05.23-20.09.32:558][355]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.05.23-20.09.32:558][355]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.05.23-20.09.32:564][355]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' was aborted.
+[2018.05.23-20.09.32:565][355]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' was aborted.
+[2018.05.23-20.09.32:565][355]LogDirectoryWatcher: A directory notification for 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' was aborted.
+[2018.05.23-20.09.32:565][355]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.05.23-20.09.32:580][355]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.05.23-20.09.32:580][355]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.05.23-20.09.32:600][355]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.05.23-20.09.32:606][355]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.05.23-20.09.32:619][355]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.05.23-20.09.32:628][355]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.05.23-20.09.32:635][355]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.05.23-20.09.32:657][355]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.05.23-20.09.32:658][355]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.05.23-20.09.32:661][355]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.05.23-20.09.32:662][355]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.05.23-20.09.32:662][355]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.05.23-20.09.32:662][355]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.05.23-20.09.32:662][355]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.05.23-20.09.32:662][355]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.05.23-20.09.32:677][355]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.05.23-20.09.32:690][355]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.05.23-20.09.32:711][355]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.05.23-20.09.32:729][355]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.05.23-20.09.32:737][355]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.05.23-20.09.32:737][355]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.05.23-20.09.32:737][355]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.05.23-20.09.32:737][355]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.05.23-20.09.33:453][355]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.05.23-20.09.33:453][355]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.05.23-20.09.33:453][355]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.05.23-20.09.33:453][355]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.05.23-20.09.33:453][355]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.05.23-20.09.33:477][355]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.05.23-20.09.33:477][355]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.05.23-20.09.33:491][355]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.05.23-20.09.33:491][355]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.05.23-20.09.33:497][355]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.05.23-20.09.33:501][355]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.05.23-20.09.33:501][355]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.05.23-20.09.33:501][355]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.05.23-20.09.33:501][355]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.05.23-20.09.33:511][355]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.05.23-20.09.33:521][355]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.05.23-20.09.33:534][355]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.05.23-20.09.33:543][355]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.05.23-20.09.33:551][355]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.05.23-20.09.33:603][355]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.05.23-20.09.33:623][355]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.05.23-20.09.33:635][355]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.05.23-20.09.33:650][355]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.05.23-20.09.33:651][355]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.05.23-20.09.33:659][355]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.05.23-20.09.33:659][355]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.05.23-20.09.33:683][355]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.05.23-20.09.33:683][355]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.05.23-20.09.33:683][355]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.05.23-20.09.33:701][355]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.05.23-20.09.33:701][355]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.05.23-20.09.33:701][355]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.05.23-20.09.33:716][355]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.05.23-20.09.33:747][355]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.05.23-20.09.33:758][355]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.05.23-20.09.33:761][355]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.05.23-20.09.33:761][355]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.05.23-20.09.33:761][355]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.05.23-20.09.33:761][355]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.05.23-20.09.33:762][355]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.05.23-20.09.33:765][355]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.05.23-20.09.33:765][355]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.05.23-20.09.33:771][355]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.05.23-20.09.33:775][355]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.05.23-20.09.33:786][355]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.05.23-20.09.33:803][355]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.05.23-20.09.33:803][355]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.05.23-20.09.33:803][355]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.05.23-20.09.33:811][355]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.05.23-20.09.33:817][355]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.05.23-20.09.33:817][355]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.05.23-20.09.33:817][355]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.05.23-20.09.33:820][355]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.05.23-20.09.33:820][355]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.05.23-20.09.33:820][355]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.05.23-20.09.33:820][355]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.05.23-20.09.33:838][355]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.05.23-20.09.33:838][355]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.05.23-20.09.33:838][355]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.23-20.09.33:838][355]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.23-20.09.33:847][355]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.23-20.09.33:847][355]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.23-20.09.33:861][355]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.23-20.09.33:861][355]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.23-20.09.33:861][355]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.23-20.09.33:868][355]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.23-20.09.33:885][355]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.23-20.09.33:885][355]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.23-20.09.33:886][355]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.23-20.09.33:886][355]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.23-20.09.33:896][355]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.23-20.09.33:903][355]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.23-20.09.33:919][355]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.23-20.09.33:919][355]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.23-20.09.33:919][355]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.23-20.09.33:919][355]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.23-20.09.33:919][355]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.23-20.09.33:931][355]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.23-20.09.33:935][355]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.23-20.09.33:970][355]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.23-20.09.33:973][355]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.23-20.09.33:973][355]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.23-20.09.33:987][355]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.23-20.09.33:999][355]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.23-20.09.34:118][355]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.23-20.09.34:233][355]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.23-20.09.34:246][355]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.23-20.09.34:246][355]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.23-20.09.34:246][355]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.23-20.09.34:256][355]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.23-20.09.34:256][355]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.23-20.09.34:259][355]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.23-20.09.34:259][355]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.23-20.09.34:259][355]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.23-20.09.34:273][355]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.23-20.09.34:282][355]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.23-20.09.34:282][355]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.23-20.09.34:282][355]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.23-20.09.34:283][355]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.23-20.09.34:297][355]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.23-20.09.34:297][355]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.23-20.09.34:304][355]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.23-20.09.34:305][355]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.23-20.09.34:305][355]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.23-20.09.34:321][355]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.23-20.09.34:329][355]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.23-20.09.34:329][355]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.23-20.09.34:350][355]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.23-20.09.34:359][355]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.23-20.09.34:376][355]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.23-20.09.34:376][355]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.23-20.09.34:384][355]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.23-20.09.34:402][355]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.23-20.09.34:428][355]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.23-20.09.34:436][355]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.23-20.09.34:460][355]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.23-20.09.34:460][355]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.23-20.09.34:469][355]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.23-20.09.34:477][355]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.23-20.09.34:485][355]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.23-20.09.34:485][355]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.23-20.09.34:509][355]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.23-20.09.34:516][355]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.23-20.09.34:516][355]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.23-20.09.34:521][355]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.23-20.09.34:521][355]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.23-20.09.34:529][355]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.23-20.09.34:536][355]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.23-20.09.34:673][355]LogDerivedDataCache: Shutdown
+[2018.05.23-20.09.34:673][355]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.23-20.09.34:673][355]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.23-20.09.34:678][355]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.23-20.09.34:683][355]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.23-20.09.34:690][355]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.23-20.09.34:691][355]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.23-20.09.34:697][355]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.23-20.09.34:697][355]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.23-20.09.34:700][355]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.23-20.09.34:700][355]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.23-20.09.34:708][355]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.23-20.09.34:709][355]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.23-20.09.34:710][355]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.23-20.09.34:721][355]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.23-20.09.34:721][355]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.23-20.09.34:721][355]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.23-20.09.34:721][355]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.23-20.09.34:721][355]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.23-20.09.34:764][355]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.23-20.09.34:779][355]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.23-20.09.34:780][355]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.23-20.09.34:789][355]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B68242892-4412-2CF6-1683-9EBDC6B1BB5B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=10e6b4d1454adc80c402fda4840b45e8%7C2c90cfa805f74c7c8a19ce3131a633e6%7C3792c45f-2c81-433f-9f30-88efbac6f71d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.23-20.09.34:799][355]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.23-20.09.34:808][355]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.23-20.09.34:820][355]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.23-20.09.34:820][355]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.23-20.09.34:835][355]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.23-20.09.34:837][355]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.23-20.09.34:837][355]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.23-20.09.34:837][355]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.23-20.09.34:853][355]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.23-20.09.34:868][355]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.23-20.09.34:868][355]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.23-20.09.34:881][355]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.23-20.09.34:881][355]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.23-20.09.34:881][355]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.23-20.09.34:881][355]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.23-20.09.34:886][355]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.23-20.09.34:886][355]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.23-20.09.34:893][355]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.23-20.09.34:893][355]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.23-20.09.34:943][355]LogExit: Exiting.
+[2018.05.23-20.09.34:974][355]Log file closed, 05/23/18 22:09:34
