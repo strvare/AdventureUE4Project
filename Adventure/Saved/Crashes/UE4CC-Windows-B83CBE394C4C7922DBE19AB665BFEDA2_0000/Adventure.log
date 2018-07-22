@@ -1,0 +1,805 @@
+﻿Log file open, 07/22/18 18:59:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(616416585) SRandInit(616416585).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195488
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Games/UnrealEngine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.22-16.59.24:413][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-16.59.24:414][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.22-16.59.24:510][  0]LogInit: Computer: DESKTOP-RF4RBEI
+[2018.07.22-16.59.24:510][  0]LogInit: User: Emil
+[2018.07.22-16.59.24:510][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.22-16.59.24:510][  0]LogInit: High frequency timer resolution =2.437500 MHz
+[2018.07.22-16.59.24:510][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.22-16.59.24:510][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.22-16.59.24:510][  0]LogMemory: Process Physical Memory: 273.38 MB used, 273.38 MB peak
+[2018.07.22-16.59.24:510][  0]LogMemory: Process Virtual Memory: 276.71 MB used, 276.71 MB peak
+[2018.07.22-16.59.24:510][  0]LogMemory: Physical Memory: 4747.96 MB used,  3329.06 MB free, 8077.02 MB total
+[2018.07.22-16.59.24:510][  0]LogMemory: Virtual Memory: 4780.16 MB used,  3329.06 MB free, 134217728.00 MB total
+[2018.07.22-16.59.24:676][  0]LogInit: Using OS detected language (sv-SE).
+[2018.07.22-16.59.24:677][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.07.22-16.59.24:679][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.07.22-16.59.24:679][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.07.22-16.59.25:167][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.22-16.59.25:425][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.22-16.59.25:492][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.07.22-16.59.25:492][  0]LogD3D11RHI:       1979/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.22-16.59.25:500][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.07.22-16.59.25:500][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.22-16.59.25:502][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.22-16.59.25:502][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.22-16.59.25:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.22-16.59.25:517][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.22-16.59.25:517][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.07.22-16.59.25:517][  0]LogWindows: EnumDisplayDevices:
+[2018.07.22-16.59.25:517][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.07.22-16.59.25:517][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.22-16.59.25:517][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.07.22-16.59.25:517][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.22-16.59.25:517][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.07.22-16.59.25:517][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.22-16.59.25:517][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.22-16.59.25:517][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.07.22-16.59.25:557][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.22-16.59.25:574][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.22-16.59.25:575][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/2556/).
+[2018.07.22-16.59.25:575][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Emil/AppData/Local/Temp/UnrealShaderWorkingDir/2941B4A64EBDBD7EFC858D9B298837D2/'.
+[2018.07.22-16.59.25:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.22-16.59.26:640][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.22-16.59.26:766][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.22-16.59.26:931][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.22-16.59.27:065][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.22-16.59.27:129][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.22-16.59.27:186][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.22-16.59.27:237][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.22-16.59.27:288][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.22-16.59.27:326][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.22-16.59.27:370][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.22-16.59.27:414][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.22-16.59.27:460][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.22-16.59.27:516][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.22-16.59.27:563][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.22-16.59.27:659][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.22-16.59.27:659][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.22-16.59.27:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.22-16.59.27:771][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.22-16.59.27:892][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.22-16.59.27:918][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.22-16.59.27:968][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.22-16.59.28:016][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.22-16.59.28:074][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.22-16.59.28:178][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.22-16.59.28:179][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.22-16.59.28:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: Loaded boot cache 0.10s 79MB C:/Users/Emil/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Emil/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.22-16.59.28:694][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.22-16.59.28:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.22-16.59.28:724][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Emil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.22-16.59.28:735][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.22-16.59.28:735][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.22-16.59.28:735][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-16.59.28:735][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-16.59.29:137][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-16.59.29:554][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.22-16.59.29:624][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.22-16.59.29:624][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.22-16.59.29:624][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.22-16.59.29:624][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.22-16.59.29:624][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.22-16.59.29:704][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.07.22-16.59.29:884][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.07.22-16.59.30:423][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.036169 seconds
+[2018.07.22-16.59.30:431][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.22-16.59.30:431][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.07.22-16.59.30:431][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.22-16.59.30:473][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.22-16.59.33:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.22-16.59.34:006][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.22-16.59.34:617][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.22-16.59.35:000][  0]SourceControl: Source control is disabled
+[2018.07.22-16.59.35:825][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.22-16.59.36:066][  0]LogOcInput: OculusInput pre-init called
+[2018.07.22-16.59.36:341][  0]LogEngine: Initializing Engine...
+[2018.07.22-16.59.36:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.22-16.59.36:592][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-16.59.36:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-16.59.36:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.22-16.59.36:746][  0]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-16.59.36:760][  0]LogInit: FAudioDevice initialized.
+[2018.07.22-16.59.36:852][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/Emil/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.22-16.59.36:866][  0]LogInit: Texture streaming: Enabled
+[2018.07.22-16.59.36:948][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.22-16.59.37:092][  0]LogInit: Transaction tracking system initialized
+[2018.07.22-16.59.37:398][  0]BlueprintLog: New page: Editor Load
+[2018.07.22-16.59.38:230][  0]LocalizationService: Localization service is disabled
+[2018.07.22-16.59.38:899][  0]LogConsoleResponse: Display: 
+[2018.07.22-16.59.39:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.22-16.59.39:110][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.22-16.59.39:110][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.22-16.59.39:799][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/GitHub/AdventureUE4Project/Adventure/Content/' took 0.06s
+[2018.07.22-16.59.40:229][  0]Cmd: MAP LOAD FILE="../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.22-16.59.40:229][  0]LightingResults: New page: Lighting Build
+[2018.07.22-16.59.40:265][  0]MapCheck: New page: Map Check
+[2018.07.22-16.59.40:265][  0]LightingResults: New page: Lighting Build
+[2018.07.22-16.59.55:068][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-16.59.57:170][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.22-16.59.57:206][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-16.59.57:289][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.779ms to complete.
+[2018.07.22-16.59.57:289][  0]LogFileHelpers: Loading map 'roadSideScene' took 17.060
+[2018.07.22-16.59.58:004][  0]LogCollectionManager: Loaded 0 collections in 0.001874 seconds
+[2018.07.22-16.59.58:187][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/GitHub/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.07.22-16.59.58:187][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/GitHub/AdventureUE4Project/Adventure/Content/Developers/Emil/Collections/' took 0.01s
+[2018.07.22-16.59.58:187][  0]LogFileCache: Scanning file cache for directory 'D:/Programs/GitHub/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.07.22-16.59.58:187][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.22-16.59.58:196][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2363 classes and 519 folders.
+[2018.07.22-16.59.58:275][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-16.59.59:729][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-16.59.59:880][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.22-17.00.00:296][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-17.00.00:298][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.22-17.00.00:362][  0]LogSlate: Took 0.019950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.22-17.00.00:906][  0]LogRenderer: Reallocating scene render targets to support 1284x644 Format 9 NumSamples 1 (Frame:1).
+[2018.07.22-17.00.01:690][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.22-17.00.01:690][  0]LogLoad: (Engine Initialization) Total time: 40.26 seconds
+[2018.07.22-17.00.01:690][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.22-17.00.01:690][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.22-17.00.02:128][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.07.22-17.00.02:778][  0]LogSlate: Took 0.050237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.22-17.00.03:629][  2]LogAssetRegistry: Asset discovery search completed in 33.7673 seconds
+[2018.07.22-17.00.03:631][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.22-17.00.03:631][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.07.22-17.00.03:765][  2]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.22-17.00.07:947][ 15]LogFileCache: Retrieving MD5 hashes for directory 'D:/Programs/GitHub/AdventureUE4Project/Adventure/Content/' took 5.90s
+[2018.07.22-17.00.15:972][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_68)
+[2018.07.22-17.00.30:574][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_64)
+[2018.07.22-17.00.53:386][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_16)
+[2018.07.22-17.00.57:486][534]Cmd: DELETE
+[2018.07.22-17.00.57:486][534]Cmd: ACTOR DELETE
+[2018.07.22-17.00.57:713][534]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.22-17.00.57:896][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.00.57:919][534]LogEditorActor: Deleted 1 Actors (0.262 secs)
+[2018.07.22-17.00.58:702][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_7)
+[2018.07.22-17.01.07:022][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_10)
+[2018.07.22-17.01.08:810][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_64)
+[2018.07.22-17.01.12:197][319]Cmd: DELETE
+[2018.07.22-17.01.12:197][319]Cmd: ACTOR DELETE
+[2018.07.22-17.01.12:221][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.01.12:233][319]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.01.23:122][953]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.07.22-17.01.35:599][634]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.22-17.01.35:982][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_7)
+[2018.07.22-17.01.55:993][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_8)
+[2018.07.22-17.02.14:510][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_15)
+[2018.07.22-17.02.27:012][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_69)
+[2018.07.22-17.02.32:419][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_62)
+[2018.07.22-17.02.38:373][ 76]Cmd: DELETE
+[2018.07.22-17.02.38:373][ 76]Cmd: ACTOR DELETE
+[2018.07.22-17.02.38:393][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.02.38:409][ 76]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.02.42:266][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_69)
+[2018.07.22-17.03.03:526][488]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fog_cloud3)
+[2018.07.22-17.03.05:178][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_60)
+[2018.07.22-17.03.08:056][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_37)
+[2018.07.22-17.03.34:940][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_68)
+[2018.07.22-17.03.55:779][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_102)
+[2018.07.22-17.03.59:802][552]Cmd: DELETE
+[2018.07.22-17.03.59:802][552]Cmd: ACTOR DELETE
+[2018.07.22-17.03.59:825][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.03.59:838][552]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.04.01:793][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_131)
+[2018.07.22-17.04.55:242][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_13)
+[2018.07.22-17.04.58:714][905]Cmd: DELETE
+[2018.07.22-17.04.58:714][905]Cmd: ACTOR DELETE
+[2018.07.22-17.04.58:738][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.04.58:750][905]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.04.59:899][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_24)
+[2018.07.22-17.05.27:281][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_101)
+[2018.07.22-17.05.30:397][644]Cmd: DELETE
+[2018.07.22-17.05.30:397][644]Cmd: ACTOR DELETE
+[2018.07.22-17.05.30:418][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.05.30:432][644]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.07.22-17.05.31:304][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_158)
+[2018.07.22-17.05.44:999][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_104)
+[2018.07.22-17.06.07:010][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_105)
+[2018.07.22-17.06.08:241][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_159)
+[2018.07.22-17.06.10:545][837]Cmd: DELETE
+[2018.07.22-17.06.10:545][837]Cmd: ACTOR DELETE
+[2018.07.22-17.06.10:567][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.06.10:579][837]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.07.22-17.06.13:070][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_103)
+[2018.07.22-17.06.46:145][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_105)
+[2018.07.22-17.06.55:540][320]Cmd: DELETE
+[2018.07.22-17.06.55:540][320]Cmd: ACTOR DELETE
+[2018.07.22-17.06.55:565][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.06.55:575][320]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.07.22-17.07.02:318][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_158)
+[2018.07.22-17.07.26:363][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_48)
+[2018.07.22-17.07.30:510][220]Cmd: DELETE
+[2018.07.22-17.07.30:510][220]Cmd: ACTOR DELETE
+[2018.07.22-17.07.30:531][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.07.30:546][220]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.07.31:645][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_50)
+[2018.07.22-17.07.37:023][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_47)
+[2018.07.22-17.07.52:688][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_11)
+[2018.07.22-17.07.54:922][554]Cmd: DELETE
+[2018.07.22-17.07.54:922][554]Cmd: ACTOR DELETE
+[2018.07.22-17.07.54:945][554]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.07.54:956][554]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.07.22-17.07.55:933][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_17)
+[2018.07.22-17.08.08:177][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.22-17.08.09:256][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_15)
+[2018.07.22-17.08.18:076][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_12)
+[2018.07.22-17.08.21:011][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_10)
+[2018.07.22-17.08.26:630][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_144)
+[2018.07.22-17.08.31:943][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_132)
+[2018.07.22-17.08.40:323][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_92)
+[2018.07.22-17.08.44:123][191]Cmd: DELETE
+[2018.07.22-17.08.44:123][191]Cmd: ACTOR DELETE
+[2018.07.22-17.08.44:146][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.08.44:159][191]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.07.22-17.08.48:267][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_94)
+[2018.07.22-17.08.58:413][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_6)
+[2018.07.22-17.09.01:922][170]Cmd: TRANSACTION UNDO
+[2018.07.22-17.09.01:922][170]LogEditorTransaction: Undo Move Actors
+[2018.07.22-17.09.04:166][277]Cmd: MODE GRID=1
+[2018.07.22-17.09.07:290][445]Cmd: MODE GRID=0
+[2018.07.22-17.09.19:257][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_19)
+[2018.07.22-17.09.19:717][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_21)
+[2018.07.22-17.09.22:259][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_19)
+[2018.07.22-17.09.25:232][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_20)
+[2018.07.22-17.09.29:071][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.22-17.09.48:634][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_04)
+[2018.07.22-17.09.54:249][ 68]Cmd: DELETE
+[2018.07.22-17.09.54:249][ 68]Cmd: ACTOR DELETE
+[2018.07.22-17.09.54:273][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.09.54:283][ 68]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.07.22-17.09.55:429][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_6)
+[2018.07.22-17.10.12:005][ 49]Cmd: DELETE
+[2018.07.22-17.10.12:005][ 49]Cmd: ACTOR DELETE
+[2018.07.22-17.10.12:033][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.10.12:048][ 49]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.07.22-17.10.13:477][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_63)
+[2018.07.22-17.10.32:050][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.22-17.10.32:569][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_63)
+[2018.07.22-17.10.38:731][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_61)
+[2018.07.22-17.10.42:457][763]Cmd: DELETE
+[2018.07.22-17.10.42:457][763]Cmd: ACTOR DELETE
+[2018.07.22-17.10.42:478][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-17.10.42:491][763]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.07.22-17.10.43:348][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_60)
+[2018.07.22-17.10.50:012][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_59)
+[2018.07.22-17.10.51:217][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_60)
+[2018.07.22-17.10.56:944][517]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fog_cloud3)
+[2018.07.22-17.10.57:987][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_59)
+[2018.07.22-17.11.00:089][676]LogEditorViewport: Clicking on Actor (LMB): Emitter (Fog_cloud3)
+[2018.07.22-17.11.01:198][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_56)
+[2018.07.22-17.11.11:180][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StoneMoss_55)
+[2018.07.22-17.11.27:814][ 88]LogSavePackage: Save=2234.16ms
+[2018.07.22-17.11.27:814][ 88]LogSavePackage: Moving '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Saved/roadSideSceneBBF6044E4FE6BC9CDD001DAB16AB2EB6.tmp' to '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.07.22-17.11.27:824][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.07.22-17.11.27:891][ 88]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-17.55.36:384][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_146)
+[2018.07.22-17.55.49:125][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_46)
+[2018.07.22-17.56.05:808][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_42)
+[2018.07.22-17.56.12:964][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_146)
+[2018.07.22-17.57.28:467][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_160)
+[2018.07.22-17.57.38:375][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_161)
+[2018.07.22-17.57.39:138][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_160)
+[2018.07.22-17.58.00:852][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_149)
+[2018.07.22-17.58.57:253][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_5)
+[2018.07.22-17.59.05:879][690]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.22-17.59.06:534][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_8)
+[2018.07.22-17.59.09:309][870]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.07.22-17.59.14:729][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_149)
+[2018.07.22-17.59.31:875][ 93]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.07.22-17.59.33:217][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-17.59.33:244][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-17.59.33:370][142]PIE: New page: PIE session: roadSideScene (Jul 22, 2018, 9:59:33 PM)
+[2018.07.22-17.59.33:383][142]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.07.22-17.59.33:850][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.466056s)
+[2018.07.22-17.59.33:853][142]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-17.59.33:870][142]LogPlayLevel: PIE: World Init took: (0.020268s)
+[2018.07.22-17.59.33:871][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.487678s)
+[2018.07.22-17.59.33:936][142]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-17.59.33:948][142]LogInit: FAudioDevice initialized.
+[2018.07.22-17.59.34:028][142]LogLoad: Game class is 'NewGameMOde_C'
+[2018.07.22-17.59.34:142][142]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 60) at 2018.07.22-19.59.34
+[2018.07.22-17.59.34:267][142]LogWorld: Bringing up level for play took: 0.157427
+[2018.07.22-17.59.35:726][142]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0164 seconds. Added 11 classes and 0 folders.
+[2018.07.22-17.59.35:832][142]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 2.259
+[2018.07.22-17.59.35:833][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-17.59.37:348][185]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.37:779][210]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.38:172][233]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.38:611][259]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.38:997][282]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.39:431][308]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.39:861][331]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.40:289][349]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.40:683][362]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.41:124][375]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.41:532][387]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.41:939][399]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.42:345][411]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.42:781][424]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.43:170][436]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.43:610][451]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.44:018][467]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.44:446][487]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.44:844][506]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.45:264][527]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.45:683][549]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.46:099][572]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.46:502][595]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.46:934][620]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.47:334][644]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.47:782][667]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.48:194][681]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.48:612][694]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.49:023][707]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.49:441][720]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.49:861][733]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.50:283][746]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.50:676][757]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.51:100][770]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.51:519][783]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.51:959][797]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.52:342][810]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.52:773][827]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.53:169][843]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.53:626][861]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.54:016][875]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.54:434][892]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.54:846][911]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.55:273][929]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.55:676][945]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.56:109][961]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.56:525][976]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.56:937][992]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.57:334][  8]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.57:780][ 28]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.58:173][ 45]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.58:613][ 63]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.59:014][ 82]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.59:458][102]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-17.59.59:861][117]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.00:279][131]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.00:680][144]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.01:114][159]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.01:503][176]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.02:038][194]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.03:151][234]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.03:581][256]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.03:975][276]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.04:411][296]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.04:826][311]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.05:433][330]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.05:874][343]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.06:271][358]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.06:706][378]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.07:098][391]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.07:540][408]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.07:924][422]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.08:359][436]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.08:759][449]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.09:206][463]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.09:592][476]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.10:029][491]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.10:436][505]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.10:871][523]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.11:278][542]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.11:707][562]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.12:094][579]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.12:523][597]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.12:930][614]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.13:370][632]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.13:762][647]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.14:206][663]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.14:591][676]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.15:040][691]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.15:427][704]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.15:860][719]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.16:276][734]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.16:714][748]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.17:113][762]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.17:529][777]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.17:939][792]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.18:366][808]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.18:780][824]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.19:204][840]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.19:600][857]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.20:032][875]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.20:434][893]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.20:862][913]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.21:258][931]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.21:712][951]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.22:099][969]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.22:536][990]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.22:933][ 10]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.23:360][ 32]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.23:767][ 54]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.24:202][ 78]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.24:600][101]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.25:029][126]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.25:429][150]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.25:870][176]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.26:270][200]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.26:688][225]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.27:090][249]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.27:533][275]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.27:932][299]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.28:359][320]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.28:761][339]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.29:191][361]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.29:710][392]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.30:149][418]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.00.30:638][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.00.30:803][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.00.48:137][314]LogSavePackage: Save=1943.25ms
+[2018.07.22-18.00.48:138][314]LogSavePackage: Moving '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Saved/roadSideScene3096DA7F413F746E4EA4FBB8D6FF3CEE.tmp' to '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap'
+[2018.07.22-18.00.48:141][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap
+[2018.07.22-18.12.31:141][451]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.07.22-18.12.31:160][451]LogMaterial: Missing cached shader map for material ShortGrass_01_mat, compiling. 
+[2018.07.22-18.12.32:358][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.07.22-18.12.32:363][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.07.22-18.12.32:375][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.22-18.12.32:382][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.22-18.12.32:392][451]LogMaterial: Missing cached shader map for material ShortGrass_01_mat, compiling. 
+[2018.07.22-18.12.32:483][451]LogMaterial: Missing cached shader map for material ShortGrass_01_mat, compiling. 
+[2018.07.22-18.12.32:594][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.07.22-18.12.32:603][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.07.22-18.12.32:613][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.07.22-18.12.32:620][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.07.22-18.12.32:665][451]LogSlate: Took 0.017809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.22-18.12.33:420][452]LogSlate: Took 0.007490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.22-18.12.51:124][314]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.07.22-18.12.51:125][314]MaterialEditorStats: Base pass shader with Surface Lightmap: 136 instructions
+[2018.07.22-18.12.51:125][314]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.07.22-18.12.51:125][314]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.07.22-18.12.51:125][314]MaterialEditorStats: Texture samplers: 5/16
+[2018.07.22-18.12.51:125][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.22-18.12.53:080][418]LogActorFactory: Actor Factory created Grass_04
+[2018.07.22-18.12.53:632][445]LogActorFactory: Actor Factory created Grass_04
+[2018.07.22-18.12.54:365][488]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.22-18.12.54:365][488]Can't find target actor or component.
+[2018.07.22-18.12.55:739][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.07.22-18.12.56:535][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grass_04)
+[2018.07.22-18.12.56:814][626]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.22-18.13.00:795][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Grass_04)
+[2018.07.22-18.13.01:640][910]Cmd: DELETE
+[2018.07.22-18.13.01:640][910]Cmd: ACTOR DELETE
+[2018.07.22-18.13.01:663][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.22-18.13.01:674][910]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.07.22-18.13.04:110][  7]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:1).
+[2018.07.22-18.14.00:247][140]LogTexture: Display: Building textures: T_LV_Forest_Foliage02_N (BC5, 512X1024)
+[2018.07.22-18.14.00:248][140]LogTexture: Display: Building textures: T_LV_Forest_Foliage02_D (AutoDXT, 512X1024)
+[2018.07.22-18.14.00:248][140]LogMaterial: Missing cached shader map for material M_Soul_Grass04, compiling. 
+[2018.07.22-18.14.10:829][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Linda_Models/Grass/Grass_04" FILE="../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_04.uasset" SILENT=true
+[2018.07.22-18.14.10:880][711]LogSavePackage: Save=40.31ms
+[2018.07.22-18.14.10:881][711]LogSavePackage: Moving '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Saved/Grass_047ADDFFFA48B5A3FB2300249AD9C4C52B.tmp' to '../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_04.uasset'
+[2018.07.22-18.14.10:883][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Programs/GitHub/AdventureUE4Project/Adventure/Content/Linda_Models/Grass/Grass_04.uasset
+[2018.07.22-18.23.30:314][385]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.23.30:363][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.23.30:363][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.23.30:363][385]PIE: New page: PIE session: roadSideScene (Jul 22, 2018, 10:23:30 PM)
+[2018.07.22-18.23.30:363][385]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.07.22-18.23.30:496][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132054s)
+[2018.07.22-18.23.30:497][385]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-18.23.30:497][385]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2018.07.22-18.23.30:498][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.134457s)
+[2018.07.22-18.23.30:549][385]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-18.23.30:559][385]LogInit: FAudioDevice initialized.
+[2018.07.22-18.23.30:611][385]LogLoad: Game class is 'NewGameMOde_C'
+[2018.07.22-18.23.30:634][385]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 60) at 2018.07.22-20.23.30
+[2018.07.22-18.23.30:638][385]LogWorld: Bringing up level for play took: 0.026231
+[2018.07.22-18.23.30:640][385]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.067
+[2018.07.22-18.23.30:641][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.23.31:668][427]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.32:111][451]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.32:495][470]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.32:930][496]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.33:335][520]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.33:766][545]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.34:504][588]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.34:936][613]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.37:378][758]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.37:826][783]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.38:229][803]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.23.40:685][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.23.40:736][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.24.35:608][890]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.24.35:640][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.24.35:640][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.24.35:640][890]PIE: New page: PIE session: roadSideScene (Jul 22, 2018, 10:24:35 PM)
+[2018.07.22-18.24.35:641][890]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.07.22-18.24.35:758][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117083s)
+[2018.07.22-18.24.35:759][890]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-18.24.35:759][890]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2018.07.22-18.24.35:760][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.119070s)
+[2018.07.22-18.24.35:782][890]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-18.24.35:789][890]LogInit: FAudioDevice initialized.
+[2018.07.22-18.24.35:835][890]LogLoad: Game class is 'NewGameMOde_C'
+[2018.07.22-18.24.35:861][890]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 60) at 2018.07.22-20.24.35
+[2018.07.22-18.24.35:864][890]LogWorld: Bringing up level for play took: 0.027145
+[2018.07.22-18.24.35:865][890]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.293
+[2018.07.22-18.24.35:866][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.24.36:667][930]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.37:111][956]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.37:510][979]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.37:933][  4]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.38:333][ 28]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.38:771][ 53]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.39:178][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.39:600][ 99]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.40:012][121]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.41:208][185]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.42:227][232]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.42:863][258]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.43:300][280]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.44:998][377]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.45:634][406]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.46:060][426]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.46:413][444]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.24.49:763][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.24.49:825][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.26.00:494][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.26.00:530][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.26.00:530][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.26.00:530][558]PIE: New page: PIE session: roadSideScene (Jul 22, 2018, 10:26:00 PM)
+[2018.07.22-18.26.00:531][558]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.07.22-18.26.00:656][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124524s)
+[2018.07.22-18.26.00:657][558]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-18.26.00:657][558]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2018.07.22-18.26.00:658][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.127026s)
+[2018.07.22-18.26.00:678][558]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-18.26.00:686][558]LogInit: FAudioDevice initialized.
+[2018.07.22-18.26.00:730][558]LogLoad: Game class is 'NewGameMOde_C'
+[2018.07.22-18.26.00:766][558]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 60) at 2018.07.22-20.26.00
+[2018.07.22-18.26.00:768][558]LogWorld: Bringing up level for play took: 0.037527
+[2018.07.22-18.26.00:771][558]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 1.198
+[2018.07.22-18.26.00:771][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.26.01:555][588]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.01:998][614]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.02:386][637]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.02:821][663]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.03:220][687]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.03:715][715]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.04:149][738]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.05:113][790]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.05:552][814]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.05:863][831]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.06:279][850]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.06:702][867]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.07:119][880]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.07:833][906]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.08:277][921]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.26.09:979][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.26.10:048][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.27.21:693][969]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.27.21:727][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.27.21:727][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.27.21:727][969]PIE: New page: PIE session: roadSideScene (Jul 22, 2018, 10:27:21 PM)
+[2018.07.22-18.27.21:727][969]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.07.22-18.27.21:845][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117128s)
+[2018.07.22-18.27.21:847][969]LogAIModule: Creating AISystem for world roadSideScene
+[2018.07.22-18.27.21:847][969]LogPlayLevel: PIE: World Init took: (0.002601s)
+[2018.07.22-18.27.21:848][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.120302s)
+[2018.07.22-18.27.21:868][969]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-18.27.21:878][969]LogInit: FAudioDevice initialized.
+[2018.07.22-18.27.21:924][969]LogLoad: Game class is 'NewGameMOde_C'
+[2018.07.22-18.27.21:954][969]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 60) at 2018.07.22-20.27.21
+[2018.07.22-18.27.21:956][969]LogWorld: Bringing up level for play took: 0.030816
+[2018.07.22-18.27.21:959][969]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.385
+[2018.07.22-18.27.21:959][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.27.22:704][999]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.23:144][ 25]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.23:544][ 49]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.23:983][ 75]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.24:375][ 98]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.24:809][124]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.25:209][148]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.25:644][174]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.26:180][206]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.26:977][254]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.29:262][391]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.29:717][411]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.30:110][426]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.07.22-18.27.31:020][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.27.31:096][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.07.22-18.29.15:203][837]LogWindows: Windows GetLastError: Åtgärden har slutförts. (0)
