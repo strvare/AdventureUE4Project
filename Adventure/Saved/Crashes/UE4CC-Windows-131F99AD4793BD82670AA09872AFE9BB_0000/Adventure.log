@@ -1,0 +1,1047 @@
+﻿Log file open, 09/17/18 19:20:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1328288635) SRandInit(1328288635).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213493
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.17-17.20.39:494][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.17-17.20.39:494][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.17-17.20.39:546][  0]LogInit: Computer: MR_E-DATOR
+[2018.09.17-17.20.39:546][  0]LogInit: User: MrE
+[2018.09.17-17.20.39:546][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.17-17.20.39:546][  0]LogInit: High frequency timer resolution =3.233221 MHz
+[2018.09.17-17.20.39:547][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.17-17.20.39:547][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.17-17.20.39:547][  0]LogMemory: Process Physical Memory: 276.96 MB used, 276.96 MB peak
+[2018.09.17-17.20.39:547][  0]LogMemory: Process Virtual Memory: 273.77 MB used, 273.77 MB peak
+[2018.09.17-17.20.39:547][  0]LogMemory: Physical Memory: 5186.11 MB used,  2973.03 MB free, 8159.14 MB total
+[2018.09.17-17.20.39:547][  0]LogMemory: Virtual Memory: 4779.04 MB used,  2973.03 MB free, 134217728.00 MB total
+[2018.09.17-17.20.39:821][  0]LogInit: Using OS detected language (sv-SE).
+[2018.09.17-17.20.39:821][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.09.17-17.20.39:825][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.09.17-17.20.39:825][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.09.17-17.20.40:290][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.17-17.20.40:580][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.17-17.20.40:657][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.17-17.20.40:657][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.17-17.20.40:660][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.17-17.20.40:660][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.17-17.20.40:660][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.17-17.20.40:667][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.17-17.20.40:667][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.17-17.20.40:667][  0]LogWindows: EnumDisplayDevices:
+[2018.09.17-17.20.40:667][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.17-17.20.40:667][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.09.17-17.20.40:667][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.17-17.20.40:668][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.17-17.20.40:668][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.17-17.20.40:668][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.17-17.20.40:668][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.17-17.20.40:668][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.17-17.20.40:668][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.09.17-17.20.40:712][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.17-17.20.40:730][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.17-17.20.40:779][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/4924/).
+[2018.09.17-17.20.40:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/C53CD1EA4A18E205495ECAA227AB9162/'.
+[2018.09.17-17.20.40:779][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.17-17.20.41:916][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.17-17.20.41:970][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.17-17.20.42:048][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.17-17.20.42:116][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.17-17.20.42:183][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.17-17.20.42:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.17-17.20.42:325][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.17-17.20.42:379][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.17-17.20.42:425][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.17-17.20.42:486][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.17-17.20.42:539][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.17-17.20.42:593][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.17-17.20.42:648][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.17-17.20.42:701][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.17-17.20.42:808][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.17-17.20.42:808][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.17-17.20.42:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.17-17.20.42:902][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.17-17.20.42:998][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.17-17.20.43:028][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.17-17.20.43:082][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.17-17.20.43:135][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.17-17.20.43:205][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.17-17.20.43:272][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.17-17.20.43:272][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.17-17.20.43:776][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: Loaded boot cache 0.10s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.17-17.20.43:871][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.17-17.20.43:890][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.17-17.20.43:902][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.17-17.20.43:914][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.17-17.20.43:914][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.17-17.20.43:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.17-17.20.43:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.17-17.20.44:373][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.17-17.20.44:739][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.17-17.20.44:782][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.17-17.20.44:782][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.17-17.20.44:782][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.17-17.20.44:782][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.17-17.20.44:782][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.17-17.20.44:835][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.09.17-17.20.45:017][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.09.17-17.20.45:678][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.082119 seconds
+[2018.09.17-17.20.45:684][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.09.17-17.20.45:684][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.09.17-17.20.45:684][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.17-17.20.45:762][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.09.17-17.20.49:479][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.17-17.20.49:523][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.17-17.20.50:790][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.09.17-17.20.51:282][  0]SourceControl: Source control is disabled
+[2018.09.17-17.20.52:358][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.17-17.20.52:705][  0]LogOcInput: OculusInput pre-init called
+[2018.09.17-17.20.53:039][  0]LogEngine: Initializing Engine...
+[2018.09.17-17.20.53:045][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.09.17-17.20.53:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.17-17.20.53:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.17-17.20.53:488][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.17-17.20.53:540][  0]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-17.20.53:618][  0]LogInit: FAudioDevice initialized.
+[2018.09.17-17.20.53:735][  0]LogDerivedDataCache: Saved boot cache 0.12s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.17-17.20.53:749][  0]LogInit: Texture streaming: Enabled
+[2018.09.17-17.20.53:869][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.17-17.20.54:069][  0]LogInit: Transaction tracking system initialized
+[2018.09.17-17.20.54:593][  0]BlueprintLog: New page: Editor Load
+[2018.09.17-17.20.55:892][  0]LocalizationService: Localization service is disabled
+[2018.09.17-17.20.56:537][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.09.17-17.20.56:537][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.09.17-17.20.56:537][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2018.09.17-17.20.57:109][  0]LogConsoleResponse: Display: 
+[2018.09.17-17.20.57:357][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.17-17.20.57:358][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.17-17.20.57:358][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.17-17.20.58:766][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.37s
+[2018.09.17-17.20.59:351][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.17-17.20.59:458][  0]LightingResults: New page: Lighting Build
+[2018.09.17-17.20.59:502][  0]MapCheck: New page: Map Check
+[2018.09.17-17.20.59:502][  0]LightingResults: New page: Lighting Build
+[2018.09.17-17.21.01:158][  0]LogMeshUtilities: Finished distance field build in 1.8s - 30x30x29 distance field, 284 triangles, Range [-0.4, 1.0], Cone
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: GroundMoss_01_Mask (AutoDXT, 2048X2048)
+[2018.09.17-17.21.31:487][  0]LogTexture: Display: Building textures: GroundMoss_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.21.32:619][  0]LogStaticMesh: Building static mesh ElmTree_01...
+[2018.09.17-17.21.33:074][  0]LogStaticMesh: Built static mesh [0.46s] /Game/Linda_Models/ElmTree/ElmTree_01.ElmTree_01
+[2018.09.17-17.21.33:251][  0]LogStaticMesh: Building static mesh ElmTreeWithLeaves2...
+[2018.09.17-17.21.33:728][  0]LogTexture: Display: Building textures: StoneMoss_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.21.33:728][  0]LogStaticMesh: Built static mesh [0.48s] /Game/Linda_Models/ElmTree/ElmTreeWithLeaves2.ElmTreeWithLeaves2
+[2018.09.17-17.21.34:124][  0]LogStaticMesh: Building static mesh Fern_02...
+[2018.09.17-17.21.34:137][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Fern/Fern_02.Fern_02
+[2018.09.17-17.21.34:201][  0]LogStaticMesh: Building static mesh Grass_02...
+[2018.09.17-17.21.34:206][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Grass/Grass_02.Grass_02
+[2018.09.17-17.21.34:265][  0]LogStaticMesh: Building static mesh Stone_01...
+[2018.09.17-17.21.34:268][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Stone/Stone_01.Stone_01
+[2018.09.17-17.21.34:270][  0]LogStaticMesh: Building static mesh StoneMoss_01...
+[2018.09.17-17.21.34:273][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Stone/StoneMoss_01.StoneMoss_01
+[2018.09.17-17.21.34:276][  0]LogStaticMesh: Building static mesh Stone_02...
+[2018.09.17-17.21.34:280][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Stone/Stone_02.Stone_02
+[2018.09.17-17.21.34:283][  0]LogStaticMesh: Building static mesh ShortGrass_02...
+[2018.09.17-17.21.34:286][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Grass/ShortGrass_02.ShortGrass_02
+[2018.09.17-17.21.34:301][  0]LogStaticMesh: Building static mesh ShortGrass_03...
+[2018.09.17-17.21.34:303][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Grass/ShortGrass_03.ShortGrass_03
+[2018.09.17-17.21.34:306][  0]LogStaticMesh: Building static mesh ShortGrass_01...
+[2018.09.17-17.21.34:309][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Linda_Models/Grass/ShortGrass_01.ShortGrass_01
+[2018.09.17-17.21.34:311][  0]LogStaticMesh: Building static mesh Grass_04...
+[2018.09.17-17.21.34:320][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Grass/Grass_04.Grass_04
+[2018.09.17-17.21.34:905][  0]LogTexture: Display: Building textures: GroundGrass_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.21.49:050][  0]LogTexture: Display: Building textures: StoneMoss_01_Normal (BC5, 2048X2048)
+[2018.09.17-17.21.49:050][  0]LogTexture: Display: Building textures: StoneMoss_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.21.49:050][  0]LogTexture: Display: Building textures: GroundStone_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.21.49:050][  0]LogTexture: Display: Building textures: GroundStone_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.21.49:200][  0]LogTexture: Display: Building textures: GroundGrass_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: BushLeaves_01_OcclusionRoughnessMetallic (AutoDXT, 1024X512)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: BushLeaves_01_Normal (BC5, 1024X512)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: BushLeaves_01_Mask (AutoDXT, 1024X512)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: BushLeaves_01_BaseColor (AutoDXT, 1024X512)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: Bush_01_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: Bush_01_Normal (BC5, 1024X1024)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: Bush_01_BaseColor (AutoDXT, 1024X1024)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: rockDetailNormal (BC5, 512X512)
+[2018.09.17-17.21.57:225][  0]LogTexture: Display: Building textures: Stone_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.21.57:619][  0]LogTexture: Display: Building textures: GroundSand_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.22.10:662][  0]LogTexture: Display: Building textures: Stone_01_Normal (BC5, 2048X2048)
+[2018.09.17-17.22.10:662][  0]LogTexture: Display: Building textures: Stone_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.22.10:662][  0]LogTexture: Display: Building textures: GroundSand_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.22.10:663][  0]LogTexture: Display: Building textures: T_Cave_Rock_01_N (BC5, 2048X2048)
+[2018.09.17-17.22.10:663][  0]LogTexture: Display: Building textures: T_WaterFoam_02 (AutoDXT, 1024X1024)
+[2018.09.17-17.22.10:663][  0]LogTexture: Display: Building textures: Rock_normal (BC5, 1024X1024)
+[2018.09.17-17.22.10:663][  0]LogTexture: Display: Building textures: Rock_Albedo (AutoDXT, 1024X1024)
+[2018.09.17-17.22.10:674][  0]LogTexture: Display: Building textures: OldOak_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.22.13:056][  0]LogTexture: Display: Building textures: OldOak_01_normal (BC5, 2048X2048)
+[2018.09.17-17.22.13:057][  0]LogStaticMesh: Building static mesh Bush_01...
+[2018.09.17-17.22.13:283][  0]LogStaticMesh: Built static mesh [0.23s] /Game/Linda_Models/Bush/Bush_01.Bush_01
+[2018.09.17-17.22.13:359][  0]LogStaticMesh: Building static mesh Cabin_Inside_01...
+[2018.09.17-17.22.13:389][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Linda_Models/Cabin/Cabin_Inside_01.Cabin_Inside_01
+[2018.09.17-17.22.13:412][  0]LogStaticMesh: Building static mesh Cabin_Outside_01...
+[2018.09.17-17.22.13:438][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Linda_Models/Cabin/Cabin_Outside_01.Cabin_Outside_01
+[2018.09.17-17.22.13:468][  0]LogStaticMesh: Building static mesh Cabin_Roof_01...
+[2018.09.17-17.22.13:485][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Linda_Models/Cabin/Cabin_Roof_01.Cabin_Roof_01
+[2018.09.17-17.22.13:560][  0]LogStaticMesh: Building static mesh OldOak_01...
+[2018.09.17-17.22.14:160][  0]LogStaticMesh: Built static mesh [0.60s] /Game/Linda_Models/OldOak/OldOak_01.OldOak_01
+[2018.09.17-17.22.14:274][  0]LogStaticMesh: Building static mesh OldOakLeaves_01...
+[2018.09.17-17.22.14:546][  0]LogTexture: Display: Building textures: OldOak_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.22.14:546][  0]LogStaticMesh: Built static mesh [0.27s] /Game/Linda_Models/OldOak/OldOakLeaves_01.OldOakLeaves_01
+[2018.09.17-17.22.14:563][  0]LogStaticMesh: Building static mesh Stone_04...
+[2018.09.17-17.22.14:569][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Stone/Stone_04.Stone_04
+[2018.09.17-17.22.14:573][  0]LogStaticMesh: Building static mesh Stone_03...
+[2018.09.17-17.22.14:579][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Stone/Stone_03.Stone_03
+[2018.09.17-17.22.14:583][  0]LogStaticMesh: Building static mesh StoneMoss_03...
+[2018.09.17-17.22.14:589][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Stone/StoneMoss_03.StoneMoss_03
+[2018.09.17-17.22.14:593][  0]LogStaticMesh: Building static mesh StoneMoss_04...
+[2018.09.17-17.22.14:599][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Linda_Models/Stone/StoneMoss_04.StoneMoss_04
+[2018.09.17-17.22.14:602][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave 190104__tran5ient__stepout...
+[2018.09.17-17.22.15:024][  0]LogMaterial: Missing cached shader map for material BushLeaves_01_mat, compiling. 
+[2018.09.17-17.22.15:348][  0]LogMaterial: Missing cached shader map for material Bush_01_mat, compiling. 
+[2018.09.17-17.22.15:483][  0]LogMaterial: Missing cached shader map for material Stone_Moss_mat, compiling. 
+[2018.09.17-17.22.17:757][  0]LogTexture: Display: Building textures: ShortGrass_01_mask (AutoDXT, 1024X512)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: ShortGrass_01_ColorBase (AutoDXT, 1024X512)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_03_OcclusionRoughnessMetallic (AutoDXT, 512X1024)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_03_Normal (BC5, 512X1024)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_03_Mask (AutoDXT, 1024X512)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_03_BaseColor (AutoDXT, 512X1024)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_02_Mask (DXT5, 1024X512)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_02_BaseColor (DXT5, 1024X512)
+[2018.09.17-17.22.21:440][  0]LogTexture: Display: Building textures: Grass_01_OcclusionRoughnessMetallic (AutoDXT, 512X1024)
+[2018.09.17-17.22.21:463][  0]LogTexture: Display: Building textures: Grass_01_Normal (BC5, 512X1024)
+[2018.09.17-17.22.21:463][  0]LogMaterial: Missing cached shader map for material OldOak_01_mat, compiling. 
+[2018.09.17-17.22.21:553][  0]LogMaterial: Missing cached shader map for material ShortGrass_01_mat, compiling. 
+[2018.09.17-17.22.21:800][  0]LogTexture: Display: Building textures: Grass_01_BaseColor (AutoDXT, 512X1024)
+[2018.09.17-17.22.21:800][  0]LogMaterial: Missing cached shader map for material Grass_03_mat, compiling. 
+[2018.09.17-17.22.22:216][  0]LogTexture: Display: Building textures: Fern_01_OcclusionRoughnessMetallic (AutoDXT, 2048X1024)
+[2018.09.17-17.22.22:216][  0]LogMaterial: Missing cached shader map for material Grass_01_mat, compiling. 
+[2018.09.17-17.22.22:823][  0]LogTexture: Display: Building textures: Fern_01_normal (BC5, 2048X1024)
+[2018.09.17-17.22.22:823][  0]LogTexture: Display: Building textures: Cabin_Woodplanks_02_albedo (AutoDXT, 2048X2048)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: Fern_01_Mask (AutoDXT, 2048X1024)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: ElmTreeLeaves_01_OcclusionRoughnessMetallic (AutoDXT, 1024X512)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: ElmTreeLeaves_01_Normal (BC5, 1024X512)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: ElmTreeLeaves_01_Mask (AutoDXT, 2048X1024)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: ElmTreeLeaves_01_BaseColor (AutoDXT, 1024X512)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: Elm_Tree_01_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: Elm_Tree_01_Normal (BC5, 2048X2048)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: Elm_Tree_01_BaseColor (AutoDXT, 2048X2048)
+[2018.09.17-17.22.31:947][  0]LogTexture: Display: Building textures: Cabin_Roof_01_albedo (AutoDXT, 2048X2048)
+[2018.09.17-17.22.31:989][  0]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.09.17-17.22.32:154][  0]LogMaterial: Missing cached shader map for material Elm_Tree_Leaves_01_mat, compiling. 
+[2018.09.17-17.22.33:321][  0]LogMaterial: Missing cached shader map for material Elm_Tree_01_mat, compiling. 
+[2018.09.17-17.22.41:777][  0]LogTexture: Display: Building textures: PineLeaves_01_Mask (AutoDXT, 2048X1024)
+[2018.09.17-17.22.41:777][  0]LogTexture: Display: Building textures: PineLeaves_01_BaseColor (AutoDXT, 2048X1024)
+[2018.09.17-17.22.41:777][  0]LogTexture: Display: Building textures: Pine_01_BaseColor (AutoDXT, 2048X512)
+[2018.09.17-17.22.41:777][  0]LogTexture: Display: Building textures: OldOakLeaves_01_OcclusionRoughnessMetallic (AutoDXT, 2048X1024)
+[2018.09.17-17.22.44:698][  0]LogTexture: Display: Building textures: OldOakLeaves_01_normal (BC5, 2048X1024)
+[2018.09.17-17.22.44:698][  0]LogTexture: Display: Building textures: OldOakLeaves_01_Mask (AutoDXT, 2048X1024)
+[2018.09.17-17.22.44:698][  0]LogTexture: Display: Building textures: OldOakLeaves_01_BaseColor (AutoDXT, 2048X1024)
+[2018.09.17-17.22.44:698][  0]LogMeshUtilities: Finished distance field build in 71.2s - 64x64x64 distance field, 8664 triangles, Range [-0.1, 1.0], ElmTree_01
+[2018.09.17-17.22.44:703][  0]LogMaterial: Missing cached shader map for material OldOakLeaves_01_mat, compiling. 
+[2018.09.17-17.22.44:984][  0]LogMaterial: Missing cached shader map for material Stone_01_mat, compiling. 
+[2018.09.17-17.22.45:071][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.09.17-17.22.48:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.17-17.22.48:396][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.17-17.22.48:493][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.397ms to complete.
+[2018.09.17-17.22.48:493][  0]LogFileHelpers: Loading map 'roadSideScene' took 109.141
+[2018.09.17-17.22.50:709][  0]LogCollectionManager: Loaded 0 collections in 0.001235 seconds
+[2018.09.17-17.22.51:194][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.09.17-17.22.51:194][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.09.17-17.22.51:194][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.09.17-17.22.51:194][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.17-17.22.51:255][  0]LogContentBrowser: Native class hierarchy populated in 0.0483 seconds. Added 2363 classes and 519 folders.
+[2018.09.17-17.22.51:510][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.17-17.22.53:183][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.17-17.22.53:425][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.17-17.22.55:616][  0]LogSlate: Took 0.074379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.17-17.22.55:642][  0]LogSlate: Took 0.023960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.17-17.22.55:789][  0]LogSlate: Took 0.013949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.17-17.22.56:560][  0]LogRenderer: Reallocating scene render targets to support 1004x676 Format 9 NumSamples 1 (Frame:1).
+[2018.09.17-17.23.06:934][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.17-17.23.06:934][  0]LogLoad: (Engine Initialization) Total time: 151.03 seconds
+[2018.09.17-17.23.06:934][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.17-17.23.06:942][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.09.17-17.23.06:942][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.09.17-17.23.07:384][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.17-17.23.08:126][  0]LogSlate: Took 0.031730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.17-17.23.09:527][  2]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.17-17.23.09:840][  3]LogAssetRegistry: Asset discovery search completed in 144.8446 seconds
+[2018.09.17-17.23.09:843][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.17-17.23.09:843][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2018.09.17-17.23.20:994][  6]LogMeshUtilities: Finished distance field build in 13.3s - 64x58x64 distance field, 466 triangles, Range [-0.4, 1.0], StoneMoss_04
+[2018.09.17-17.23.25:779][  6]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 18.45s
+[2018.09.17-17.23.31:875][  9]LogMeshUtilities: Finished distance field build in 1.3s - 37x25x29 distance field, 466 triangles, Range [-0.4, 1.0], StoneMoss_03
+[2018.09.17-17.23.37:012][ 15]LogMeshUtilities: Finished distance field build in 1.7s - 37x25x29 distance field, 466 triangles, Range [-0.4, 1.0], Stone_03
+[2018.09.17-17.23.50:131][169]LogMeshUtilities: Finished distance field build in 13.1s - 64x64x64 distance field, 466 triangles, Range [-0.4, 1.0], Stone_04
+[2018.09.17-17.24.10:610][240]LogMeshUtilities: Finished distance field build in 20.4s - 64x64x64 distance field, 5824 triangles, Range [-0.1, 1.0], OldOakLeaves_01
+[2018.09.17-17.24.23:542][931]LogMeshUtilities: Finished distance field build in 12.9s - 64x64x64 distance field, 20952 triangles, Range [-0.1, 1.0], OldOak_01
+[2018.09.17-17.24.34:275][538]LogMeshUtilities: Finished distance field build in 10.7s - 64x64x64 distance field, 374 triangles, Range [-0.1, 0.7], Cabin_Outside_01
+[2018.09.17-17.24.42:260][978]LogMeshUtilities: Finished distance field build in 7.9s - 64x64x64 distance field, 4444 triangles, Range [-0.0, 1.0], Cabin_Misc_01
+[2018.09.17-17.24.53:085][582]LogMeshUtilities: Finished distance field build in 10.8s - 64x64x64 distance field, 358 triangles, Range [-0.0, 0.5], Cabin_Inside_01
+[2018.09.17-17.24.53:576][628]LogMeshUtilities: Finished distance field build in 0.5s - 20x18x15 distance field, 6611 triangles, Range [-0.0, 1.0], Bush_01
+[2018.09.17-17.24.53:723][641]LogMeshUtilities: Discarded distance field for Grass_04 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.09.17-17.24.53:723][641]LogMeshUtilities: Finished distance field build in 0.1s - 10x9x13 distance field, 240 triangles, Range [-0.2, 0.8], Grass_04
+[2018.09.17-17.24.53:774][643]LogMeshUtilities: Discarded distance field for ShortGrass_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.09.17-17.24.53:775][643]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 24 triangles, Range [-0.3, 0.7], ShortGrass_01
+[2018.09.17-17.24.53:821][646]LogMeshUtilities: Discarded distance field for ShortGrass_03 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.09.17-17.24.53:821][646]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 24 triangles, Range [-0.3, 0.8], ShortGrass_03
+[2018.09.17-17.24.53:892][651]LogMeshUtilities: Discarded distance field for ShortGrass_02 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.09.17-17.24.53:892][651]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 24 triangles, Range [-0.3, 0.7], ShortGrass_02
+[2018.09.17-17.24.54:536][712]LogMeshUtilities: Finished distance field build in 0.6s - 26x17x15 distance field, 338 triangles, Range [-0.3, 0.9], Stone_02
+[2018.09.17-17.24.54:603][716]LogMeshUtilities: Finished distance field build in 0.0s - 11x9x8 distance field, 178 triangles, Range [-0.4, 0.9], StoneMoss_01
+[2018.09.17-17.24.54:714][725]LogMeshUtilities: Finished distance field build in 0.1s - 11x9x8 distance field, 178 triangles, Range [-0.4, 0.9], Stone_01
+[2018.09.17-17.24.56:308][858]LogMeshUtilities: Finished distance field build in 1.6s - 34x39x18 distance field, 380 triangles, Range [-0.1, 1.0], Fern_03
+[2018.09.17-17.24.56:516][876]LogMeshUtilities: Discarded distance field for Fern_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.09.17-17.24.56:516][876]LogMeshUtilities: Finished distance field build in 0.2s - 16x15x8 distance field, 320 triangles, Range [-0.2, 0.9], Fern_01
+[2018.09.17-17.25.15:852][ 49]LogMeshUtilities: Finished distance field build in 19.3s - 64x64x64 distance field, 11680 triangles, Range [-0.1, 1.0], ElmTreeWithLeaves2
+[2018.09.17-17.27.10:797][128]LogRenderer: Reallocating scene render targets to support 1012x676 Format 9 NumSamples 1 (Frame:11946).
+[2018.09.17-17.27.10:846][129]LogRenderer: Reallocating scene render targets to support 1020x676 Format 9 NumSamples 1 (Frame:11948).
+[2018.09.17-17.27.10:888][130]LogRenderer: Reallocating scene render targets to support 1028x676 Format 9 NumSamples 1 (Frame:11950).
+[2018.09.17-17.27.10:928][131]LogRenderer: Reallocating scene render targets to support 1032x676 Format 9 NumSamples 1 (Frame:11952).
+[2018.09.17-17.27.16:755][633]LogRenderer: Reallocating scene render targets to support 1416x676 Format 9 NumSamples 1 (Frame:12442).
+[2018.09.17-17.27.22:717][327]LogRenderer: Reallocating scene render targets to support 1416x924 Format 9 NumSamples 1 (Frame:12911).
+[2018.09.17-17.27.36:972][528]LogRenderer: Reallocating scene render targets to support 1420x924 Format 9 NumSamples 1 (Frame:14008).
+[2018.09.17-17.27.37:011][529]LogRenderer: Reallocating scene render targets to support 1444x924 Format 9 NumSamples 1 (Frame:14010).
+[2018.09.17-17.27.37:050][530]LogRenderer: Reallocating scene render targets to support 1516x924 Format 9 NumSamples 1 (Frame:14012).
+[2018.09.17-17.27.37:090][531]LogRenderer: Reallocating scene render targets to support 1568x924 Format 9 NumSamples 1 (Frame:14014).
+[2018.09.17-17.27.37:130][532]LogRenderer: Reallocating scene render targets to support 1584x924 Format 9 NumSamples 1 (Frame:14016).
+[2018.09.17-17.27.39:479][789]LogRenderer: Reallocating scene render targets to support 1648x948 Format 9 NumSamples 1 (Frame:14231).
+[2018.09.17-17.27.39:524][790]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 9 NumSamples 1 (Frame:14233).
+[2018.09.17-17.27.45:381][410]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.17-17.27.45:768][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.17-17.27.45:787][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.17-17.27.45:950][410]PIE: New page: PIE session: roadSideScene (Sep 17, 2018, 9:27:45 PM)
+[2018.09.17-17.27.45:957][410]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.09.17-17.27.46:155][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198091s)
+[2018.09.17-17.27.46:156][410]LogAIModule: Creating AISystem for world roadSideScene
+[2018.09.17-17.27.46:169][410]LogPlayLevel: PIE: World Init took: (0.014225s)
+[2018.09.17-17.27.46:176][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (0.219511s)
+[2018.09.17-17.27.46:260][410]LogInit: XAudio2 using 'Hörlurar (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.17-17.27.46:354][410]LogInit: FAudioDevice initialized.
+[2018.09.17-17.27.46:432][410]LogLoad: Game class is 'NewGameMOde_C'
+[2018.09.17-17.27.46:577][410]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.09.17-19.27.46
+[2018.09.17-17.27.46:693][410]LogWorld: Bringing up level for play took: 0.154392
+[2018.09.17-17.27.46:857][410]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.09.17-17.27.46:899][410]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 0.23
+[2018.09.17-17.27.46:899][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.17-17.27.47:213][411]LogStaticMesh: Allocated 512x215x64 distance field atlas = 13.4Mb, with 75 objects containing 8.6Mb backing data
+[2018.09.17-17.27.47:973][462]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.48:407][504]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.48:803][546]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.49:236][596]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.49:637][644]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.50:076][695]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.50:738][769]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.51:496][859]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.51:954][908]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.52:336][942]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.52:763][987]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.53:161][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.53:595][ 73]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.53:993][114]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.54:427][159]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.54:834][202]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.55:264][248]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.55:664][294]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.56:095][344]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.56:495][392]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.56:930][444]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.57:329][492]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.57:763][544]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.58:163][592]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.58:596][644]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.58:999][691]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.59:431][741]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.27.59:830][787]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.00:264][837]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.00:665][882]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.01:100][931]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.01:497][976]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.01:929][ 25]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.02:335][ 71]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.02:768][119]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.03:162][162]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.03:596][209]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.03:993][252]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.04:428][299]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.04:827][342]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.05:269][389]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.05:662][431]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.06:101][478]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.06:495][521]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.06:930][569]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.07:332][614]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.07:768][663]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.08:164][708]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.08:599][755]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.08:998][801]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.09:431][851]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.09:833][897]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.10:267][945]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.10:664][989]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.11:096][ 37]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.11:494][ 82]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.11:929][132]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.12:328][176]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.12:767][224]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.13:170][268]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.13:600][314]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.13:999][352]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.15:118][456]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.15:547][499]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.15:946][539]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.16:378][580]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.16:777][617]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.17:212][657]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.17:610][693]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.18:043][732]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.18:442][768]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.18:877][807]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.19:281][845]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.19:709][887]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.20:113][927]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.20:543][970]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.20:947][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.21:379][ 61]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.21:780][106]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.22:215][155]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.22:617][198]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.23:051][243]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.23:451][284]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.23:884][327]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.24:276][368]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.24:712][414]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.25:114][456]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.25:550][500]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.25:949][540]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.26:384][584]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.26:783][625]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.27:210][669]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.27:612][710]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.28:042][754]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.28:450][799]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.28:879][846]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.29:282][889]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.29:717][934]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.30:117][975]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.30:965][ 62]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.31:398][103]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.31:798][139]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.32:237][179]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.32:632][215]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.33:071][255]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.33:471][292]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.33:899][334]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.34:301][375]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.34:734][420]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.35:129][462]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.35:568][510]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.35:853][542]LogBlueprintUserMessages: [roadSideScene_C_0] Key found
+[2018.09.17-17.28.35:963][552]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.36:525][614]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.36:954][661]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.37:355][703]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.38:059][783]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.38:672][855]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.39:103][905]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.39:500][952]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.39:932][  3]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.40:337][ 51]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.40:771][103]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.41:170][151]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.41:603][203]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.42:006][251]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.42:432][301]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.42:832][349]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.43:265][401]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.43:666][449]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.44:099][501]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.44:504][549]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.44:937][600]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.45:335][647]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.45:769][696]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.46:169][744]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.46:819][822]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.47:252][874]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.47:653][922]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.48:086][974]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.48:486][ 22]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.48:925][ 74]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.49:325][122]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.49:759][174]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.50:159][217]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.50:591][266]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.50:992][313]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.51:425][365]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.51:826][413]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.52:256][459]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.52:656][498]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.53:085][537]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.53:492][574]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.53:924][614]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.54:323][651]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.54:756][693]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.55:157][733]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.55:585][776]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.55:993][818]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.56:418][855]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.57:326][964]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.57:759][ 14]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.58:402][ 86]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.28.59:810][254]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.00:245][305]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.00:645][348]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.01:378][436]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.01:812][488]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.02:213][535]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.02:644][580]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.03:048][622]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.03:462][666]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.03:891][711]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.04:288][752]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.05:567][882]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.05:997][926]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.06:404][968]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.06:835][ 19]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.07:235][ 67]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.07:668][119]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.08:069][166]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.08:507][207]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.08:898][241]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.09:331][278]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.09:734][312]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.10:164][350]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.10:564][386]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.11:004][426]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.11:405][462]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.12:653][576]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.13:088][615]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.13:474][651]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.13:911][693]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.14:303][740]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.14:736][792]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.15:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.15:571][892]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.15:970][940]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.16:404][992]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.16:804][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.17:237][ 92]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.17:637][140]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.18:071][192]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.18:471][240]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.18:906][292]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.19:305][340]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.19:739][392]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.20:139][440]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.20:572][492]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.20:973][540]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.21:406][592]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.21:805][638]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.22:244][689]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.22:636][728]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.23:075][768]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.23:475][803]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.23:904][843]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.24:310][888]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.24:739][936]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.25:143][981]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.25:575][ 26]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.25:969][ 64]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.26:412][104]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.26:805][138]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.27:240][176]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.27:637][212]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.28:069][254]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.28:473][295]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.28:904][333]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.29:303][368]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.29:745][407]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.30:141][442]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.30:570][481]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.30:971][519]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.31:411][564]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.31:811][608]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.33:500][809]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.45:298][218]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.45:731][268]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.46:130][316]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.46:588][371]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.47:021][423]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.47:421][471]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.47:855][520]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.48:258][559]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.48:690][600]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.49:092][647]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.49:526][699]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.49:926][747]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.50:360][799]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.50:755][846]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.51:190][895]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.51:590][941]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.17-17.29.51:853][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.17-17.29.51:951][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.17-17.30.03:669][319]LogEditorViewport: Clicking on Actor (LMB): DecalActor (Sone_Decal_37)
+[2018.09.17-17.30.34:593][301]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.09.17-17.30.38:158][566]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.17-17.30.38:285][566]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.09.17-17.30.38:298][566]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.30.38:651][566]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.17-17.30.38:689][566]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.09.17-17.30.39:121][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.30.39:127][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.30.39:133][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.30.39:139][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.30.39:147][566]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.30.39:184][566]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.30.39:251][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.30.39:256][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.30.39:262][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.30.39:268][566]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.30.39:296][566]LogSlate: Took 0.014262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.17-17.30.39:766][567]LogStaticMesh: Allocated 512x265x64 distance field atlas = 16.6Mb, with 77 objects containing 8.8Mb backing data
+[2018.09.17-17.30.50:166][381]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.30.50:166][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.30.50:166][381]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.30.50:166][381]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.30.50:166][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.31.34:816][435]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.31.34:874][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.31.34:880][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.31.34:885][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.31.34:892][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.31.39:356][871]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.31.39:415][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.31.39:421][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.31.39:428][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.31.39:433][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.31.41:906][130]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.31.41:939][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.31.41:946][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.31.41:951][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.31.41:957][130]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.31.50:272][ 32]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.31.50:272][ 32]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.31.50:272][ 32]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.31.50:272][ 32]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.31.50:272][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.31.52:472][273]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.31.52:507][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.31.52:512][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.31.52:518][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.31.52:524][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.31.58:862][960]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.31.58:899][960]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.31.58:905][960]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.31.58:912][960]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.31.58:918][960]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.32.02:734][371]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.32.02:771][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.32.02:777][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.32.02:783][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.32.02:789][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.32.09:879][ 58]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.32.09:880][ 58]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.32.09:880][ 58]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.32.09:880][ 58]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.32.09:880][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.32.17:242][876]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.32.17:276][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.32.17:281][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.32.17:287][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.32.17:294][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.32.25:132][719]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.32.25:168][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.32.25:175][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.32.25:181][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.32.25:187][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.32.33:967][622]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.09.17-17.32.33:968][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.09.17-17.32.33:968][622]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.32.33:968][622]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.17-17.32.33:968][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.32.39:647][268]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.32.39:684][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.32.39:690][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.32.39:696][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.32.39:701][268]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.32.47:449][119]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.32.47:449][119]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.32.47:449][119]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.32.47:449][119]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.32.47:449][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.32.55:103][ 10]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.32.55:155][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.32.55:162][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.32.55:168][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.32.55:173][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.02:969][847]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.09.17-17.33.02:969][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.09.17-17.33.02:969][847]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.33.02:969][847]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.17-17.33.02:969][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.33.31:295][ 86]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.31:354][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.31:360][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.31:365][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.31:371][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.31:377][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_0, compiling. 
+[2018.09.17-17.33.32:795][234]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.32:854][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.32:860][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.32:867][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.32:872][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.38:351][809]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.38:412][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.38:418][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.38:425][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.38:431][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.42:232][218]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.42:290][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.42:296][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.42:302][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.42:308][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.43:648][357]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.43:710][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.43:716][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.43:722][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.43:729][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.44:811][469]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.33.44:872][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.33.44:878][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.33.44:885][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.33.44:891][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.33.53:443][387]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.09.17-17.33.53:443][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.09.17-17.33.53:443][387]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.33.53:443][387]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.17-17.33.53:443][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.36.12:020][708]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.12:078][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.12:084][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.12:089][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.12:095][708]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.13:291][828]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.13:347][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.13:352][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.13:358][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.13:368][828]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.15:513][ 36]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.15:552][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.15:558][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.15:564][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.15:570][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.18:094][305]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.18:131][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.18:137][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.18:143][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.18:151][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.21:681][674]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.21:722][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.21:728][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.21:734][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.21:741][674]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.26:651][189]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.26:688][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.26:694][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.26:701][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.26:707][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.34:873][ 66]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.36.34:873][ 66]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.36.34:873][ 66]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.36.34:873][ 66]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.36.34:873][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.36.41:305][782]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.41:337][782]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.41:342][782]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.41:348][782]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.41:353][782]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.36.49:300][636]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.36.49:300][636]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.36.49:300][636]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.36.49:300][636]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.36.49:300][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.36.55:094][300]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.36.55:128][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.36.55:134][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.36.55:140][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.36.55:146][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.37.03:083][162]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.37.03:083][162]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.37.03:083][162]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.37.03:083][162]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.37.03:083][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.37.09:381][888]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.37.09:415][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.37.09:420][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.37.09:425][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.37.09:431][888]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.37.17:391][751]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.37.17:391][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.37.17:391][751]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.37.17:391][751]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.37.17:391][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.37.26:811][836]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.37.26:844][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.37.26:850][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.37.26:856][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.37.26:862][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.37.35:666][774]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.09.17-17.37.35:666][774]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.09.17-17.37.35:666][774]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.37.35:666][774]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.17-17.37.35:666][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.37.36:126][823]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.37.36:160][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.37.36:167][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.37.36:173][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.37.36:181][823]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.37.44:529][720]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.37.44:529][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.37.44:529][720]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.37.44:529][720]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.37.44:529][720]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.37.48:803][199]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.37.48:834][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.37.48:841][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.37.48:847][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.37.48:853][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.37.56:610][ 34]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.37.56:610][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.37.56:610][ 34]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.37.56:610][ 34]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.37.56:610][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.38.04:272][902]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.38.04:307][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.38.04:314][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.38.04:320][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.38.04:326][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.38.11:697][707]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.38.11:697][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.38.11:697][707]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.38.11:697][707]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.38.11:697][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.38.16:791][293]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.38.16:821][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.17-17.38.16:826][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.17-17.38.16:833][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.17-17.38.16:839][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.09.17-17.38.24:573][134]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.38.24:573][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.38.24:573][134]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.38.24:573][134]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.38.24:573][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.38.34:596][297]LogMaterialEditor: Applying material Sone_Decal_01
+[2018.09.17-17.38.36:041][297]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.38.36:143][297]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.38.36:237][297]LogMaterial: Missing cached shader map for material Sone_Decal_01, compiling. 
+[2018.09.17-17.38.36:342][297]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.09.17-17.38.53:003][113]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.09.17-17.38.53:003][113]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.09.17-17.38.53:004][113]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.09.17-17.38.53:004][113]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.17-17.38.53:004][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.17-17.39.37:737][414]LogMaterialEditor: Saving and Compiling material Sone_Decal_01
+[2018.09.17-17.39.37:947][414]LogSavePackage: Save=64.65ms
+[2018.09.17-17.39.37:947][414]LogSavePackage: Moving '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Sone_Decal_01AC8D3FCE4BC3C95504E0E49C33A09A71.tmp' to '../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Ground/Sone_Decal_01.uasset'
+[2018.09.17-17.39.37:988][414]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Linda_Models/Ground/Sone_Decal_01.uasset
+[2018.09.17-17.39.39:788][600]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.09.17-17.42.07:353][310]LogWindows: Windows GetLastError: Åtgärden har slutförts. (0)
