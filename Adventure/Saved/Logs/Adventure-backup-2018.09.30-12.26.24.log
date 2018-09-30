@@ -1,0 +1,1525 @@
+﻿Log file open, 09/29/18 12:56:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Adventure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-210792766) SRandInit(-210792766).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.221825
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal 4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-10.56.46:356][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-10.56.46:356][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-10.56.46:403][  0]LogInit: Computer: MR_E-DATOR
+[2018.09.29-10.56.46:403][  0]LogInit: User: MrE
+[2018.09.29-10.56.46:403][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.29-10.56.46:403][  0]LogInit: High frequency timer resolution =3.233218 MHz
+[2018.09.29-10.56.46:403][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.29-10.56.46:403][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-10.56.46:403][  0]LogMemory: Process Physical Memory: 276.44 MB used, 276.44 MB peak
+[2018.09.29-10.56.46:403][  0]LogMemory: Process Virtual Memory: 273.59 MB used, 273.59 MB peak
+[2018.09.29-10.56.46:403][  0]LogMemory: Physical Memory: 4912.42 MB used,  3246.72 MB free, 8159.14 MB total
+[2018.09.29-10.56.46:403][  0]LogMemory: Virtual Memory: 4779.04 MB used,  3246.72 MB free, 134217728.00 MB total
+[2018.09.29-10.56.46:603][  0]LogInit: Using OS detected language (sv-SE).
+[2018.09.29-10.56.46:603][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.09.29-10.56.46:606][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.09.29-10.56.46:606][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.09.29-10.56.47:046][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.29-10.56.47:317][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-10.56.47:390][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.29-10.56.47:390][  0]LogD3D11RHI:       8088/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.29-10.56.47:393][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-10.56.47:393][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-10.56.47:393][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-10.56.47:399][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-10.56.47:400][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-10.56.47:400][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-10.56.47:400][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.29-10.56.47:400][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.09.29-10.56.47:400][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.29-10.56.47:401][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.29-10.56.47:401][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.29-10.56.47:401][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.29-10.56.47:401][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.29-10.56.47:401][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.29-10.56.47:401][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.09.29-10.56.47:445][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-10.56.47:463][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.29-10.56.47:512][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Intermediate/Shaders/WorkingDirectory/10280/).
+[2018.09.29-10.56.47:512][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mr_E/AppData/Local/Temp/UnrealShaderWorkingDir/CC1B17DB4C77B1222E63D3AB67EB32EA/'.
+[2018.09.29-10.56.47:512][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-10.56.48:490][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-10.56.48:611][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-10.56.48:723][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-10.56.48:775][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-10.56.48:885][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-10.56.48:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-10.56.49:028][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-10.56.49:081][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-10.56.49:151][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-10.56.49:203][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.29-10.56.49:264][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.29-10.56.49:316][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.29-10.56.49:377][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.29-10.56.49:468][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.29-10.56.49:599][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.29-10.56.49:599][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.29-10.56.49:654][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-10.56.49:700][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-10.56.49:808][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-10.56.49:837][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-10.56.49:888][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-10.56.49:967][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-10.56.50:026][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-10.56.50:088][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-10.56.50:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-10.56.50:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-10.56.50:629][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-10.56.50:647][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-10.56.50:660][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mr_E/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-10.56.50:672][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-10.56.50:673][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.29-10.56.50:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-10.56.50:673][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-10.56.51:131][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-10.56.51:470][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-10.56.51:511][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-10.56.51:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-10.56.51:511][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-10.56.51:511][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.29-10.56.51:511][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.29-10.56.51:645][  0]LogNetVersion: Adventure , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1750621016)
+[2018.09.29-10.56.51:835][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.09.29-10.56.52:842][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.286058 seconds
+[2018.09.29-10.56.52:848][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.09.29-10.56.52:848][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.09.29-10.56.52:848][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-10.56.52:898][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.09.29-10.56.56:408][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-10.56.56:449][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-10.56.57:734][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.09.29-10.56.58:178][  0]SourceControl: Source control is disabled
+[2018.09.29-10.56.59:124][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-10.56.59:387][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-10.56.59:672][  0]LogEngine: Initializing Engine...
+[2018.09.29-10.56.59:677][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.09.29-10.56.59:924][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-10.56.59:924][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-10.57.00:060][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-10.57.00:129][  0]LogInit: XAudio2 using 'Hörlurar (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-10.57.00:266][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-10.57.00:377][  0]LogDerivedDataCache: Saved boot cache 0.11s 79MB C:/Users/Mr_E/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.09.29-10.57.00:401][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-10.57.00:496][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-10.57.00:650][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-10.57.00:960][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-10.57.01:898][  0]LocalizationService: Localization service is disabled
+[2018.09.29-10.57.02:908][  0]LogConsoleResponse: Display: 
+[2018.09.29-10.57.03:136][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-10.57.03:136][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-10.57.03:136][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-10.57.04:377][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 0.50s
+[2018.09.29-10.57.04:423][  0]Cmd: MAP LOAD FILE="../../../../../Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Scenes/roadSideScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-10.57.04:424][  0]LightingResults: New page: Lighting Build
+[2018.09.29-10.57.04:465][  0]MapCheck: New page: Map Check
+[2018.09.29-10.57.04:465][  0]LightingResults: New page: Lighting Build
+[2018.09.29-10.57.23:937][  0]LogAIModule: Creating AISystem for world roadSideScene
+[2018.09.29-10.57.25:608][  0]LogMaterial: Warning: Material /Game/Materials/Stone_Moss_mat.Stone_Moss_mat needed to have new flag set bUsedWithStaticLighting !
+[2018.09.29-10.57.25:626][  0]LogMaterial: Missing cached shader map for material Stone_Moss_mat, compiling. 
+[2018.09.29-10.57.25:893][  0]MapCheck: Warning: Stone_Moss_mat Material /Game/Materials/Stone_Moss_mat.Stone_Moss_mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.09.29-10.57.27:225][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-10.57.27:266][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-10.57.27:363][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 96.78ms to complete.
+[2018.09.29-10.57.27:478][  0]LogFileHelpers: Loading map 'roadSideScene' took 23.055
+[2018.09.29-10.57.29:983][  0]LogCollectionManager: Loaded 0 collections in 0.001189 seconds
+[2018.09.29-10.57.30:163][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Saved/Collections/' took 0.01s
+[2018.09.29-10.57.30:163][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Developers/MrE/Collections/' took 0.01s
+[2018.09.29-10.57.30:163][  0]LogFileCache: Scanning file cache for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/Collections/' took 0.01s
+[2018.09.29-10.57.30:163][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.29-10.57.30:190][  0]LogContentBrowser: Native class hierarchy populated in 0.0246 seconds. Added 2364 classes and 521 folders.
+[2018.09.29-10.57.30:373][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.29-10.57.31:154][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.29-10.57.31:171][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-10.57.31:210][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-10.57.31:275][  0]LogSlate: Took 0.013803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-10.57.31:679][  0]LogRenderer: Reallocating scene render targets to support 1376x924 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-10.57.31:850][  0]LogStaticMesh: Allocated 512x215x64 distance field atlas = 13.4Mb, with 75 objects containing 8.6Mb backing data
+[2018.09.29-10.57.32:650][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.29-10.57.32:650][  0]LogLoad: (Engine Initialization) Total time: 50.61 seconds
+[2018.09.29-10.57.32:651][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-10.57.32:675][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.09.29-10.57.32:675][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.09.29-10.57.32:721][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-10.57.32:956][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.29-10.57.33:285][  0]LogSlate: Took 0.031879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-10.57.34:127][  2]LogAssetRegistry: Asset discovery search completed in 42.3149 seconds
+[2018.09.29-10.57.34:131][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.29-10.57.34:131][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.09.29-10.57.38:431][154]LogFileCache: Retrieving MD5 hashes for directory 'F:/Projects/AdventureP/Adventure-UE4-Project-3/AdventureUE4Project/Adventure/Content/' took 5.67s
+[2018.09.29-10.59.09:775][302]MapCheck: New page: Map Check
+[2018.09.29-10.59.09:841][302]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.29-10.59.09:842][302]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.29-10.59.10:838][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-10.59.10:860][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_02_backup, compiling. 
+[2018.09.29-10.59.10:870][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_03_mat, compiling. 
+[2018.09.29-10.59.10:880][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Stone_01_mat, compiling. 
+[2018.09.29-10.59.10:887][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy StoneMoss_01_mat, compiling. 
+[2018.09.29-10.59.10:895][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ShortGrass_01_mat, compiling. 
+[2018.09.29-10.59.10:905][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_01_mat, compiling. 
+[2018.09.29-10.59.10:914][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PineLeaves_01_mat, compiling. 
+[2018.09.29-10.59.10:923][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pine_01_mat, compiling. 
+[2018.09.29-10.59.10:931][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fern_01_mat, compiling. 
+[2018.09.29-10.59.10:941][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Elm_Tree_01_mat, compiling. 
+[2018.09.29-10.59.10:949][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Elm_Tree_Leaves_01_mat, compiling. 
+[2018.09.29-10.59.10:957][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.09.29-10.59.10:963][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.09.29-10.59.10:970][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RippleFoam, compiling. 
+[2018.09.29-10.59.10:978][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean_Edited_Inst, compiling. 
+[2018.09.29-10.59.10:986][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Stone_Moss_mat_Inst, compiling. 
+[2018.09.29-10.59.10:994][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bush_01_mat, compiling. 
+[2018.09.29-10.59.11:003][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BushLeaves_01_mat, compiling. 
+[2018.09.29-10.59.11:012][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.29-10.59.11:019][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Edited_Water_Lake_mat, compiling. 
+[2018.09.29-10.59.11:026][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_mat, compiling. 
+[2018.09.29-10.59.11:033][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_floor_01_mat, compiling. 
+[2018.09.29-10.59.11:041][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_wallpaper_01_mat, compiling. 
+[2018.09.29-10.59.11:048][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_misc_01_mat, compiling. 
+[2018.09.29-10.59.11:055][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_woodplanks_01_mat, compiling. 
+[2018.09.29-10.59.11:062][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_woodplanks_02_mat, compiling. 
+[2018.09.29-10.59.11:069][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_roof_01_mat, compiling. 
+[2018.09.29-10.59.11:077][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.09.29-10.59.11:084][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy m_firefly, compiling. 
+[2018.09.29-10.59.11:092][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Dust_Particle, compiling. 
+[2018.09.29-10.59.11:098][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_Fog, compiling. 
+[2018.09.29-10.59.11:105][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy OldOak_01_mat, compiling. 
+[2018.09.29-10.59.11:114][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy OldOakLeaves_01_mat, compiling. 
+[2018.09.29-10.59.11:123][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.09.29-10.59.11:133][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.09.29-10.59.11:143][302]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.29-10.59.14:160][302]TextureStreamingBuild: Display: Compiling optional shaders took 3.333 seconds.
+[2018.09.29-10.59.14:234][302]LogLevel: Display: Export Material TexCoord Scales took 0.074 seconds.
+[2018.09.29-10.59.14:354][302]TextureStreamingBuild: Display: Build Texture Streaming took 0.119 seconds.
+[2018.09.29-10.59.14:486][302]LightingResults: New page: Lighting Build - Sep 29, 2018, 2:59:14 PM
+[2018.09.29-10.59.14:512][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:520][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:520][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:521][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:521][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:521][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:522][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:523][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:524][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:524][302]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-10.59.14:852][302]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.29-10.59.15:076][302]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.29-10.59.15:106][302]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.29-10.59.16:155][302]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.29-10.59.16:155][302]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10280
+[2018.09.29-10.59.19:665][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.29-10.59.19:665][302]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.29-10.59.19:665][302]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.29-10.59.19:665][302]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.29-10.59.19:665][302]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.29-10.59.20:060][302]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.29-10.59.20:060][302]MapCheck: New page: roadSideScene - Sep 29, 2018, 2:59:20 PM
+[2018.09.29-10.59.20:159][302]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.09.29-10.59.20:247][302]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 186.402ms to complete.
+[2018.09.29-10.59.20:270][302]LogEditorBuildUtils: Build time 0:10
+[2018.09.29-10.59.20:804][305]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Stone_Moss_mat_Inst, compiling. 
+[2018.09.29-10.59.20:811][305]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Stone_Moss_mat_Inst, compiling. 
+[2018.09.29-11.11.01:603][954]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-11.11.02:112][954]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-11.11.03:263][955]LogStaticMesh: Allocated 512x265x64 distance field atlas = 16.6Mb, with 77 objects containing 8.8Mb backing data
+[2018.09.29-11.11.14:964][282]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0083 seconds. Added 1 classes and 0 folders.
+[2018.09.29-11.11.14:988][282]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.09.29-11.11.15:467][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.09.29-11.11.15:472][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-11.11.15:478][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-11.11.15:484][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-11.11.15:490][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.29-11.11.15:498][282]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.09.29-11.11.15:568][282]LogMaterial: Missing cached shader map for material Fern_01_mat, compiling. 
+[2018.09.29-11.11.15:640][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.09.29-11.11.15:646][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.09.29-11.11.15:651][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.29-11.11.15:656][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-11.11.15:662][282]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.29-11.11.15:708][282]LogSlate: Took 0.020650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-11.11.21:497][467]LogSlate: Took 0.011642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: Base pass shader: 131 instructions
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: Base pass shader with Surface Lightmap: 158 instructions
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: Vertex shader: 60 instructions
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: Texture samplers: 7/16
+[2018.09.29-11.11.26:287][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-11.11.37:565][101]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.09.29-11.12.46:160][541]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.09.29-11.12.55:789][ 93]LogMaterial: Missing cached shader map for material Grass_Terrain_Mat, compiling. 
+[2018.09.29-11.12.55:966][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2018.09.29-11.12.55:971][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1, compiling. 
+[2018.09.29-11.12.55:976][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_2, compiling. 
+[2018.09.29-11.12.55:983][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_3, compiling. 
+[2018.09.29-11.12.55:989][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_16, compiling. 
+[2018.09.29-11.12.55:995][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.29-11.12.56:000][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.09.29-11.12.56:006][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.09.29-11.12.56:012][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.09.29-11.12.56:017][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_20, compiling. 
+[2018.09.29-11.12.56:023][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.09.29-11.12.56:029][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.09.29-11.12.56:034][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2018.09.29-11.12.56:041][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.29-11.12.56:046][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2018.09.29-11.12.56:052][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2018.09.29-11.12.56:057][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
+[2018.09.29-11.12.56:063][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2018.09.29-11.12.56:068][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2018.09.29-11.12.56:074][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_11, compiling. 
+[2018.09.29-11.12.56:079][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_4, compiling. 
+[2018.09.29-11.12.56:085][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-11.12.56:093][ 93]LogMaterial: Missing cached shader map for material Grass_Terrain_Mat, compiling. 
+[2018.09.29-11.12.56:141][ 93]LogMaterial: Missing cached shader map for material Grass_Terrain_Mat, compiling. 
+[2018.09.29-11.12.56:208][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2018.09.29-11.12.56:213][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_1, compiling. 
+[2018.09.29-11.12.56:219][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_2, compiling. 
+[2018.09.29-11.12.56:224][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_3, compiling. 
+[2018.09.29-11.12.56:230][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_16, compiling. 
+[2018.09.29-11.12.56:236][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.29-11.12.56:241][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.09.29-11.12.56:246][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.09.29-11.12.56:252][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2018.09.29-11.12.56:257][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_20, compiling. 
+[2018.09.29-11.12.56:263][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2018.09.29-11.12.56:269][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2018.09.29-11.12.56:275][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2018.09.29-11.12.56:281][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.29-11.12.56:287][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2018.09.29-11.12.56:292][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2018.09.29-11.12.56:297][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_13, compiling. 
+[2018.09.29-11.12.56:304][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2018.09.29-11.12.56:309][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2018.09.29-11.12.56:315][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_11, compiling. 
+[2018.09.29-11.12.56:320][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_4, compiling. 
+[2018.09.29-11.12.56:326][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-11.13.07:616][562]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:4328).
+[2018.09.29-11.13.09:688][629]MaterialEditorStats: Base pass shader: 211 instructions
+[2018.09.29-11.13.09:689][629]MaterialEditorStats: Base pass shader with Surface Lightmap: 230 instructions
+[2018.09.29-11.13.09:689][629]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 287 instructions
+[2018.09.29-11.13.09:689][629]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.09.29-11.13.09:689][629]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-11.13.09:689][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-11.14.06:500][428]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.09.29-11.14.15:888][787]Cmd: POLY SELECT ADJACENT WALLS
+[2018.09.29-11.14.26:068][198]Cmd: DELETE
+[2018.09.29-11.14.26:068][198]Cmd: ACTOR DELETE
+[2018.09.29-11.14.26:516][198]LogEditorActor: Deleted Actor: Brush
+[2018.09.29-11.14.26:559][198]LogEditorActor: Deleted 1 Actors (0.301 secs)
+[2018.09.29-11.14.27:511][237]Cmd: DELETE
+[2018.09.29-11.14.27:512][237]Cmd: ACTOR DELETE
+[2018.09.29-11.14.27:535][237]LogEditorActor: Deleted Actor: Brush
+[2018.09.29-11.14.27:556][237]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.09.29-11.14.28:335][268]Cmd: DELETE
+[2018.09.29-11.14.28:335][268]Cmd: ACTOR DELETE
+[2018.09.29-11.14.28:359][268]LogEditorActor: Deleted Actor: Brush
+[2018.09.29-11.14.28:381][268]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.09.29-11.14.31:082][380]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.09.29-11.14.32:538][402]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.29-11.16.23:173][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ElmTree_With_Leaves10)
+[2018.09.29-12.15.55:046][ 20]LightingResults: Warning: Cabin_Misc_01 Object has overlapping UVs.
+[2018.09.29-12.15.55:046][ 20]LightingResults: Cabin_Misc_01 Lightmap UV are overlapping by 53.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.29-12.18.36:607][437]Job is a success!
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.126s
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:      BrickData 800x5x5 = 0.6Mb
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:          1: 24.4% covering 7.6% of volume
+[2018.09.29-12.18.37:200][438]LogVolumetricLightmapImport:          2: 70.6% covering 0.3% of volume
+[2018.09.29-12.18.46:190][438]LightingResults: Error: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.09.29-12.18.46:190][438]LightingResults: Error: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.09.29-12.19.44:906][438]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2018.09.29-12.19.44:975][438]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 4096X2048)
+[2018.09.29-12.19.44:975][438]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2018.09.29-12.19.44:975][438]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 4096X2048)
+[2018.09.29-12.19.44:975][438]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 4096X4096)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 4096X4096)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 512X256)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:976][438]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:977][438]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_45 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_50 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_51 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_52 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_53 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_54 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_55 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:978][438]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_59 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_60 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_61 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_62 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_63 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_64 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_66 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_67 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_68 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_69 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_70 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_71 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_72 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_73 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_74 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: SkyOcclusion0_75 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:979][438]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_76 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_77 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_78 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_79 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_80 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_81 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_82 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_83 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_83 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_84 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_84 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_85 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_85 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_86 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_86 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_87 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_87 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_88 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_88 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_88 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_89 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_89 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_89 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_90 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_90 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_90 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_91 (AutoDXT, 128X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_91 (AutoDXT, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_91 (DXT1, 128X128)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: SkyOcclusion0_92 (AutoDXT, 64X32)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: HQ_Lightmap0_92 (AutoDXT, 64X64)
+[2018.09.29-12.19.44:980][438]LogTexture: Display: Building textures: LQ_Lightmap_0_92 (DXT1, 64X64)
+[2018.09.29-12.19.47:766][438]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 2048X2048)
+[2018.09.29-12.19.47:767][438]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 2048X2048)
+[2018.09.29-12.19.48:179][438]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 2048X2048)
+[2018.09.29-12.19.48:585][438]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 2048X1024)
+[2018.09.29-12.19.48:586][438]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X64)
+[2018.09.29-12.19.48:586][438]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 64X64)
+[2018.09.29-12.19.48:787][438]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2018.09.29-12.19.49:688][438]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 2048X2048)
+[2018.09.29-12.19.50:188][438]Lightmass on MR_E-DATOR: 1:20:27 hours total, 2.08 sec importing, 10.2 sec setup, 5:02 min photons, 1:15:12 hours processing, 0 ms extra exporting [5809/5809 mappings]. Threads: 5:00:49 hours total, 1:14:10 hours processing.
+[2018.09.29-12.19.53:178][438]LogStaticLightingSystem: Illumination: 1:20:38 hours (59.2 sec encoding lightmaps, 4.22 sec encoding shadowmaps)
+[2018.09.29-12.19.53:178][438]LogStaticLightingSystem: Lightmap texture memory:  136.1 MB (136.1 MB streaming, 0.0 MB non-streaming), 184 textures
+[2018.09.29-12.19.53:178][438]LogStaticLightingSystem: Shadowmap texture memory: 101.5 MB (101.5 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.09.29-12.19.57:585][438]DumpUnbuiltLightIteractions
+[2018.09.29-12.19.57:586][438]Lights with unbuilt interactions: 48
+[2018.09.29-12.19.57:586][438]    Light SpotLight22
+[2018.09.29-12.19.57:586][438]    Light SpotLight21
+[2018.09.29-12.19.57:586][438]    Light PointLight26
+[2018.09.29-12.19.57:586][438]    Light PointLight25
+[2018.09.29-12.19.57:586][438]    Light PointLight24
+[2018.09.29-12.19.57:586][438]    Light PointLight23
+[2018.09.29-12.19.57:586][438]    Light PointLight22
+[2018.09.29-12.19.57:586][438]    Light PointLight21
+[2018.09.29-12.19.57:586][438]    Light PointLight20
+[2018.09.29-12.19.57:586][438]    Light PointLight19
+[2018.09.29-12.19.57:586][438]    Light PointLight18
+[2018.09.29-12.19.57:586][438]    Light PointLight17
+[2018.09.29-12.19.57:586][438]    Light PointLight16
+[2018.09.29-12.19.57:586][438]    Light PointLight15
+[2018.09.29-12.19.57:586][438]    Light SpotLight20
+[2018.09.29-12.19.57:586][438]    Light SpotLight19
+[2018.09.29-12.19.57:586][438]    Light SpotLight18
+[2018.09.29-12.19.57:586][438]    Light PointLight14
+[2018.09.29-12.19.57:586][438]    Light PointLight13
+[2018.09.29-12.19.57:586][438]    Light PointLight12
+[2018.09.29-12.19.57:586][438]    Light PointLight11
+[2018.09.29-12.19.57:586][438]    Light PointLight10
+[2018.09.29-12.19.57:586][438]    Light PointLight9
+[2018.09.29-12.19.57:586][438]    Light PointLight8
+[2018.09.29-12.19.57:586][438]    Light SpotLight17
+[2018.09.29-12.19.57:586][438]    Light SpotLight16
+[2018.09.29-12.19.57:586][438]    Light SpotLight15
+[2018.09.29-12.19.57:586][438]    Light SpotLight14
+[2018.09.29-12.19.57:586][438]    Light SpotLight13
+[2018.09.29-12.19.57:586][438]    Light PointLight7
+[2018.09.29-12.19.57:586][438]    Light SpotLight12_4
+[2018.09.29-12.19.57:586][438]    Light PointLight6
+[2018.09.29-12.19.57:586][438]    Light SpotLight11
+[2018.09.29-12.19.57:586][438]    Light SpotLight10
+[2018.09.29-12.19.57:586][438]    Light SpotLight9
+[2018.09.29-12.19.57:586][438]    Light SpotLight8
+[2018.09.29-12.19.57:586][438]    Light PointLight5
+[2018.09.29-12.19.57:586][438]    Light PointLight2_3
+[2018.09.29-12.19.57:586][438]    Light SpotLight7
+[2018.09.29-12.19.57:586][438]    Light SpotLight2_3
+[2018.09.29-12.19.57:586][438]    Light PointLight_1
+[2018.09.29-12.19.57:586][438]    Light PointLight4
+[2018.09.29-12.19.57:586][438]    Light PointLight3
+[2018.09.29-12.19.57:586][438]    Light SpotLight6
+[2018.09.29-12.19.57:586][438]    Light SpotLight5
+[2018.09.29-12.19.57:586][438]    Light SpotLight4
+[2018.09.29-12.19.57:586][438]    Light SpotLight3
+[2018.09.29-12.19.57:586][438]    Light SpotLight_1
+[2018.09.29-12.19.57:586][438]
+[2018.09.29-12.19.57:586][438]Primitives with unbuilt interactions: 5
+[2018.09.29-12.19.57:586][438]    Primitive FoliageInstancedStaticMeshComponent /Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_8
+[2018.09.29-12.19.57:586][438]    Primitive ModelComponent /Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.ModelComponent_129
+[2018.09.29-12.19.57:586][438]    Primitive ModelComponent /Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.ModelComponent_128
+[2018.09.29-12.19.57:586][438]    Primitive ModelComponent /Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.ModelComponent_135
+[2018.09.29-12.19.57:586][438]    Primitive ModelComponent /Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.ModelComponent_132
+[2018.09.29-12.19.59:239][439]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.29-12.19.59:255][439]MapCheck: New page: roadSideScene - Sep 29, 2018, 4:19:59 PM
+[2018.09.29-12.19.59:413][439]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.09.29-12.20.04:524][439]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5,284.167ms to complete.
+[2018.09.29-13.24.24:192][627]MapCheck: New page: Map Check
+[2018.09.29-13.24.24:287][627]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.29-13.24.24:303][627]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.29-13.24.26:128][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-13.24.26:181][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_02_backup, compiling. 
+[2018.09.29-13.24.26:192][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_03_mat, compiling. 
+[2018.09.29-13.24.26:202][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Stone_01_mat, compiling. 
+[2018.09.29-13.24.26:209][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy StoneMoss_01_mat, compiling. 
+[2018.09.29-13.24.26:218][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ShortGrass_01_mat, compiling. 
+[2018.09.29-13.24.26:227][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass_01_mat, compiling. 
+[2018.09.29-13.24.26:238][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PineLeaves_01_mat, compiling. 
+[2018.09.29-13.24.26:248][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pine_01_mat, compiling. 
+[2018.09.29-13.24.26:258][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fern_01_mat, compiling. 
+[2018.09.29-13.24.26:270][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Elm_Tree_01_mat, compiling. 
+[2018.09.29-13.24.26:280][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Elm_Tree_Leaves_01_mat, compiling. 
+[2018.09.29-13.24.26:289][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2018.09.29-13.24.26:297][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.09.29-13.24.26:370][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_RippleFoam, compiling. 
+[2018.09.29-13.24.26:379][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean_Edited_Inst, compiling. 
+[2018.09.29-13.24.26:388][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Stone_Moss_mat_Inst, compiling. 
+[2018.09.29-13.24.26:397][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bush_01_mat, compiling. 
+[2018.09.29-13.24.26:407][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BushLeaves_01_mat, compiling. 
+[2018.09.29-13.24.26:422][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.29-13.24.26:429][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Edited_Water_Lake_mat, compiling. 
+[2018.09.29-13.24.26:438][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_mat, compiling. 
+[2018.09.29-13.24.26:446][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_floor_01_mat, compiling. 
+[2018.09.29-13.24.26:456][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_wallpaper_01_mat, compiling. 
+[2018.09.29-13.24.26:466][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_misc_01_mat, compiling. 
+[2018.09.29-13.24.26:473][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_woodplanks_01_mat, compiling. 
+[2018.09.29-13.24.26:482][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_woodplanks_02_mat, compiling. 
+[2018.09.29-13.24.26:489][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy cabin_roof_01_mat, compiling. 
+[2018.09.29-13.24.26:498][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.09.29-13.24.26:505][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy m_firefly, compiling. 
+[2018.09.29-13.24.26:513][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Dust_Particle, compiling. 
+[2018.09.29-13.24.26:519][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mat_Fog, compiling. 
+[2018.09.29-13.24.26:527][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy OldOak_01_mat, compiling. 
+[2018.09.29-13.24.26:542][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy OldOakLeaves_01_mat, compiling. 
+[2018.09.29-13.24.26:554][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.29-13.24.26:561][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.09.29-13.24.26:572][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.09.29-13.24.31:227][627]TextureStreamingBuild: Display: Compiling optional shaders took 5.225 seconds.
+[2018.09.29-13.24.31:282][627]LogLevel: Display: Export Material TexCoord Scales took 0.055 seconds.
+[2018.09.29-13.24.31:469][627]TextureStreamingBuild: Display: Build Texture Streaming took 0.187 seconds.
+[2018.09.29-13.24.31:524][627]LightingResults: New page: Lighting Build - Sep 29, 2018, 5:24:31 PM
+[2018.09.29-13.24.31:626][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:627][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:628][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:628][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:629][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:629][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:630][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:631][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:632][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:632][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2018.09.29-13.24.31:750][627]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.29-13.24.31:756][627]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.29-13.24.31:757][627]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.29-13.24.31:758][627]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.29-13.24.31:758][627]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10280
+[2018.09.29-13.24.36:371][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.29-13.24.36:371][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.29-13.24.36:371][627]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.29-13.24.36:371][627]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.29-13.24.36:371][627]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.29-13.24.36:793][627]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.29-13.24.36:793][627]MapCheck: New page: roadSideScene - Sep 29, 2018, 5:24:36 PM
+[2018.09.29-13.24.36:803][627]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.09.29-13.24.38:261][627]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,468.101ms to complete.
+[2018.09.29-13.24.38:302][627]LogEditorBuildUtils: Build time 0:14
+[2018.09.29-14.54.43:264][572]LightingResults: Warning: Cabin_Misc_01 Object has overlapping UVs.
+[2018.09.29-14.54.43:264][572]LightingResults: Cabin_Misc_01 Lightmap UV are overlapping by 53.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.29-14.57.18:830][587]Job is a success!
+[2018.09.29-14.57.19:660][588]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.130s
+[2018.09.29-14.57.19:660][588]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.09.29-14.57.19:660][588]LogVolumetricLightmapImport:      BrickData 800x5x5 = 0.6Mb
+[2018.09.29-14.57.19:660][588]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.29-14.57.19:661][588]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2018.09.29-14.57.19:661][588]LogVolumetricLightmapImport:          1: 24.4% covering 7.6% of volume
+[2018.09.29-14.57.19:661][588]LogVolumetricLightmapImport:          2: 70.6% covering 0.3% of volume
+[2018.09.29-14.57.32:841][588]LightingResults: Error: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.09.29-14.57.32:841][588]LightingResults: Error: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.09.29-14.58.51:396][588]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2018.09.29-14.58.51:457][588]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2018.09.29-14.58.51:457][588]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2018.09.29-14.58.51:457][588]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 4096X2048)
+[2018.09.29-14.58.51:457][588]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 4096X4096)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 4096X4096)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 4096X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 4096X4096)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 4096X4096)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 2048X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 2048X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 512X256)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 512X256)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 512X256)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 512X256)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 128X128)
+[2018.09.29-14.58.51:458][588]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 128X128)
+[2018.09.29-14.58.51:459][588]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 128X128)
+[2018.09.29-14.58.51:460][588]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_55 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_56 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_57 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_58 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_59 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_60 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_61 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_62 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_63 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_64 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 128X128)
+[2018.09.29-14.58.51:461][588]LogTexture: Display: Building textures: SkyOcclusion1_65 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_66 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_66 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_66 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_67 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_67 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_67 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_68 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_68 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_68 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_69 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_69 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_69 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_70 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_70 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_70 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_71 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_71 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_71 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_72 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_72 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_72 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_73 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_73 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_73 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_74 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_74 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_74 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_75 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_75 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_75 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_76 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: HQ_Lightmap1_76 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: LQ_Lightmap_1_76 (DXT1, 128X128)
+[2018.09.29-14.58.51:472][588]LogTexture: Display: Building textures: SkyOcclusion1_77 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: HQ_Lightmap1_77 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: LQ_Lightmap_1_77 (DXT1, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: SkyOcclusion1_78 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: HQ_Lightmap1_78 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: LQ_Lightmap_1_78 (DXT1, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: HQ_Lightmap1_79 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: SkyOcclusion1_79 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: LQ_Lightmap_1_79 (DXT1, 128X128)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: SkyOcclusion1_80 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:479][588]LogTexture: Display: Building textures: HQ_Lightmap1_80 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_80 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_81 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_81 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_81 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_82 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_82 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_82 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_83 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_83 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_83 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_84 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_84 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_84 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_85 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_85 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_85 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_86 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_86 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_86 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_87 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_87 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_87 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_88 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_88 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_88 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_89 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_89 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_89 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_90 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_90 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_90 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_91 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_91 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_91 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion1_92 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap1_92 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_1_92 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion0_93 (AutoDXT, 128X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap0_93 (AutoDXT, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_0_93 (DXT1, 128X128)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: SkyOcclusion0_94 (AutoDXT, 64X32)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: HQ_Lightmap0_94 (AutoDXT, 64X64)
+[2018.09.29-14.58.51:480][588]LogTexture: Display: Building textures: LQ_Lightmap_0_94 (DXT1, 64X64)
+[2018.09.29-14.58.55:008][588]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 2048X2048)
+[2018.09.29-14.58.55:008][588]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 2048X2048)
+[2018.09.29-14.58.55:008][588]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 2048X2048)
+[2018.09.29-14.58.55:253][588]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 2048X1024)
+[2018.09.29-14.58.56:068][588]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2018.09.29-14.58.56:377][588]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 256X256)
+[2018.09.29-14.58.56:404][588]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 256X64)
+[2018.09.29-14.58.56:404][588]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 64X64)
+[2018.09.29-14.58.56:404][588]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 64X64)
+[2018.09.29-14.58.56:404][588]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 2048X2048)
+[2018.09.29-14.58.57:425][588]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 2048X2048)
+[2018.09.29-14.58.57:807][588]Lightmass on MR_E-DATOR: 1:34:16 hours total, 2.03 sec importing, 9.61 sec setup, 5:35 min photons, 1:28:28 hours processing, 0 ms extra exporting [5809/5809 mappings]. Threads: 5:53:55 hours total, 1:29:20 hours processing.
+[2018.09.29-14.59.06:478][588]LogStaticLightingSystem: Illumination: 1:34:34 hours (1:19 min encoding lightmaps, 5.42 sec encoding shadowmaps)
+[2018.09.29-14.59.06:479][588]LogStaticLightingSystem: Lightmap texture memory:  179.4 MB (178.7 MB streaming, 0.7 MB non-streaming), 188 textures
+[2018.09.29-14.59.06:479][588]LogStaticLightingSystem: Shadowmap texture memory: 123.1 MB (122.8 MB streaming, 0.3 MB non-streaming), 11 textures
+[2018.09.29-14.59.08:626][588]DumpUnbuiltLightIteractions
+[2018.09.29-14.59.08:626][588]Lights with unbuilt interactions: 0
+[2018.09.29-14.59.08:626][588]
+[2018.09.29-14.59.08:626][588]Primitives with unbuilt interactions: 0
+[2018.09.29-14.59.10:282][589]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.29-14.59.10:297][589]MapCheck: New page: roadSideScene - Sep 29, 2018, 6:59:10 PM
+[2018.09.29-14.59.13:139][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,856.8ms to complete.
+[2018.09.29-15.02.15:925][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.29-15.02.17:667][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.29-15.02.17:722][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-15.02.17:896][782]PIE: New page: PIE session: roadSideScene (Sep 29, 2018, 7:02:17 PM)
+[2018.09.29-15.02.17:971][782]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_roadSideScene
+[2018.09.29-15.02.19:472][782]LogPlayLevel: PIE: StaticDuplicateObject took: (1.487333s)
+[2018.09.29-15.02.19:691][782]LogAIModule: Creating AISystem for world roadSideScene
+[2018.09.29-15.02.19:758][782]LogPlayLevel: PIE: World Init took: (0.285397s)
+[2018.09.29-15.02.19:775][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/roadSideScene.roadSideScene to /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene (1.825507s)
+[2018.09.29-15.02.20:472][782]LogInit: XAudio2 using 'Hörlurar (3- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.29-15.02.20:739][782]LogInit: FAudioDevice initialized.
+[2018.09.29-15.02.20:983][782]LogLoad: Game class is 'NewGameMOde_C'
+[2018.09.29-15.02.21:406][782]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_roadSideScene.roadSideScene up for play (max tick rate 0) at 2018.09.29-17.02.21
+[2018.09.29-15.02.21:569][782]LogWorld: Bringing up level for play took: 0.465230
+[2018.09.29-15.02.23:486][782]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.1184 seconds. Added 11 classes and 0 folders.
+[2018.09.29-15.02.23:624][782]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_roadSideScene 6.557
+[2018.09.29-15.02.23:625][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.29-15.02.29:757][987]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.30:183][ 34]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.30:784][102]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.31:213][145]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.31:607][190]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.32:045][240]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.32:440][287]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.33:382][400]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.33:817][452]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.34:216][500]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.35:384][635]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.35:812][683]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.36:218][725]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.36:657][762]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.37:048][796]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.37:488][835]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.37:888][871]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.38:319][910]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.38:722][947]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.39:153][989]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.39:550][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.39:982][ 81]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.40:382][129]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.40:816][181]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.41:217][229]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.41:651][281]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.42:051][326]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.42:484][371]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.42:884][412]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.43:317][457]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.43:722][499]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.44:150][539]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.44:552][577]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.44:981][618]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.45:384][657]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.45:813][698]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.46:216][735]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.46:646][773]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.47:055][809]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.47:482][847]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.47:881][882]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.48:322][921]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.48:716][953]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.49:154][993]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.49:551][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.49:985][ 69]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.50:385][107]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.50:815][148]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.51:213][186]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.51:648][228]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.52:052][270]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.52:480][316]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.52:885][359]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.53:320][406]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.53:713][448]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.54:145][494]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.54:549][534]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.54:981][580]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.55:387][623]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.55:820][666]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.56:217][703]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.56:649][742]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.57:977][858]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.58:403][895]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.58:815][930]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.59:242][966]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.02.59:637][999]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.00:079][ 35]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.00:481][ 68]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.00:907][103]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.01:304][136]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.01:743][172]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.02:143][206]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.02:570][244]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.02:972][281]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.03:405][320]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.03:811][357]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.04:244][397]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.04:638][434]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.05:070][473]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.05:476][509]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.05:904][547]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.06:303][583]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.06:738][623]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.07:142][665]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.07:572][716]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.07:974][764]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.08:408][815]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.08:811][853]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.09:238][890]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.09:647][925]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.10:075][962]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.10:475][993]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.10:909][ 31]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.11:304][ 66]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.11:743][105]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.12:145][141]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.12:571][179]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.12:976][215]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.13:405][252]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.13:808][284]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.14:243][318]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.14:640][349]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.15:071][385]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.15:478][420]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.15:907][458]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.16:310][491]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.16:737][532]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.17:142][572]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.17:578][617]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.17:611][619]LogBlueprintUserMessages: [roadSideScene_C_0] Key found
+[2018.09.29-15.03.17:970][650]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.18:409][697]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.18:811][739]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.19:243][784]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.19:641][825]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.20:075][859]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.20:478][887]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.20:911][915]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.21:313][941]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.21:742][975]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.22:144][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.22:576][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.22:972][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.23:411][146]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.23:804][190]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.24:235][237]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.24:642][280]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.25:070][324]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.25:471][366]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.25:906][413]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.26:310][458]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.26:737][505]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.27:143][549]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.27:575][595]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.27:970][635]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.28:403][678]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.28:809][720]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.29:243][768]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.29:645][813]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.30:075][863]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.30:470][910]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.30:904][962]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.31:304][ 10]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.31:739][ 62]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.32:143][110]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.32:576][153]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.32:978][189]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.33:412][230]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.33:804][269]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.34:239][317]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.34:641][365]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.35:078][404]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.35:477][436]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.35:915][470]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.36:313][501]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.36:746][535]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.37:145][567]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.37:570][606]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.37:977][647]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.38:410][696]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.38:810][744]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.39:243][795]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.39:642][843]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.40:077][895]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.40:476][943]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.40:910][995]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.41:310][ 43]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.41:738][ 93]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.42:141][139]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.42:570][187]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.42:970][235]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.43:403][287]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.43:803][335]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.44:237][387]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.44:646][428]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.45:072][465]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.45:479][497]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.45:909][530]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.46:308][561]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.46:743][595]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.47:145][627]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.47:576][661]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.47:979][694]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.48:407][739]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.48:808][781]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.49:240][824]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.49:637][858]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.50:072][895]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.50:475][932]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.50:911][972]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.51:309][  9]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.51:742][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.52:144][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.52:570][123]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.52:979][160]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.53:404][197]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.53:806][232]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.54:240][270]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.54:644][306]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.55:071][345]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.55:471][383]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.55:905][425]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.56:308][465]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.56:745][513]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.57:145][561]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.57:577][613]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.57:977][661]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.58:410][710]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.58:808][746]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.59:247][786]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.03.59:637][819]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.00:070][853]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.00:482][886]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.00:915][921]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.01:307][953]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.01:740][992]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.02:137][ 39]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.02:572][ 91]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.02:971][139]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.03:405][191]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.03:805][239]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.04:239][291]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.04:639][339]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.05:075][390]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.05:476][435]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.05:903][484]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.06:304][531]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.06:745][580]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.07:145][619]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.07:580][661]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.07:977][700]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.08:411][746]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.09:395][864]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.10:288][971]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.13:537][348]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.13:977][396]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.14:373][443]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.14:775][491]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.15:207][543]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.16:143][651]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_l): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.16:574][703]LogSkinnedMeshComp: Warning: GetSocketByName(middle_01_r): No SkeletalMesh for Component(CharacterMesh0) Actor(FirstPersonCharacter)
+[2018.09.29-15.04.16:620][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
+[2018.09.29-15.04.16:916][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene' with GeneratedClass '/Game/Scenes/roadSideScene.roadSideScene_C' with ClassGeneratedBy '/Game/Scenes/roadSideScene.roadSideScene:PersistentLevel.roadSideScene'
